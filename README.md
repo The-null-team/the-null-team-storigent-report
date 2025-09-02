@@ -42,6 +42,10 @@
             <td style="padding: 8px;">Zagaceta Bardales, Rodrigo Enrique</td>
             <td style="padding: 8px;">U202215489</td>
         </tr>
+                <tr>
+            <td style="padding: 8px;">Meza Tataje, David</td>
+            <td style="padding: 8px;">U202516291</td>
+        </tr>
     </table>
 </div>
 
