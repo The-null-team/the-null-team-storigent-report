@@ -31,6 +31,10 @@
             <td style="padding: 8px;">U202310436</td>
         </tr>
         <tr>
+            <td style="padding: 8px">Palomino Tito, Abraham Joel</td>
+            <td style="padding: 8px">U201821512</td>
+        </tr>
+        <tr>
             <td style="padding: 8px;">Tello Murga, Javier Oswaldo</td>
             <td style="padding: 8px;">u202218387</td>
         </tr>
