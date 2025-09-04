@@ -383,9 +383,35 @@ Este análisis permite establecer comparaciones relevantes y detectar espacios d
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
-Se describen las estrategias y tácticas que Storigent puede implementar
-para posicionarse de manera efectiva frente a sus competidores.
-Se consideran acciones de diferenciación, innovación y comunicación que aporten valor al usuario final.
+En esta sección se presentan las estrategias y tácticas preliminares que
+Storigent aplicará para enfrentar las fortalezas de sus competidores, aprovechar sus debilidades
+y posicionarse en un contexto de oportunidades y amenazas. El objetivo es construir una ventaja
+competitiva sostenible que permita a la startup diferenciarse en el mercado de soluciones digitales
+para la gestión de inventarios.
+
+#### Fortalezas: Enfoque especializado en conservación y trazabilidad
+Gracias a su enfoque en la conservación de productos mediante sensores ambientales y tecnología RFID, Storigent se posiciona como una solución única frente a competidores más generalistas. Esta especialización permite atraer a empresas que manejan productos sensibles, como alimentos, medicinas o tecnología, que requieren condiciones específicas de almacenamiento y transporte.
+
+#### Táctica:
+Aprovechar esta fortaleza para diferenciarse en el mercado, destacando en campañas de marketing el valor agregado de preservar la calidad del producto, algo que los competidores no ofrecen.
+
+#### Debilidades: Startup en etapa temprana sin validación masiva
+Al ser una startup nueva, Storigent aún no cuenta con una base sólida de clientes ni alianzas estratégicas como sus competidores. Esto puede generar dudas en empresas grandes al momento de adoptar la solución.
+
+#### Táctica:
+Realizar pilotos con empresas locales, generar casos de éxito y testimonios que validen la efectividad del producto. Además, buscar alianzas con operadores logísticos y distribuidores para ganar confianza y visibilidad.
+
+#### Oportunidades: Nichos desatendidos y sectores sensibles
+Existen sectores como la logística farmacéutica, agroindustria y tecnología que requieren soluciones específicas para la conservación de productos, pero que no están bien atendidos por los competidores actuales.
+
+#### Táctica:
+Enfocar el desarrollo comercial en estos nichos, creando contenido técnico, guías de cuidado y demostraciones personalizadas que muestren cómo Storigent resuelve problemas reales en estos sectores.
+
+#### Amenazas: Competidores con mayor presencia y capacidad de reacción
+Competidores como Zoho o Katana MRP tienen recursos para adaptar sus productos rápidamente si identifican a Storigent como una amenaza. Esto podría incluir mejoras en trazabilidad o ajustes en precios.
+
+#### Táctica:
+Mantener una estrategia de innovación constante, escuchando activamente a los usuarios y mejorando el producto de forma ágil. Además, aprovechar el tamaño reducido de la startup para moverse con rapidez y flexibilidad frente a los cambios del mercado.
 
 ## 2.2. Entrevistas
 Se presenta el enfoque metodológico utilizado para recolectar información cualitativa
