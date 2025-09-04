@@ -216,10 +216,171 @@ identificando empresas que ofrecen soluciones similares en gestión de inventari
 trazabilidad y conservación de productos. Esta exploración permite entender el contexto del mercado
 y las oportunidades de diferenciación.
 
+#### Sortly
+Sortly es un software de gestión de inventarios diseñado especialmente para pequeñas y medianas empresas.
+Su modelo de negocio se basa en ofrecer una plataforma intuitiva y visual que permite organizar,
+rastrear y controlar inventarios desde cualquier dispositivo. Entre sus funcionalidades destacan el escaneo de
+códigos QR y de barras, la organización personalizada por carpetas y campos, alertas de stock bajo,
+generación de informes en tiempo real y sincronización en la nube.
+<br>
+Sortly se enfoca en la simplicidad y accesibilidad, permitiendo a los usuarios gestionar inventarios sin
+necesidad de conocimientos técnicos avanzados. Su propuesta de valor está orientada a empresas que buscan
+una solución rápida, visual y móvil para mantener el control de sus activos.
+
+#### Katana MRP
+Katana MRP es un software de gestión de manufactura e inventarios enfocado en pequeñas y
+medianas empresas manufactureras. Su modelo de negocio se centra en ofrecer una solución integral
+para la planificación de producción, control de inventarios en tiempo real y automatización de procesos.
+<br>
+Katana se destaca por su capacidad de integración con plataformas de comercio electrónico
+(como Shopify y WooCommerce) y contabilidad (como QuickBooks), lo que permite una gestión fluida desde la
+producción hasta la venta.
+<br>
+Además, ofrece herramientas de análisis y reportes detallados que ayudan a tomar decisiones informadas.
+Su enfoque está dirigido a empresas que necesitan visibilidad total sobre sus operaciones y una solución
+flexible para manejar múltiples canales de venta y producción.
+
+#### Zoho Inventory
+Zoho Inventory es parte de la suite empresarial de Zoho Corporation y está orientado a pequeñas y medianas empresas
+que buscan optimizar sus operaciones de inventario y ventas. Su modelo de negocio se basa en ofrecer una
+solución asequible, escalable y altamente integrable con otras herramientas de Zoho (como Zoho Books y Zoho CRM),
+así como con plataformas de comercio electrónico como Amazon, eBay y Shopify.
+<br>
+Entre sus funcionalidades destacan la gestión de pedidos, control de inventario en múltiples almacenes,
+automatización de flujos de trabajo, generación de informes detallados y gestión de envíos. Zoho Inventory se
+posiciona como una solución completa para empresas que operan en entornos multicanal y requieren eficiencia
+operativa y precisión en el seguimiento de productos.
+
 ### 2.1.1. Análisis competitivo
 Se realiza una evaluación detallada de los principales competidores,
 considerando sus características, propuestas de valor, fortalezas y debilidades.
 Este análisis permite establecer comparaciones relevantes y detectar espacios donde Storigent puede destacar.
+
+<table>
+    <tr>
+        <td colspan="6" class="section-title">
+            <h3>Competitive Analysis Landscape</h3>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+            ¿Por qué llevar a cabo este análisis?
+        </td>
+        <td colspan="4">
+            Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4">
+            ¿Cómo se posiciona Storigent frente a sus competidores en términos de características, 
+            propuesta de valor y estrategias de mercado?
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
+         <td align="center">Storigent
+            <div style="text-align: center; margin-top: 10px;">
+                <img src="static/img/chapter 2/img-logo-storigent.png" alt="Logo Storigent" style="width: 45px;"></img>
+            </div>
+        </td>
+        <td align="center">Sortly
+            <div style="text-align: center; margin-top: 10px;">
+                <img src="static/img/chapter 2/img-logo-sortly.png" alt="Logo Sortly" style="width: 60px;"></img>
+            </div>
+        </td>
+        <td align="center">Katana MRP
+            <div style="text-align: center; margin-top: 10px;">
+                <img src="static/img/chapter 2/img-logo-katana.png" alt="Logo Katana MRP" style="width: 60px;"></img>
+            </div>
+        </td>
+        <td align="center">Zoho Inventory
+            <div style="text-align: center; margin-top: 10px;">
+                <img src="static/img/chapter 2/img-logo-zoho.png" alt="Logo Zoho Inventory" style="width: 60px;"></img>
+            </div>
+        </td>
+    </tr>
+    <tr>
+       <td align="center" rowspan="2">Perfil</td>
+        <td>Overview</td>
+        <td rowspan="1">Storigent es un software de gestión y conservación de inventarios que incorpora trazabilidad en transporte y monitoreo climatológico.</td>
+        <td rowspan="1">Sortly es una solución de gestión de inventarios visual y sencilla, diseñada para pequeñas empresas que necesitan controlar activos sin complicaciones técnicas.</td>
+        <td rowspan="1">Katana MRP es un software de manufactura y gestión de inventarios basado en la nube, enfocado en empresas productoras.</td>
+        <td rowspan="1">Zoho Inventory es parte de la suite Zoho, ofreciendo una solución integral para la gestión de inventarios y pedidos multicanal.</td>
+    </tr>
+    <tr>
+        <td colspan="1">Ventaja Competitiva ¿Qué valor ofreces a los clientes?</td>
+        <td rowspan="1">Uso de tecnología RFID, sensores ambientales, guías de cuidado de productos y trazabilidad entre almacenes.</td>
+        <td rowspan="1">Ofrece una interfaz intuitiva, escaneo de códigos QR/barra, organización por carpetas y sincronización en la nube.</td>
+        <td rowspan="1">Integración con plataformas de e-commerce y contabilidad, planificación de producción en tiempo real.</td>
+        <td rowspan="1">Integración con Zoho CRM, Books, y plataformas como Amazon, eBay, Shopify.</td>
+    </tr>
+    <tr>
+       <td align="center" rowspan="2">Perfil de Marketing</td>
+        <td>Mercado Objetivo</td>
+        <td rowspan="1">Empresas pequeñas, grandes y emprendedores que manejan productos sensibles o de alto valor.</td>
+        <td rowspan="1">PYMEs, negocios de retail, construcción, salud, educación y eventos.</td>
+        <td rowspan="1">Pequeñas y medianas empresas manufactureras, especialmente con producción bajo demanda.</td>
+        <td rowspan="1">PYMEs con operaciones multicanal, e-commerce, retail.</td>
+    </tr>
+    <tr>
+        <td colspan="1">Estrategias de Marketing</td>
+        <td rowspan="1">Enfoque en diferenciación por conservación, alianzas con operadores logísticos, contenido técnico, demostraciones personalizadas.</td>
+        <td rowspan="1">Prueba gratuita de 14 días, campañas de email marketing, presencia en marketplaces de software y contenido educativo.</td>
+        <td rowspan="1">Casos de éxito, demostraciones gratuitas, contenido técnico y educativo, presencia en ferias de tecnología.</td>
+        <td rowspan="1">Ecosistema Zoho, demostraciones gratuitas, marketing de contenido, alianzas con plataformas de venta.</td>
+    </tr>
+    <tr>
+       <td align="center" rowspan="3">Productos & Servicios</td>
+        <td>Productos & Servicios</td>
+        <td rowspan="1">Plataforma web con módulos de gestión de inventario, trazabilidad, monitoreo climático, notificaciones inteligentes.</td>
+        <td rowspan="1">Aplicación web y móvil para gestión de inventarios, seguimiento de activos, reportes personalizados.</td>
+        <td rowspan="1">Gestión de inventario, planificación de producción, integración con Shopify, WooCommerce, QuickBooks.</td>
+        <td rowspan="1">Gestión de pedidos, inventario en múltiples almacenes, automatización de flujos, informes detallados.</td>
+    </tr>
+    <tr>
+        <td colspan="1">Precios & Costos</td>
+        <td rowspan="1">Planes desde $29/mes según tamaño de empresa y número de almacenes.</td>
+        <td rowspan="1">Planes desde $29/mes hasta $99/mes según funcionalidades y número de usuarios.</td>
+        <td rowspan="1">Planes desde $99/mes, con opciones personalizadas para empresas más grandes.</td>
+        <td rowspan="1">Planes desde gratuitos hasta $249/mes según volumen y funcionalidades.</td>
+    </tr>
+    <tr>
+        <td colspan="1">Canales de Distribución (Web y/o Móvil)</td>
+        <td rowspan="1">Web y aplicaciones móviles (iOS y Android).</td>
+        <td rowspan="1">Web y aplicaciones móviles (iOS y Android).</td>
+        <td rowspan="1">Web, integración con plataformas externas.</td>
+        <td rowspan="1">Web, aplicaciones móviles, integraciones con marketplaces.</td>
+    </tr>
+    <tr>
+       <td align="center" rowspan="4">Análisis SWOT</td>
+        <td>Fortalezas</td>
+        <td rowspan="1">Enfoque único en conservación, trazabilidad y tecnología ambiental.</td>
+        <td rowspan="1">Facilidad de uso, interfaz visual, accesibilidad móvil.</td>
+        <td rowspan="1">Integración fluida, enfoque en manufactura, visibilidad total.</td>
+        <td rowspan="1">Ecosistema integrado, escalabilidad, automatización.</td>
+    </tr>
+    <tr>
+        <td colspan="1">Debilidades</td>
+        <td rowspan="1">Startup en etapa temprana, necesidad de validación en el mercado.</td>
+        <td rowspan="1">Limitaciones en trazabilidad y monitoreo ambiental.</td>
+        <td rowspan="1">No enfocado en conservación ni trazabilidad ambiental.</td>
+        <td rowspan="1">Generalista, sin enfoque en conservación ni trazabilidad ambiental.</td>
+    </tr>
+    <tr>
+        <td colspan="1">Oportunidades</td>
+        <td rowspan="1">Nichos desatendidos por competidores, alianzas con sectores logísticos y farmacéuticos.</td>
+        <td rowspan="1">Expansión hacia empresas medianas, integración con más plataformas.</td>
+        <td rowspan="1">Expansión hacia retail y distribución.</td>
+        <td rowspan="1">Penetración en mercados emergentes.</td>
+    </tr>
+    <tr>
+        <td colspan="1">Amenazas</td>
+        <td rowspan="1">Competidores con mayor presencia y recursos.</td>
+        <td rowspan="1">Competencia con soluciones más robustas y especializadas.</td>
+        <td rowspan="1">Competencia con ERPs más completos.</td>
+        <td rowspan="1">Saturación del mercado de soluciones similares.</td>
+    </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 Se describen las estrategias y tácticas que Storigent puede implementar
