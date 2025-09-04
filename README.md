@@ -211,19 +211,75 @@
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+Se presenta un análisis del entorno competitivo en el que se desarrollará Storigent,
+identificando empresas que ofrecen soluciones similares en gestión de inventarios,
+trazabilidad y conservación de productos. Esta exploración permite entender el contexto del mercado
+y las oportunidades de diferenciación.
+
 ### 2.1.1. Análisis competitivo
+Se realiza una evaluación detallada de los principales competidores,
+considerando sus características, propuestas de valor, fortalezas y debilidades.
+Este análisis permite establecer comparaciones relevantes y detectar espacios donde Storigent puede destacar.
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+Se describen las estrategias y tácticas que Storigent puede implementar
+para posicionarse de manera efectiva frente a sus competidores.
+Se consideran acciones de diferenciación, innovación y comunicación que aporten valor al usuario final.
+
 ## 2.2. Entrevistas
+Se presenta el enfoque metodológico utilizado para recolectar información cualitativa
+a través de entrevistas a usuarios potenciales. El objetivo es comprender sus necesidades,
+comportamientos, frustraciones y expectativas frente a soluciones como Storigent.
+
 ### 2.2.1. Diseño de entrevistas
+Se presenta el diseño estructurado de las entrevistas, incluyendo preguntas principales y complementarias
+para cada segmento (empresas y emprendedores). Las preguntas están orientadas a recolectar información demográfica,
+tecnológica, emocional y funcional, necesaria para el desarrollo de arquetipos y la validación del producto.
+
 ### 2.2.2. Registro de entrevistas
+Se documenta la información obtenida durante las entrevistas, incluyendo los perfiles de los participantes,
+sus respuestas más relevantes y observaciones que aportan valor al análisis posterior.
+Este registro permite tener una base sólida para la interpretación de resultados.
+
 ### 2.2.3. Análisis de entrevistas
+Se analiza la información recopilada en las entrevistas, identificando patrones comunes, insights clave
+y necesidades recurrentes. Este análisis contribuye a la construcción de arquetipos y a la definición de
+funcionalidades relevantes para el producto.
+
 ## 2.3. Needfinding
+Se describe el proceso de identificación profunda de necesidades reales de los usuarios,
+utilizando herramientas de diseño centrado en el usuario. Este proceso permite comprender mejor sus motivaciones,
+frustraciones y objetivos, más allá de lo evidente.
+
 ### 2.3.1. User Personas
+Se presentan perfiles representativos de los usuarios objetivo, construidos a partir de los datos obtenidos
+en entrevistas. Estos perfiles incluyen información demográfica, comportamientos, objetivos, frustraciones y
+preferencias tecnológicas, y sirven como guía para el diseño del producto.
+
 ### 2.3.2. User Task Matrix
+Se organiza la información sobre las tareas clave que los usuarios realizan en relación con la gestión
+de inventarios, vinculándolas con sus objetivos y necesidades. Esta matriz permite identificar oportunidades
+de mejora en la experiencia del usuario.
+
 ### 2.3.3. User Journey Mapping
+Se visualiza el recorrido del usuario al interactuar con el producto, identificando momentos críticos,
+emociones, puntos de dolor y oportunidades de mejora. Este mapeo ayuda a entender la experiencia completa
+del usuario y a diseñar soluciones más efectivas.
+
 ### 2.3.4. Empathy Mapping
+Se representa gráficamente lo que el usuario piensa, siente, dice y hace, con el objetivo
+de comprender su experiencia desde una perspectiva más humana y empática. Esta herramienta permite
+profundizar en la dimensión emocional del usuario.
+
 ## 2.4. Big Picture EventStorming
+Se realiza una exploración colaborativa de los eventos clave dentro del sistema,
+permitiendo entender el flujo general de procesos y detectar áreas críticas para el diseño funcional
+de Storigent. Esta técnica facilita la alineación entre el equipo y la visión del producto.
+
 ## 2.5. Ubiquitous Language
+Se define un lenguaje común entre todos los actores del proyecto, que facilite la comunicación clara
+y coherente durante el desarrollo de Storigent. Este lenguaje compartido evita ambigüedades y asegura
+que todos los involucrados comprendan los conceptos clave de forma unificada.
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
