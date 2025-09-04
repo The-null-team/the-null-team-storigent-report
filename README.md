@@ -236,6 +236,46 @@ Se presenta el diseño estructurado de las entrevistas, incluyendo preguntas pri
 para cada segmento (empresas y emprendedores). Las preguntas están orientadas a recolectar información demográfica,
 tecnológica, emocional y funcional, necesaria para el desarrollo de arquetipos y la validación del producto.
 
+#### Segmento Objetivo 1: Empresas
+- Nombre completo
+- Edad
+- Distrito de residencia
+- Estado civil
+- Profesión / Cargo
+- Nombre y rubro de la empresa
+- ¿Cómo gestionan actualmente sus inventarios?
+- ¿Qué tipo de productos almacenan y transportan?
+- ¿Han tenido problemas con la conservación o transporte de productos?
+- ¿Qué tecnologías usan actualmente (RFID, sensores, software)?
+- ¿Qué dispositivos usan con mayor frecuencia en su trabajo diario?
+- ¿Qué canales digitales utilizan para gestionar sus operaciones logísticas?
+- ¿Qué habilidades considera clave en su equipo para manejar inventarios?
+- ¿Qué frustraciones han tenido con sistemas anteriores?
+- ¿Qué tipo de notificaciones les serían útiles para el control de inventario?
+- ¿Qué funcionalidades les gustaría tener en un software de gestión de inventarios?
+- ¿Qué marcas o softwares han utilizado anteriormente?
+- ¿Qué objetivos tienen respecto a la optimización de sus almacenes?
+- ¿Estarían dispuestos a probar una solución como Storigent? ¿Por qué?
+
+#### Segmento Objetivo 2: Emprendedores
+- Nombre completo
+- Edad
+- Distrito de residencia
+- Estado civil
+- Profesión / Tipo de emprendimiento
+- ¿Cómo gestionas actualmente tus productos e inventario?
+- ¿Qué dificultades enfrentas al conservar o transportar tus productos?
+- ¿Qué herramientas digitales usas para tu negocio?
+- ¿Qué dispositivos usas para gestionar tu emprendimiento?
+- ¿Qué canales digitales usas para interactuar con clientes o proveedores?
+- ¿Qué habilidades consideras que te faltan para mejorar la gestión de tu inventario?
+- ¿Qué frustraciones has tenido al manejar tus productos?
+- ¿Qué tipo de información te gustaría recibir sobre tus productos en tránsito?
+- ¿Qué funcionalidades te gustaría que tenga un software como Storigent?
+- ¿Qué marcas o soluciones similares conoces o has usado?
+- ¿Qué objetivos tienes para escalar tu negocio?
+- ¿Estarías dispuesto a usar una solución como esta? ¿Por qué?
+
 ### 2.2.2. Registro de entrevistas
 Se documenta la información obtenida durante las entrevistas, incluyendo los perfiles de los participantes,
 sus respuestas más relevantes y observaciones que aportan valor al análisis posterior.
