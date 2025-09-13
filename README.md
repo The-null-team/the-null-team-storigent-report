@@ -203,7 +203,7 @@ Storigent es una startup tecnológica enfocada en optimizar la gestión de inven
 El objetivo de Storigent es brindar a las empresas una solución integral y fácil de usar que aumente la eficiencia gestion de productos, reduzca costos asociados a mermas y mejore la toma de decisiones estratégicas mediante reportes y análisis avanzados. Con una interfaz intuitiva y adaptable a distintos sectores como alimentos, farmacéutica, retail o manufactura. Storigent busca convertirse en un aliado clave para la digitalización de la logística interna, asegurando la calidad de los productos desde su recepción hasta su distribución.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| Integrante | Foto     |  lo que aporta al equipo    |
+| Integrante | Foto     |  Perfil de estudiante    |
 |:------------|:----------:|-----------:|
 |   |  |   |
 |   |  |   |
@@ -213,6 +213,41 @@ El objetivo de Storigent es brindar a las empresas una solución integral y fác
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+Para identificar las principales dificultades en la gestión y conservación de productos almacenados, es necesario analizar los principales desafíos con respecto a la pérdida de recursos, la falta de control y/o irregularidades que pueden presentar sistemas modernos que logran afectar la calidad y disponibilidad de los productos.
+
+#Análisis de Antecedentes y Problemática (5W + 2H)
+
+#Who (Quiénes):
+Personas, instituciones o entidades que que necesitan gestionar y almacenar de manera adecuada sus productos, los cuales pueden tener diferente naturaleza (alimentos, artículos de consumo, materiales, insumos, etc.) y cada uno con su respectiva medida de conservación.
+
+#What (Qué):
+La dificultad de contar con un control eficiente del inventario y con una conservación adecuada que evite el deterioro, la caducidad o la pérdida de productos afectando su negocio de manera significativa.
+
+#Where (Dónde):
+En cualquier lugar de negocio que cuente con un almacenamiento de productos y manejo un inventario, ya sea desde pequeños depósitos, almacenes domésticos o comunitarios, hasta grandes empresas de mayor gestión.
+
+#When (Cuándo):
+El problema surge de forma constante durante la gestión cotidiana del almacenamiento, pero se intensifica en momentos de alta rotación, acumulación de stock o falta de monitoreo en tiempo real al realizar operaciones de inventarios.
+
+#Why (Por qué):
+
+-Procesos de control manual poco fiables.
+
+-Falta de seguimiento a las condiciones ambientales de conservación.
+
+-Ausencia o ineficiencia de trazabilidad en los productos.
+
+-Limitada información en tiempo real para tomar decisiones.
+
+#How (Cómo):
+Esto ocasiona pérdidas por caducidad, desperdicio de recursos, desorganización del espacio y mayores dificultades para dar seguimiento al flujo de productos.
+
+#How Much (Cuánto):
+
+Se estima que entre un 5% y 15% de los productos almacenados pueden perderse por deterioro o caducidad sin una gestión adecuada. Esto genera impacto económico, social y ambiental, pues aumenta el desperdicio y reduce la eficiencia en el uso de recursos.
+
+
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions.
