@@ -244,7 +244,7 @@ Esto ocasiona pérdidas por caducidad, desperdicio de recursos, desorganización
 
 #How Much (Cuánto):
 
-Se estima que entre un 5% y 15% de los productos almacenados pueden perderse por deterioro o caducidad sin una gestión adecuada. Esto genera impacto económico, social y ambiental, pues aumenta el desperdicio y reduce la eficiencia en el uso de recursos.
+Se estima que entre un 5% y 15% de los productos almacenados pueden perderse por deterioro o caducidad sin una gestión adecuada. Esto genera impacto económico, social y ambiental, pues aumenta el desperdicio y reduce la eficiencia en el uso de recursos. 
 
 
 
