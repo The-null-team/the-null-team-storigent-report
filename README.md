@@ -345,6 +345,18 @@
 | US-36    | Exportación de Datos          |
 
 
+### Epic 07: Landing Page
+
+| Story ID | Título                                           |
+|----------|--------------------------------------------------|
+| US-37    | Sección principal (Hero) con llamada a la acción |
+| US-38    | Beneficios para cada tipo de usuario             |
+| US-39    | Planes y precios básicos                         |
+| US-40    | Formulario de contacto o demo                    |
+| US-41    | Preguntas frecuentes y testimonios               |
+| US-42    | Diseño adaptable y optimizado                    |
+
+
 ## 3.2. Impact Mapping
 
 ### Un objetivo de 15% en un piloto de 12 empresas (con onboarding y sensores) es ambicioso pero alcanzable si se automatizan registros, alertas y acciones de rotación.
