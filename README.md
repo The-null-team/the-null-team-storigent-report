@@ -432,6 +432,11 @@ En esta sección se presentan los avances en la implementación de la solución,
 </div>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En el primer sprint, logramos desarrollar parcialmente la implementación del despliegue del landing page. Donde se muestra las diferentes divisiones que el usuario podrá visualizar como lo sería la información sobre el startup y nuestro producto. A continuación mostramos algunas evidencias:
+
+_Aquí van screenshots de las diferentes sacciones o vistas de la landing page_
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
