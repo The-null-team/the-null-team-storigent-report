@@ -289,7 +289,7 @@
         </tr>
         <tr>
             <th>Attendees (to planning meeting)</th>
-            <td>Calixto Iriarte, David Alejandro; Cespedes Pillco, Jarod Jack; Checa Burga, Oscar Diego; Palomino Murga, Daniel Stalin; Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Calixto Iriarte, David Alejandro; Céspedes Pillco, Jarod Jack; Espinar Martinez, Gabriel Ferran; Palomino Tito, Abraham Joel; Tello Murga, Gabriel Oswaldo; Zagaceta Bardales, Rodrigo Enrique; Meza Tataje, David</td>
         </tr>
         <tr>
             <th>Sprint n - 1 Review Summary</th>
