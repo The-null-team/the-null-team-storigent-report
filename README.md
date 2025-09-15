@@ -450,3 +450,45 @@ A continuación mostraremos capturas de la landing page desplegada:
 _Aquí las fotos de la landing page desplegada_
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del Sprint, cada miembro del equipo participó activamente en la implementación de la Landing Page, dividiéndose por secciones según el diseño y el contenido definido previamente.
+
+A continuación, se detalla la participación específica de cada integrante del equipo:
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Actividades</th>
+        </tr>
+        <tr>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Checa Burga, Oscar Diego</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Palomino Murga, Daniel Stalin</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+**Evidencia de Colaboración en GitHub**   
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
+
+_Aquí una foto de las estadísticas de commits de cada integrante_
+
+**Repositorio de Trabajo:** Link del repositorio
+
+Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
