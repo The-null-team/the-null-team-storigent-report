@@ -261,6 +261,62 @@
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Sprint #</th>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>2025-08-30</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>05:30 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual a través de Google Meet</td>
+        </tr>
+        <tr>
+            <th>Prepared by</th>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Calixto Iriarte, David Alejandro; Cespedes Pillco, Jarod Jack; Checa Burga, Oscar Diego; Palomino Murga, Daniel Stalin; Zagaceta Bardales, Rodrigo Enrique</td>
+        </tr>
+        <tr>
+            <th>Sprint n - 1 Review Summary</th>
+            <td>No existe sprint previo</td>
+        </tr>
+        <tr>
+            <th>Sprint n - 1 Retrospective Summary</th>
+            <td>No existe sprint previo</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 1 Goal</th>
+            <td>Our focues is on deploying the first version of our landing page. We believe it delivers satisfaction and confidence to our team and future users. This will be confirmed when all the members of the team and a end-users navigates our landing page without any issues.</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>XX Story Points</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>XX Story Points</td>
+        </tr>
+    </table>
+</div>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
