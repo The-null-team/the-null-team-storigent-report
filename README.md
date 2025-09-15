@@ -444,4 +444,9 @@ Durante este Sprint no se desarrollaron ni documentaron Web Services, dado que e
 La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+A continuación mostraremos capturas de la landing page desplegada:
+
+_Aquí las fotos de la landing page desplegada_
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
