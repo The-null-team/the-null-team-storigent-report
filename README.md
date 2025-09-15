@@ -345,15 +345,29 @@ En este sprint se busca completar la landing page de Storigent, incluyendo el di
             <td>C</td>
         </tr>
         <tr>
-            <td>Checa Burga, Oscar Diego</td>
-            <td>OscarCheca</td>
+            <td>Espinar Matínez, Gabriel Ferran</td>
+            <td>zzZero14</td>
             <td>C</td>
             <td>C</td>
             <td>C</td>
         </tr>
         <tr>
-            <td>Palomino Murga, Daniel Stalin</td>
-            <td>DanielPM23</td>
+            <td>Meza Tataje, David</td>
+            <td>de1vi</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>Palomino Tito, Abraham Joel</td>
+            <td>AbrahamJPalominoT</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>JavierTello20</td>
             <td>C</td>
             <td>C</td>
             <td>C</td>
