@@ -227,6 +227,47 @@
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-----------------|--------|-------------|--------------------------|----------------------------|
+| US-01 | Registro de Usuario | Como emprendedor, quiero registrarme en la aplicación para gestionar mis inventarios. | Escenario 1: Given un visitante accede al registro, when completa los datos correctamente, then se crea la cuenta. <br> Escenario 2: Given un visitante ingresa datos inválidos, when intenta registrarse, then el sistema muestra un error. | EP-01 |
+| US-02 | Inicio de Sesión | Como usuario, quiero iniciar sesión con mis credenciales para acceder a mi cuenta. | Escenario 1: Given un usuario registrado, when ingresa credenciales correctas, then accede al sistema. <br> Escenario 2: Given un usuario ingresa datos inválidos, when intenta iniciar, then el sistema muestra error. | EP-01 |
+| US-03 | Recuperación de Contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvidarla. | Escenario 1: Given un usuario registrado, when solicita recuperar, then el sistema envía un enlace al correo. <br> Escenario 2: Given un usuario ingresa correo inválido, when solicita recuperar, then el sistema muestra error. | EP-01 |
+| US-04 | Gestión de Perfil | Como usuario, quiero actualizar mis datos de perfil. | Escenario 1: Given un usuario accede a perfil, when modifica datos válidos, then el sistema guarda cambios. <br> Escenario 2: Given un usuario ingresa datos inválidos, when intenta guardar, then el sistema rechaza los cambios. | EP-01 |
+| US-05 | Roles de Usuario | Como administrador, quiero asignar roles para controlar permisos. | Escenario 1: Given un admin selecciona un usuario, when asigna rol válido, then el sistema actualiza permisos. <br> Escenario 2: Given un admin asigna un rol inválido, when intenta guardar, then el sistema muestra error. | EP-01 |
+| US-06 | Cierre de Sesión | Como usuario, quiero cerrar sesión de manera segura. | Escenario 1: Given un usuario está logueado, when selecciona cerrar sesión, then el sistema termina su sesión. | EP-01 |
+| US-07 | Registro de Producto | Como emprendedor, quiero registrar productos en el inventario. | Escenario 1: Given un usuario logueado, when ingresa datos válidos de producto, then el sistema los guarda. <br> Escenario 2: Given datos incompletos, when intenta guardar, then el sistema muestra error. | EP-02 |
+| US-08 | Actualización de Stock | Como usuario, quiero actualizar la cantidad de productos en inventario. | Escenario 1: Given un producto registrado, when se modifica stock, then el sistema actualiza. | EP-02 |
+| US-09 | Eliminación de Producto | Como usuario, quiero eliminar productos obsoletos. | Escenario 1: Given un producto existe, when se elimina, then desaparece del inventario. <br> Escenario 2: Given un producto no existe, when se intenta eliminar, then el sistema muestra error. | EP-02 |
+| US-10 | Categorización de Productos | Como usuario, quiero categorizar productos para organizarlos mejor. | Escenario 1: Given un usuario ingresa categoría, when asigna productos, then el sistema los agrupa. | EP-02 |
+| US-11 | Búsqueda de Productos | Como usuario, quiero buscar productos rápidamente. | Escenario 1: Given un usuario ingresa un término, when busca, then el sistema muestra coincidencias. | EP-02 |
+| US-12 | Historial de Movimientos de Inventario | Como usuario, quiero ver historial de entradas y salidas. | Escenario 1: Given un usuario accede a un producto, when revisa historial, then el sistema muestra movimientos. | EP-02 |
+| US-13 | Lectura de Sensores | Como usuario, quiero visualizar datos de sensores ambientales. | Escenario 1: Given sensores están conectados, when usuario accede a monitoreo, then se muestran datos en tiempo real. | EP-03 |
+| US-14 | Alertas de Temperatura | Como usuario, quiero recibir alertas cuando la temperatura sea anómala. | Escenario 1: Given un sensor detecta variación, when excede umbral, then el sistema envía alerta. | EP-03 |
+| US-15 | Alertas de Humedad | Como usuario, quiero recibir alertas por humedad fuera de rango. | Escenario 1: Given un sensor detecta variación, when excede umbral, then el sistema envía alerta. | EP-03 |
+| US-16 | Reportes Ambientales | Como usuario, quiero obtener reportes de condiciones ambientales. | Escenario 1: Given datos históricos existen, when usuario solicita reporte, then el sistema genera PDF/Excel. | EP-03 |
+| US-17 | Integración con RFID | Como empresa, quiero que los sensores RFID registren condiciones automáticamente. | Escenario 1: Given producto con RFID, when se registra en inventario, then se asocian datos ambientales. | EP-03 |
+| US-18 | Notificaciones de Sensor Inactivo | Como usuario, quiero recibir alerta si un sensor deja de transmitir. | Escenario 1: Given un sensor no transmite, when se detecta inactividad, then el sistema alerta. | EP-03 |
+| US-19 | Registro de Entradas | Como usuario, quiero registrar entradas de productos. | Escenario 1: Given llega un lote, when se ingresa al sistema, then se almacena como entrada. | EP-04 |
+| US-20 | Registro de Salidas | Como usuario, quiero registrar salidas de productos. | Escenario 1: Given un lote se despacha, when se marca salida, then el sistema lo registra. | EP-04 |
+| US-21 | Transferencia entre Almacenes | Como empresa, quiero registrar transferencias entre almacenes. | Escenario 1: Given un producto se transfiere, when se selecciona almacén destino, then se registra. | EP-04 |
+| US-22 | Tracking de Transporte | Como usuario, quiero seguir el transporte de mis productos. | Escenario 1: Given un producto en traslado, when usuario consulta, then sistema muestra ubicación GPS. | EP-04 |
+| US-23 | Alertas de Retraso | Como usuario, quiero recibir alertas de retraso en transporte. | Escenario 1: Given transporte excede tiempo estimado, when se detecta retraso, then sistema notifica. | EP-04 |
+| US-24 | Historial de Trazabilidad | Como usuario, quiero ver historial de movimientos de producto. | Escenario 1: Given un producto existe, when se consulta trazabilidad, then sistema muestra recorrido. | EP-04 |
+| US-25 | Alertas de Stock Bajo | Como usuario, quiero recibir alertas cuando stock esté por agotarse. | Escenario 1: Given stock bajo umbral, when sistema lo detecta, then se notifica al usuario. | EP-05 |
+| US-26 | Alertas de Exceso de Stock | Como usuario, quiero recibir alertas cuando stock esté en exceso. | Escenario 1: Given stock supera límite, when sistema lo detecta, then se notifica al usuario. | EP-05 |
+| US-27 | Notificación de Caducidad | Como usuario, quiero alertas sobre productos próximos a caducar. | Escenario 1: Given un producto tiene fecha próxima, when sistema detecta, then se genera alerta. | EP-05 |
+| US-28 | Alertas de Fallo de Sensor | Como usuario, quiero alertas cuando un sensor falla. | Escenario 1: Given sensor desconectado, when sistema detecta, then alerta al usuario. | EP-05 |
+| US-29 | Notificaciones Personalizadas | Como usuario, quiero configurar notificaciones según mis necesidades. | Escenario 1: Given usuario configura alertas, when condiciones se cumplen, then sistema envía aviso. | EP-05 |
+| US-30 | Dashboard de Notificaciones | Como usuario, quiero ver todas mis notificaciones en un panel. | Escenario 1: Given usuario accede a panel, when consulta, then sistema lista notificaciones. | EP-05 |
+| US-31 | Reporte de Inventario General | Como usuario, quiero obtener un reporte consolidado de inventario. | Escenario 1: Given usuario solicita reporte, when sistema procesa, then genera PDF/Excel. | EP-06 |
+| US-32 | Reporte de Pérdidas | Como usuario, quiero reportes de pérdidas de inventario. | Escenario 1: Given existen datos de pérdidas, when usuario solicita, then se genera reporte. | EP-06 |
+| US-33 | Reporte de Movimientos | Como usuario, quiero reportes detallados de movimientos de stock. | Escenario 1: Given datos de movimientos existen, when usuario solicita, then se genera reporte. | EP-06 |
+| US-34 | Análisis Predictivo de Stock | Como empresa, quiero análisis predictivo para optimizar compras. | Escenario 1: Given datos históricos existen, when sistema analiza, then recomienda reabastecimiento. | EP-06 |
+| US-35 | Visualización de Indicadores | Como usuario, quiero ver métricas clave en gráficos. | Escenario 1: Given usuario accede a dashboard, when consulta, then sistema muestra indicadores. | EP-06 |
+| US-36 | Exportación de Datos | Como usuario, quiero exportar datos a CSV/Excel. | Escenario 1: Given usuario solicita exportar, when sistema procesa, then descarga archivo. | EP-06 |
+
+
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
 
