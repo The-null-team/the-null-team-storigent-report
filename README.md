@@ -340,6 +340,13 @@
 
 
 ## 3.2. Impact Mapping
+
+### Un objetivo de 15% en un piloto de 12 empresas (con onboarding y sensores) es ambicioso pero alcanzable si se automatizan registros, alertas y acciones de rotación.
+![Impact Mapping](./static/img/chapter-3/impact-mapping-emprendedor.jpg)
+
+### El público emprendedor en ciudades principales suele adoptar soluciones simples si aportan ahorro directo. 120 registros en 6 meses con una campaña de captación y prueba piloto es alcanzable.
+![Impact Mapping](./static/img/chapter-3/impact-mapping-empresa.jpg)
+
 ## 3.3. Product Backlog
 
 # Capítulo IV: Product Design
