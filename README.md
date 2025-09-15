@@ -369,6 +369,45 @@ En este sprint se busca completar la landing page de Storigent, incluyendo el di
 </div>
 
 #### 5.2.1.3. Sprint Backlog 1
+
+El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page funcional para el proyecto Storigent. A continuación se muestra una captura de pantalla de las historias de usuario que se buscan trabajar en este sprint.
+
+_Aquí iría la screenshot de la página de Miro o Trello_   
+Link: _Aquí va el link_
+
+<div align="center">
+    <table>
+        <tr>
+            <th colspan="1">Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">Work-Item / Task</th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status (To-Do / In-Process / To-Review / Done)</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
