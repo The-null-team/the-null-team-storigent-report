@@ -318,6 +318,56 @@
 </div>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+En este sprint se busca completar la landing page de Storigent, incluyendo el diseño y su despliegue. Para lograr una correcta comunicación, se ha creado la matriz de liderazgo y colaboración (LACX), en la cual se define quien lidera y quien colabora en cada aspecto del sprint.
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Team Member (Last Name, First Name)</th>
+            <th>Github Username</th>
+            <th>Aspect Name 1 Leader (L) / Collaborator (C)</th>
+            <th>Aspect Name 2 Leader (L) / Collaborator (C)</th>
+            <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
+        </tr>
+        <tr>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>DavidCalixto99</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td>PruebaJJC</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>Checa Burga, Oscar Diego</td>
+            <td>OscarCheca</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>Palomino Murga, Daniel Stalin</td>
+            <td>DanielPM23</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Rodrigo290205</td>
+            <td>C</td>
+            <td>C</td>
+            <td>C</td>
+        </tr>
+    </table>
+</div>
+
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
