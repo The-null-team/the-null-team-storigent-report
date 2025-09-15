@@ -484,11 +484,19 @@ A continuación, se detalla la participación específica de cada integrante del
             <td></td>
         </tr>
         <tr>
-            <td>Checa Burga, Oscar Diego</td>
+            <td>Espinar Martínez, Gabriel Ferran</td>
             <td></td>
         </tr>
         <tr>
-            <td>Palomino Murga, Daniel Stalin</td>
+            <td>Meza Tataje, David</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Palomino Tito, Abraham Joel</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Tello Murga, Javier Oswaldo</td>
             <td></td>
         </tr>
         <tr>
