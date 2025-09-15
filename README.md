@@ -267,6 +267,77 @@
 | US-35 | Visualización de Indicadores | Como usuario, quiero ver métricas clave en gráficos. | Escenario 1: Given usuario accede a dashboard, when consulta, then sistema muestra indicadores. | EP-06 |
 | US-36 | Exportación de Datos | Como usuario, quiero exportar datos a CSV/Excel. | Escenario 1: Given usuario solicita exportar, when sistema procesa, then descarga archivo. | EP-06 |
 
+### Epic 01: Creación y Gestión de Cuenta
+
+| Story ID | Título                     |
+|----------|----------------------------|
+| US-01    | Registro de Usuario        |
+| US-02    | Inicio de Sesión           |
+| US-03    | Recuperación de Contraseña |
+| US-04    | Gestión de Perfil          |
+| US-05    | Roles de Usuario           |
+| US-06    | Cierre de Sesión           |
+
+
+### Epic 02: Gestión de Inventario en Tiempo Real
+
+| Story ID | Título                                 |
+|----------|----------------------------------------|
+| US-07    | Registro de Producto                   |
+| US-08    | Actualización de Stock                 |
+| US-09    | Eliminación de Producto                |
+| US-10    | Categorización de Productos            |
+| US-11    | Búsqueda de Productos                  |
+| US-12    | Historial de Movimientos de Inventario |
+
+
+### Epic 03: Monitoreo de Condiciones Ambientales
+
+| Story ID | Título                            |
+|----------|-----------------------------------|
+| US-13    | Lectura de Sensores               |
+| US-14    | Alertas de Temperatura            |
+| US-15    | Alertas de Humedad                |
+| US-16    | Reportes Ambientales              |
+| US-17    | Integración con RFID              |
+| US-18    | Notificaciones de Sensor Inactivo |
+
+
+### Epic 04: Trazabilidad y Movimientos de Productos
+
+| Story ID | Título                        |
+|----------|-------------------------------|
+| US-19    | Registro de Entradas          |
+| US-20    | Registro de Salidas           |
+| US-21    | Transferencia entre Almacenes |
+| US-22    | Tracking de Transporte        |
+| US-23    | Alertas de Retraso            |
+| US-24    | Historial de Trazabilidad     |
+
+
+### Epic 05: Alertas y Notificaciones Predictivas
+
+| Story ID | Título                        |
+|----------|-------------------------------|
+| US-25    | Alertas de Stock Bajo         |
+| US-26    | Alertas de Exceso de Stock    |
+| US-27    | Notificación de Caducidad     |
+| US-28    | Alertas de Fallo de Sensor    |
+| US-29    | Notificaciones Personalizadas |
+| US-30    | Dashboard de Notificaciones   |
+
+
+### Epic 06: Reportes y Análisis Estratégicos
+
+| Story ID | Título                        |
+|----------|-------------------------------|
+| US-31    | Reporte de Inventario General |
+| US-32    | Reporte de Pérdidas           |
+| US-33    | Reporte de Movimientos        |
+| US-34    | Análisis Predictivo de Stock  |
+| US-35    | Visualización de Indicadores  |
+| US-36    | Exportación de Datos          |
+
 
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
