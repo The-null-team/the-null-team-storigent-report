@@ -468,6 +468,46 @@ Se documenta la información obtenida durante las entrevistas, incluyendo los pe
 sus respuestas más relevantes y observaciones que aportan valor al análisis posterior.
 Este registro permite tener una base sólida para la interpretación de resultados.
 
+<strong>Segmento objetivo 1: Emprendedores</strong>
+
+<strong>Entrevista 1 - Jorge Enrique Zagaceta Bartra</strong>
+
+Captura:
+
+<img src="static/img/chapter 2/img-entrevista-Jorge.png" alt="Entrevista Jorge" style="width: 600px;"></img>
+
+Resumen:
+
+Jorge Enrique Zagaceta Bartra, un hombre casado de 64 años residente en Pucallpa, Ucayali, es el emprendedor detrás de un negocio de distribución de productos lácteos como leche, yogures y quesos. Su principal mercado son los pequeños comerciantes, conocidos como bodegueros, ubicados en las periferias de Pucallpa.
+
+Gestión y Desafíos: Utiliza un método de rotación "primero en entrar, primero en salir" (FIFO) para sus productos, los cuales almacena en un lugar refrigerado para evitar vencimientos.
+Se realiza mediante dos motocars con conductores de confianza, quienes cubren las zonas periurbanas de la ciudad.
+
+Dificultades en el Transporte: El principal desafío es el mal estado de los caminos en las zonas de distribución (baches, huecos, barrizales en época de lluvias de octubre a marzo, y polvorientos el resto del año). Estas calles no están pavimentadas ni afirmadas debido a la expansión demográfica, lo que dificulta el acceso a las bodegas. A pesar de esto, confía en sus distribuidores para sobrellevar estas adversidades.
+
+Tecnología y Habilidades: El entrevistado no menciona el uso de herramientas tecnológicas específicas para la gestión de inventario, pedidos o interacción con clientes/proveedores. La distribución se basa en la movilidad física (motocars) y la confianza en sus distribuidores.
+Jorge Enrique demuestra habilidades prácticas en la organización de su inventario (FIFO) y en la gestión de su equipo de distribuidores para enfrentar los retos logísticos.
+
+Expectativas y Necesidades: Las respuestas de Jorge Enrique no expresan explícitamente la necesidad o expectativa de integrar nuevas tecnologías o software para su gestión. Su enfoque está en cómo maneja los desafíos actuales con los métodos y recursos disponibles.
+
+<strong>Segmento objetivo 2: Empresas</strong>
+
+<strong>Entrevista 1: Sebastián Díaz Paredes</strong>
+
+Captura:
+
+<img src="static/img/chapter 2/img-entrevista-Sebastian.png" alt="Entrevista Sebastián" style="width: px;"></img>
+
+Resumen:
+
+Sebastián Díaz, un ingeniero industrial de 32 años, soltero y residente en San Borja, se desempeña como jefe de logística en una distribuidora de productos alimenticios y bebidas.
+
+Gestión y Desafíos: Actualmente, Sebastián gestiona los inventarios y el almacén utilizando un sistema básico de Excel para reportes mensuales, complementado mayormente con métodos manuales. Los principales problemas que enfrenta en el transporte y almacenamiento de productos, especialmente bebidas, son la necesidad de mantenerlos en zonas ventiladas. Ha experimentado pérdidas debido a la mala manipulación de productos y errores en el registro del stock.
+
+Tecnología y Habilidades: Para el registro y control de calidad, la empresa se limita al uso de códigos de barras tradicionales, sin otros tipos de sensores. Los dispositivos que utilizan son laptops, tablets y escáneres de códigos de barras. Para las operaciones y comunicación, emplean canales digitales como el correo electrónico, WhatsApp y un sistema ERP para el registro de pedidos e inventario. Sebastián considera que las habilidades clave para su equipo en la gestión de inventarios son una buena organización, atención al detalle del stock, manejo de herramientas digitales y la capacidad de estar preparados ante imprevistos.
+
+Expectativas y Necesidades: Sus principales frustraciones con los sistemas actuales son la lentitud en el registro de entradas y salidas, la poca fiabilidad de los reportes y la dificultad para integrar la información con otras áreas como ventas o facturación. Sus respuestas reflejan una personalidad práctica, consciente de las deficiencias operativas y la necesidad de sistemas más eficientes y confiables para optimizar la gestión de inventarios y reducir pérdidas. La entrevista concluye antes de que pueda especificar qué tipo de notificación considera útil.
+
 ### 2.2.3. Análisis de entrevistas
 Se analiza la información recopilada en las entrevistas, identificando patrones comunes, insights clave
 y necesidades recurrentes. Este análisis contribuye a la construcción de arquetipos y a la definición de
