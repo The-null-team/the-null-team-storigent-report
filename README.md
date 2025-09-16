@@ -547,6 +547,30 @@ Se analiza la información recopilada en las entrevistas, identificando patrones
 y necesidades recurrentes. Este análisis contribuye a la construcción de arquetipos y a la definición de
 funcionalidades relevantes para el producto.
 
+<strong>Emprendedores</strong>
+
+<strong>Empresas</strong>
+
+Dispositivos:
+
+<img src="static/img/chapter 2/img-empresas-grafico-dispositivos.png" alt="Dispositivos Empresas" style="width: 600px;"></img>
+
+Expectativas:
+
+<img src="static/img/chapter 2/img-empresas-grafico-expectativas.png" alt="Expectativas Empresas" style="width: 600px;"></img>
+
+Frustraciones:
+
+<img src="static/img/chapter 2/img-empresas-grafico-frustraciones.png" alt="Frustraciones Empresas" style="width: 600px;"></img>
+
+Herramientas Digitales:
+
+<img src="static/img/chapter 2/img-empresas-grafico-herramientas-digitales.png" alt="Herramientas Digitales Empresas" style="width: 600px;"></img>
+
+Personalidad:
+
+<img src="static/img/chapter 2/img-empresas-grafico-personalidad.png" alt="Personalidad Empresas" style="width: 600px;"></img>
+
 ## 2.3. Needfinding
 Se describe el proceso de identificación profunda de necesidades reales de los usuarios,
 utilizando herramientas de diseño centrado en el usuario. Este proceso permite comprender mejor sus motivaciones,
