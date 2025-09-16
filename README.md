@@ -508,6 +508,40 @@ Tecnología y Habilidades: Para el registro y control de calidad, la empresa se 
 
 Expectativas y Necesidades: Sus principales frustraciones con los sistemas actuales son la lentitud en el registro de entradas y salidas, la poca fiabilidad de los reportes y la dificultad para integrar la información con otras áreas como ventas o facturación. Sus respuestas reflejan una personalidad práctica, consciente de las deficiencias operativas y la necesidad de sistemas más eficientes y confiables para optimizar la gestión de inventarios y reducir pérdidas. La entrevista concluye antes de que pueda especificar qué tipo de notificación considera útil.
 
+<strong>Entrevista 2: César Díaz Espinosa</strong>
+
+Captura:
+
+<img src="static/img/chapter 2/img-entrevista-Cesar.png" alt="Entrevista César" style="width: 600px;"></img>
+
+Resumen:
+
+César Díaz Espinosa, un hombre soltero de 29 años, reside en el distrito de Lince y trabaja como coordinador logístico e inventarios en Olaya Food. Su empresa, Olaya Food, se dedica al sector alimenticio, especializándose en la producción y distribución de alimentos en conserva, específicamente productos a base de pescado en latas, vendiendo a supermercados, mayoristas y personas naturales.
+
+Gestión y Desafíos: Actualmente, la gestión de inventarios en Olaya Food se realiza mediante un sistema ERP que permite registrar entradas y salidas de productos en tiempo real, complementado con lectores de códigos de barras para agilizar el control de stock. La empresa trabaja con el Instituto Tecnológico de la Producción (ITP), lo que les ha permitido mantener un estándar elevado en la conservación y el proceso de enlatado, sin haber experimentado problemas significativos ni quejas de clientes en este aspecto. En cuanto al transporte, tampoco han tenido inconvenientes mayores, salvo algunos golpes menores en las latas durante la descarga, pero no durante el traslado.
+Una frustración importante mencionada por César es que, antes del sistema ERP, el control de inventarios se llevaba en Excel, lo que era "muy propenso a errores humanos", resultando en registros incorrectos, falta de visibilidad del stock en tiempo real, quiebres instrumentales y descuadres al final de mes. La comunicación efectiva es crucial en su equipo para evitar errores humanos en la cadena de suministro, ya que, según él, la mayoría de los problemas provienen de fallos humanos y no de las aplicaciones o el ERP.
+
+Tecnología y Habilidades: En general, Olaya Food utiliza tecnologías como códigos de barras para sus diferentes tipos de productos enlatados, balanzas electrónicas y un sistema ERP que se integra con sus almacenes. En su trabajo diario, César y su equipo utilizan principalmente computadoras, tablets para la gestión de inventario y logística, y escáneres de código de barras. Para la gestión de operaciones logísticas, emplean correos electrónicos para trámites con proveedores y otros contactos, grupos de WhatsApp para coordinaciones rápidas y el propio ERP de la empresa.
+César considera que las habilidades clave para su equipo en el manejo de inventarios son la organización (para la precisión en el registro de datos), el manejo de herramientas digitales y la comunicación efectiva para evitar errores en la cadena de suministro.
+
+Expectativas y Necesidades: Las respuestas de César reflejan una personalidad organizada y consciente de la importancia de la precisión y la tecnología para una gestión eficiente. Su experiencia previa con Excel subraya la necesidad de sistemas robustos que eliminen el margen de error humano y proporcionen visibilidad en tiempo real. La implementación del ERP y el uso de códigos de barras demuestran una orientación hacia la optimización y la digitalización de procesos, buscando reducir ineficiencias y asegurar la calidad del producto y la exactitud del inventario.
+
+<strong>Entrevista 3: Ingrid Iriarte</strong>
+
+Captura:
+
+<img src="static/img/chapter 2/img-entrevista-Ingrid.png" alt="Entrevista Ingrid" style="width: 600px;"></img>
+
+Resumen:
+
+Ingrid Iriarte, de 50 años, es Jefa de Tienda en Perú Forus desde 2008, específicamente para la marca Hashpapis, donde supervisa un amplio inventario que incluye calzado, accesorios, carteras, medias y productos de limpieza.
+
+Gestión y Desafíos: Su gestión de inventario es mensual, enfocada en el conteo físico de las unidades, así como en el registro de ingresos y salidas totales. La recepción de mercadería se agiliza mediante lectores específicos para los embalajes de cajas. Los almacenes están organizados meticulosamente por sectores, con áreas separadas para hombres y damas y anaqueles específicos. Aunque reconoce que la conservación de productos de cuero durante los envíos en invierno podría presentar un desafío, afirma que los errores de calidad son mínimos, atribuyéndolo a "procesos bien ya definidos" dentro de la empresa, lo que indica un sistema de control de calidad robusto.
+
+Tecnología y Habilidades: Para su negocio, Ingrid se apoya en tecnología específica para la gestión de inventarios, utilizando "capturadores" y "lectoras de barras" que facilitan la rapidez del conteo físico. El programa principal que utiliza es SIAL, un software integral que maneja la recepción de mercadería, el control general de inventarios, los ingresos y toda la operativa de la tienda, incluyendo la gestión de cajas y cobros. También emplea tablets para ciertas lecturas y hace uso extensivo de códigos de barras en los productos, que son leídos y cargados al sistema para la emisión de boletas. Para interactuar con soporte o resolver inconvenientes con los programas, utiliza el correo electrónico, un programa interno denominado "Mesa de Ayuda" y un canal de comunicación vía WhatsApp. Sus respuestas reflejan una habilidad sólida en el manejo de estas herramientas tecnológicas y una clara comprensión de los procesos operativos.
+
+Expectativas y Necesidades: A partir de sus declaraciones, Ingrid Iriarte no expresa ninguna necesidad o expectativa de implementar nuevas tecnologías o realizar cambios significativos en sus herramientas actuales. Su descripción de los procesos y la funcionalidad del programa SIAL, junto con el uso de capturadores y lectoras, sugiere que las herramientas y los sistemas actuales satisfacen eficazmente sus requerimientos operativos y de gestión de inventario. Su enfoque está en la eficiencia de los procesos establecidos y la capacidad de las herramientas existentes para asegurar un control preciso y una resolución rápida de cualquier incidencia. Sus respuestas reflejan una personalidad organizada, metódica y segura de los sistemas y procesos en uso, con una clara orientación hacia la optimización mediante las soluciones tecnológicas ya implementadas que le ofrecen visibilidad y control en su gestión diaria.
+
 ### 2.2.3. Análisis de entrevistas
 Se analiza la información recopilada en las entrevistas, identificando patrones comunes, insights clave
 y necesidades recurrentes. Este análisis contribuye a la construcción de arquetipos y a la definición de
