@@ -367,6 +367,54 @@
 
 ## 3.3. Product Backlog
 
+# Product Backlog
+
+| Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|------:|---------------|--------|-------------|----------------------------------|
+| 1 | US-37 | Sección principal (Hero) con llamada a la acción | Como visitante, quiero ver en la parte superior un mensaje claro y un botón destacado, para entender de inmediato qué ofrece la plataforma y registrarme fácilmente. | 2 |
+| 2 | US-38 | Beneficios para cada tipo de usuario | Como visitante, quiero ver los beneficios principales para Empresas y Emprendedores, para saber cómo la plataforma me puede ayudar. | 2 |
+| 3 | US-39 | Planes y precios básicos | Como visitante, quiero ver un resumen de los planes disponibles con sus precios, para evaluar qué opción me conviene. | 3 |
+| 4 | US-40 | Formulario de contacto o demo | Como visitante, quiero enviar un mensaje o pedir una demostración, para resolver mis dudas antes de registrarme. | 3 |
+| 5 | US-41 | Preguntas frecuentes y testimonios | Como visitante, quiero leer respuestas a preguntas comunes y ver testimonios de otros usuarios, para ganar confianza en la plataforma. | 2 |
+| 6 | US-42 | Diseño adaptable y optimizado | Como visitante, quiero que la página funcione bien en celular, tablet y PC, y que aparezca en buscadores, para acceder fácilmente desde cualquier dispositivo. | 5 |
+| 7 | US-01 | Registro de Usuario | Como emprendedor, quiero registrarme en la aplicación para gestionar mis inventarios. | 3 |
+| 8 | US-02 | Inicio de Sesión | Como usuario, quiero iniciar sesión con mis credenciales para acceder a mi cuenta. | 2 |
+| 9 | US-03 | Recuperación de Contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvidarla. | 3 |
+| 10 | US-04 | Gestión de Perfil | Como usuario, quiero actualizar mis datos de perfil. | 2 |
+| 11 | US-06 | Cierre de Sesión | Como usuario, quiero cerrar sesión de manera segura. | 1 |
+| 12 | US-05 | Roles de Usuario | Como administrador, quiero asignar roles para controlar permisos. | 5 |
+| 13 | US-07 | Registro de Producto | Como emprendedor, quiero registrar productos en el inventario. | 3 |
+| 14 | US-08 | Actualización de Stock | Como usuario, quiero actualizar la cantidad de productos en inventario. | 2 |
+| 15 | US-09 | Eliminación de Producto | Como usuario, quiero eliminar productos obsoletos. | 2 |
+| 16 | US-10 | Categorización de Productos | Como usuario, quiero categorizar productos para organizarlos mejor. | 2 |
+| 17 | US-11 | Búsqueda de Productos | Como usuario, quiero buscar productos rápidamente. | 3 |
+| 18 | US-12 | Historial de Movimientos de Inventario | Como usuario, quiero ver historial de entradas y salidas. | 3 |
+| 19 | US-19 | Registro de Entradas | Como usuario, quiero registrar entradas de productos. | 3 |
+| 20 | US-20 | Registro de Salidas | Como usuario, quiero registrar salidas de productos. | 3 |
+| 21 | US-21 | Transferencia entre Almacenes | Como empresa, quiero registrar transferencias entre almacenes. | 5 |
+| 22 | US-22 | Tracking de Transporte | Como usuario, quiero seguir el transporte de mis productos. | 5 |
+| 23 | US-23 | Alertas de Retraso | Como usuario, quiero recibir alertas de retraso en transporte. | 3 |
+| 24 | US-24 | Historial de Trazabilidad | Como usuario, quiero ver historial de movimientos de producto. | 3 |
+| 25 | US-25 | Alertas de Stock Bajo | Como usuario, quiero recibir alertas cuando stock esté por agotarse. | 3 |
+| 26 | US-26 | Alertas de Exceso de Stock | Como usuario, quiero recibir alertas cuando stock esté en exceso. | 2 |
+| 27 | US-27 | Notificación de Caducidad | Como usuario, quiero alertas sobre productos próximos a caducar. | 3 |
+| 28 | US-29 | Notificaciones Personalizadas | Como usuario, quiero configurar notificaciones según mis necesidades. | 3 |
+| 29 | US-30 | Dashboard de Notificaciones | Como usuario, quiero ver todas mis notificaciones en un panel. | 3 |
+| 30 | US-28 | Alertas de Fallo de Sensor | Como usuario, quiero alertas cuando un sensor falla. | 3 |
+| 31 | US-13 | Lectura de Sensores | Como usuario, quiero visualizar datos de sensores ambientales. | 5 |
+| 32 | US-14 | Alertas de Temperatura | Como usuario, quiero recibir alertas cuando la temperatura sea anómala. | 3 |
+| 33 | US-15 | Alertas de Humedad | Como usuario, quiero recibir alertas por humedad fuera de rango. | 3 |
+| 34 | US-18 | Notificaciones de Sensor Inactivo | Como usuario, quiero recibir alerta si un sensor deja de transmitir. | 3 |
+| 35 | US-16 | Reportes Ambientales | Como usuario, quiero obtener reportes de condiciones ambientales. | 5 |
+| 36 | US-17 | Integración con RFID | Como empresa, quiero que los sensores RFID registren condiciones automáticamente. | 8 |
+| 37 | US-31 | Reporte de Inventario General | Como usuario, quiero obtener un reporte consolidado de inventario. | 5 |
+| 38 | US-32 | Reporte de Pérdidas | Como usuario, quiero reportes de pérdidas de inventario. | 3 |
+| 39 | US-33 | Reporte de Movimientos | Como usuario, quiero reportes detallados de movimientos de stock. | 3 |
+| 40 | US-35 | Visualización de Indicadores | Como usuario, quiero ver métricas clave en gráficos. | 5 |
+| 41 | US-34 | Análisis Predictivo de Stock | Como empresa, quiero análisis predictivo para optimizar compras. | 8 |
+| 42 | US-36 | Exportación de Datos | Como usuario, quiero exportar datos a CSV/Excel. | 2 |
+
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
