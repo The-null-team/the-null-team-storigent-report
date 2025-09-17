@@ -414,6 +414,7 @@
 | 41 | US-34 | Análisis Predictivo de Stock | Como empresa, quiero análisis predictivo para optimizar compras. | 8 |
 | 42 | US-36 | Exportación de Datos | Como usuario, quiero exportar datos a CSV/Excel. | 2 |
 
+Referencia URL: https://trello.com/invite/b/68cadaeea4756cf09805bac4/ATTI112d83ba3d34c14a529df031f6e5f866E2ED34D5/kanban-template
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
