@@ -246,6 +246,9 @@
 <img src="static/img/chapter 4/1Wireframe-Storigent.png"></img>
 
 ### 4.3.2. Landing Page Mock-up
+
+<img src="static/img/chapter 4/1Mockup-Storigent.png"></img>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
