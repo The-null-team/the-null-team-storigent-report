@@ -609,23 +609,34 @@ Personalidad:
 
 Dispositivos:
 
-<img src="static/img/chapter 2/img-empresas-grafico-dispositivos.png" alt="Dispositivos Empresas" style="width: 600px;"></img>
+<p align="center">
+    <img src="static/img/chapter 2/img-empresas-grafico-dispositivos.png" alt="Dispositivos Empresas" style="width: 300px;"></img>
+</p>
 
 Expectativas:
 
-<img src="static/img/chapter 2/img-empresas-grafico-expectativas.png" alt="Expectativas Empresas" style="width: 600px;"></img>
+<p align="center">
+    <img src="static/img/chapter 2/img-empresas-grafico-expectativas.png" alt="Expectativas Empresas" style="width: 300px;"></img>
+</p>
 
 Frustraciones:
 
-<img src="static/img/chapter 2/img-empresas-grafico-frustraciones.png" alt="Frustraciones Empresas" style="width: 600px;"></img>
+<p align="center">
+    <img src="static/img/chapter 2/img-empresas-grafico-frustraciones.png" alt="Frustraciones Empresas" style="width: 300px;"></img>
+</p>
+
 
 Herramientas Digitales:
 
-<img src="static/img/chapter 2/img-empresas-grafico-herramientas-digitales.png" alt="Herramientas Digitales Empresas" style="width: 600px;"></img>
+<p align="center">
+    <img src="static/img/chapter 2/img-empresas-grafico-herramientas-digitales.png" alt="Herramientas Digitales Empresas" style="width: 300px;"></img>
+</p>
 
 Personalidad:
 
-<img src="static/img/chapter 2/img-empresas-grafico-personalidad.png" alt="Personalidad Empresas" style="width: 600px;"></img>
+<p align="center">
+    <img src="static/img/chapter 2/img-empresas-grafico-personalidad.png" alt="Personalidad Empresas" style="width: 300px;"></img>
+</p>
 
 ## 2.3. Needfinding
 Se describe el proceso de identificación profunda de necesidades reales de los usuarios,
