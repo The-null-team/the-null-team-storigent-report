@@ -205,8 +205,8 @@ El objetivo de Storigent es brindar a las empresas una solución integral y fác
 ### 1.1.2. Perfiles de integrantes del equipo
 | Integrante | Foto     |  Perfil de estudiante    |
 |:------------|:----------:|-----------:|
-|                                         | Zagaceta Bardales, Rodrigo Enrique     | U202215489 | Ingeniería de Software | Soy Rodrigo Zagaceta tengo conocimientos medios en diversos lenguajes de programación, me considero una persona responsable y con la intención de generar un buen entendimiento entre todos los miembros del equipo. |
-|                           | Cespedes Pillco, Jarod Jack           | U202318588 | Ingeniería de Software | Soy Jarod Cespedes y actualmente estoy cursando el quinto ciclo de la carrera Ingeniería de Software. Considero que soy atento, creativo y colaborador, siempre intentando apoyar a mi equipo en lo más que puedo. Además, tengo conocimientos en varios lenguajes de programación como C++, C#, Python y Java. |  
+| Zagaceta Bardales, Rodrigo Enrique     | U202215489 | Ingeniería de Software | Soy Rodrigo Zagaceta tengo conocimientos medios en diversos lenguajes de programación, me considero una persona responsable y con la intención de generar un buen entendimiento entre todos los miembros del equipo. |
+| Cespedes Pillco, Jarod Jack           | U202318588 | Ingeniería de Software | Soy Jarod Cespedes y actualmente estoy cursando el quinto ciclo de la carrera Ingeniería de Software. Considero que soy atento, creativo y colaborador, siempre intentando apoyar a mi equipo en lo más que puedo. Además, tengo conocimientos en varios lenguajes de programación como C++, C#, Python y Java. |  
 |   |  |   |
 |   |  |   |
 |   |  |   |
