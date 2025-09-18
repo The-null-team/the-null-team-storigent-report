@@ -7,7 +7,7 @@
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
     <br><strong>"Informe del Trabajo Final"</strong><br>
     <br>
-    <strong>Startup: LogiCore</strong><br>
+    <strong>Startup: The Null Team</strong><br>
     <strong>Nombre del Producto: Storigent</strong><br>
 </p>
 
@@ -31,10 +31,6 @@
             <td style="padding: 8px;">U202310436</td>
         </tr>
         <tr>
-            <td style="padding: 8px">Palomino Tito, Abraham Joel</td>
-            <td style="padding: 8px">U201821512</td>
-        </tr>
-        <tr>
             <td style="padding: 8px;">Tello Murga, Javier Oswaldo</td>
             <td style="padding: 8px;">u202218387</td>
         </tr>
@@ -55,7 +51,6 @@
 <br>
 
 <h1 align="center">Registro de versiones del Informe</h1>
-</br>
 <table>
         <thead>
             <tr>
@@ -77,28 +72,42 @@
 
 <br><br>
 # Project Report Collaboration Insights
-<br><br>
 
-<h1>Student Outcome</h1>
-</br>
-<table>
-        <thead>
-            <tr>
-                <th>Versión</th>
-                <th>Fecha</th>
-                <th>Autor</th>
-                <th>Descripción de modificaciones</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th></th>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-      </tbody>
-</table>
+Enlace al repositorio de GitHub TB1: [Repositorio GitHub TB1](https://github.com/The-null-team/the-null-team-storigent-report/tree/develop?tab=readme-ov-file)
+
+Colaboración en el desarrollo del informe del proyecto Storigent:
+
+David Alejandro Calixto Iriarte:
+
+<img src="/static/img/chapter 2/img-collaboration-David-C.png" alt="David Calixto" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Jarod Jack Céspedes Pillco:
+
+<img src="/static/img/chapter 2/img-collaboration-Jarod.png" alt="Jarod Cespedes" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Espinar Martínez, Gabriel Ferran:
+
+<img src="/static/img/chapter 2/img-collaboration-Gabriel.png" alt="Oscar Checa" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Tello Murga, Javier Oswaldo:
+
+<img src="/static/img/chapter 2/img-collaboration-Javier.png" alt="Daniel Palomino" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Zagaceta Bardales, Rodrigo Enrique:
+
+<img src="/static/img/chapter 2/img-collaboration-Rodrigo.png" alt="Rodrigo Zagaceta" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Meza Tataje, David:
+
+<img src="/static/img/chapter 2/img-collaboration-David-M.png" alt="Rodrigo Zagaceta" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Todos los integrantes:
+
+<img src="/static/img/chapter 2/img-top-commiters.png" alt="Top Commiters" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+<img src="/static/img/chapter 2/img-commits-over-time.png" alt="Commits Over Time" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+<br><br>
 
 # Tabla de contenidos
 
