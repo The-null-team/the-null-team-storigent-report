@@ -650,8 +650,12 @@ preferencias tecnológicas, y sirven como guía para el diseño del producto.
 
 <strong>Emprendedores:</strong>
 
+
+
+<strong>Empresas:</strong>
+
 <p align="center">
-    <img src="static/img/chapter 2/img-user-persona-emprendedores.png" alt="User Persona Emprendedores" style="width: 600px;"></img>
+    <img src="static/img/chapter 2/img-user-persona-empresas.png" alt="User Persona Emprendedores" style="width: 600px;"></img>
 </p>
 
 ### 2.3.2. User Task Matrix
