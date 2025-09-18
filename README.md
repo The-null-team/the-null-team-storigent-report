@@ -490,6 +490,32 @@ Jorge Enrique demuestra habilidades prácticas en la organización de su inventa
 
 Expectativas y Necesidades: Las respuestas de Jorge Enrique no expresan explícitamente la necesidad o expectativa de integrar nuevas tecnologías o software para su gestión. Su enfoque está en cómo maneja los desafíos actuales con los métodos y recursos disponibles.
 
+<strong>Entrevista 2: Luis Alberto Calixto Ramírez</strong>
+
+Captura:
+
+<img src="static/img/chapter 2/img-entrevista-Luis.png" alt="Entrevista Luis" style="width: px;"></img>
+
+Duración: 15:58 minutos
+
+Línea de Tiempo: 
+
+Enlace a la entrevista: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EcThJtRL6aJFq7Wk32pNBjQBOfF9F6D4RgZPk9REMN0-uA?e=UzTDLx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Resumen:
+
+Luis Alberto Calixto Ramírez, un hombre casado de 50 años, es el gerente de tienda de Calvin Klein.
+
+Gestión y Desafíos: Utiliza un sistema RFID (radiofrecuencia por ondas) en tienda para determinar la cantidad, ubicación y rastreo rápido de la mercadería. Todos los productos manejan un chip, y las prendas tienen chips distintos por talla (S, M, L, XL) para un conteo preciso. Los códigos de barras con chips RFID a menudo se dañan con el uso de los clientes, el manipuleo o el traslado, impidiendo su lectura o duplicando las cantidades y alterando las guías.
+Problemas con la llegada a tiempo de la mercadería importada (desde Panamá, por containers para cada estación) debido a factores como el clima, aranceles o tiempos de transporte.
+
+Tecnología y Habilidades El core de su gestión de inventario es el sistema RFID y los códigos de barras con chips integrados en cada producto. Se apoya en una "pistola" lectora de códigos de barras, que interactúa con los chips RFID para identificar la ubicación y cantidades en tienda.
+Canales de Interacción: La comunicación con proveedores se gestiona a través del proceso de importación por containers, mientras que la interacción con clientes se realiza en el "punto de venta" (la tienda).
+Habilidad clave: Ante la falta de mercadería importada a tiempo, Luis implementa la estrategia de reemplazar temporalmente productos con artículos de temporadas anteriores que posean cualidades o características similares.
+
+Expectativas y Necesidades: Las respuestas de Luis reflejan una personalidad práctica y resolutiva. Es consciente de las ineficiencias causadas por el daño de los chips RFID y los retrasos en la importación.
+Sus necesidades implícitas giran en torno a una mayor fiabilidad del sistema RFID para evitar errores de inventario y una mejor visibilidad o control sobre la cadena de suministro internacional para mitigar las frustraciones por los retrasos. Su habilidad para reemplazar productos muestra la necesidad de agilidad para mantener la oferta en tienda.
+
 <strong>Segmento objetivo 2: Empresas</strong>
 
 <strong>Entrevista 1: Sebastián Díaz Paredes</strong>
