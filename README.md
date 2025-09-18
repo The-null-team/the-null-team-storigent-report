@@ -424,6 +424,9 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 ### 4.6.1. Design-Level EventStorming
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
+
+<img src="static/img/chapter 4/structurizr-106361-Container-001.png"></img>
+
 ### 4.6.4. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
