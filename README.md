@@ -571,7 +571,7 @@ El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page f
             <td>Diseñar vista de testimonios</td>
             <td>Crear una vista donde mostramos los testimonios de los usuarios que han usado nuestra plataforma</td>
             <td>2</td>
-            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Tello Murga, Javier Oswaldo</td>
             <td>To-Do</td>
         </tr>
         <tr>
