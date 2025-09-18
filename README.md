@@ -979,6 +979,8 @@ Se visualiza el recorrido del usuario al interactuar con el producto, identifica
 emociones, puntos de dolor y oportunidades de mejora. Este mapeo ayuda a entender la experiencia completa
 del usuario y a diseñar soluciones más efectivas.
 
+ ## User Journey Mapping empresario:
+
 <img src="static/img/chapter 2/img-user-journey-mapping.png" alt="User Journey Mapping" style="width: 800px;"></img>
 
 El User Journey Mapping de Storigent permite visualizar cómo Sebastián Díaz, Jefe de Logística, interactúa con el sistema a lo largo de su recorrido, desde la búsqueda de soluciones hasta la adopción final del sistema.
@@ -1057,13 +1059,98 @@ Esta herramienta ayuda a identificar los momentos críticos, las emociones, los 
 
 - Leave: Ofrecer soporte post-venta y encuestas de satisfacción.
 
+<br/>
+
+ ## User Journey Mapping emprendedor:
+
+<img src="static/img/chapter 2/img-user-journey-mapping-emprendedor.png" alt="User Journey Mapping Emprendedor" style="width: 800px;"></img>
+
+El User Journey Mapping de Storigent permite visualizar cómo Jorge Luis Ramírez, emprendedor y gestor de tienda/distribución, interactúa con el sistema a lo largo de su recorrido, desde la búsqueda de soluciones hasta la adopción final del sistema.
+Esta herramienta ayuda a identificar los momentos críticos, las emociones, los problemas y las oportunidades de mejora en cada fase, facilitando diseñar una experiencia más fluida, eficiente y satisfactoria para este tipo de usuario clave.
+
+
+1. User Goals:
+
+- Aware: Identificar sistemas confiables para el rastreo y control de inventario.
+
+- Join: Evaluar si el sistema se integra fácilmente con su almacén, transporte y punto de venta.
+
+- Use: Gestionar inventario en tiempo real, minimizando errores humanos.
+
+- Develop: Analizar reportes de pérdidas y desempeño operativo.
+
+- Leave: Validar que la solución sea útil y recomendada para la operación completa.
+
+2. Process and Channels:
+
+- Aware: Busca opciones en Google, revisa YouTube y consulta recomendaciones de colegas.
+
+- Join: Solicita cotizaciones, pide demos y verifica compatibilidad con su operación.
+
+- Use: Usa laptop en oficina y celular en almacén para registrar productos y supervisar stock.
+
+- Develop: Genera reportes en el sistema, recibe alertas de stock bajo y analiza desempeño.
+
+- Leave: Presenta resultados a socios o distribuidores, y comparte feedback por correo o WhatsApp.
+
+3. Process:
+
+- Aware: Investiga sobre sistemas digitales de inventario y compara funcionalidades.
+
+- Join: Evalúa demos y realiza reuniones con proveedores para entender beneficios.
+
+- Use: Configura usuarios, carga productos y supervisa la operación diaria.
+
+- Develop: Revisa reportes, detecta errores de manipulación y optimiza procesos.
+
+- Leave: Decide continuar con la suscripción o ampliar el uso del sistema según resultados.
+
+4. Problems:
+
+- Aware: Existen muchas opciones en el mercado, difícil elegir la adecuada.
+
+- Join: Demos limitadas o falta de información técnica accesible.
+
+- Use: Sistema lento, errores al registrar datos o dificultades de integración.
+
+- Develop: Reportes incompletos o tardíos que afectan la toma de decisiones.
+
+- Leave: Poco soporte técnico o falta de seguimiento posterior a la implementación.
+
+5. Experience:
+
+- Aware: 😐 neutral
+
+- Join: 🙂 expectativa
+
+- Use: 😀 satisfacción si el sistema funciona correctamente
+
+- Develop: 😕 frustración si detecta fallas o lentitud
+
+- Leave: 😃 felicidad si logra optimizar la operación y reducir pérdidas
+
+6. Ideas / Opportunities:
+
+- Aware: Generar contenido y recomendaciones sobre sistemas confiables para emprendedores.
+
+- Join: Ofrecer demos sencillas, accesibles y personalizadas para negocios pequeños.
+
+- Use: Optimizar velocidad del sistema, interfaz sencilla y alertas claras.
+
+- Develop: Generar reportes automáticos, alertas precisas y recomendaciones prácticas.
+
+- Leave: Brindar soporte post-venta confiable y encuestas de satisfacción para mejorar la experiencia.
 
 ### 2.3.4. Empathy Mapping
 Se representa gráficamente lo que el usuario piensa, siente, dice y hace, con el objetivo
 de comprender su experiencia desde una perspectiva más humana y empática. Esta herramienta permite
 profundizar en la dimensión emocional del usuario.
 
+  ## Empathy Mapping Empresario:
+
 <img src="static/img/chapter 2/img-empathy-mapping.png" alt="Empathy Mapping" style="width: 800px;"></img>
+
+ 
 
 El Empathy Mapping de Storigent se centra en comprender profundamente la experiencia de los usuarios, identificando lo que piensan, sienten, dicen y hacen durante su interacción con el sistema.
 Para este caso, se ha trabajado con Sebastián Díaz, Jefe de Logística en una distribuidora de alimentos y bebidas, quien tiene la responsabilidad de coordinar inventarios, pedidos y entregas, optimizar tiempos y mantener el stock actualizado.
@@ -1084,6 +1171,33 @@ El objetivo es mapear sus necesidades, emociones y comportamientos para diseñar
    - Pains: Pérdidas por errores de registro, lentitud en el flujo de información, estrés por procesos manuales y falta de visibilidad en tiempo real del inventario.
 
    - Gains: Un sistema rápido, confiable y centralizado, con alertas automáticas de stock y vencimientos, reducción de errores humanos y más tiempo para planificar en lugar de corregir errores.
+
+  <br/>
+
+## Empathy Mapping Emprendedor:
+
+<img src="static/img/chapter 2/img-empathy-mapping-emprendedor.png" alt="Empathy Mapping Emprendedor" style="width: 800px;"></img>
+
+
+- El Empathy Mapping de Storigent se centra en comprender profundamente la experiencia de los usuarios, identificando lo que piensan, sienten, dicen y hacen durante su interacción con el sistema.
+Para este caso, se ha trabajado con Jorge Luis Ramírez, emprendedor y gestor de tienda/distribución, quien busca mantener eficiencia operativa con recursos actuales, minimizar pérdidas y optimizar la trazabilidad y control de productos.
+
+- Thoughts & Feelings: Jorge quiere mantener la eficiencia de su operación sin aumentar costos. Se preocupa por minimizar pérdidas por vencimiento o errores de inventario y mejorar la trazabilidad de los productos. Siente frustración cuando los sistemas RFID fallan o no puede ver el inventario en tiempo real, y piensa en cómo integrar tecnología sencilla y confiable para su operación diaria.
+
+- Needs / Actions (DO): Supervisa operaciones diarias, coordina con su equipo de almacén, transporte y proveedores, usa laptop y celular para registrar productos y controlar stock, y toma decisiones rápidas frente a quiebres o retrasos.
+
+- What They See: Negocios competidores con sistemas de rastreo más avanzados, equipos y almacenes que no siempre cumplen con estándares de almacenamiento y manejo, y oportunidades para implementar herramientas digitales accesibles y prácticas.
+
+- What They Say: Expresiones como “Confío en mis distribuidores, pero si pudiera ver todo en tiempo real, sería mejor” o “Necesitamos un sistema que funcione sin complicaciones técnicas” reflejan la necesidad de soluciones confiables y prácticas.
+
+- What They Do: Supervisa su tienda y distribución, coordina al equipo de almacén y transporte, registra información manualmente cuando es necesario y usa comunicación directa por teléfono o WhatsApp.
+
+- What They Hear: Quejas de clientes y distribuidores por retrasos o productos dañados, sugerencias sobre el uso de sistemas confiables de rastreo y recomendaciones de colegas sobre soluciones digitales fáciles de implementar.
+
+- Pains: Errores en guías por duplicación de productos, falta de visibilidad del inventario, daño de chips RFID, retrasos en importación y sistemas digitales poco confiables o complejos de usar.
+
+- Gains: Un sistema confiable que centralice información de almacén, transporte y puntos de venta, alertas automáticas de stock bajo y vencimientos, reducción de errores humanos, y mayor visibilidad y control del inventario en tiempo real.
+
 
 ## 2.4. Big Picture EventStorming
 Se realiza una exploración colaborativa de los eventos clave dentro del sistema,
