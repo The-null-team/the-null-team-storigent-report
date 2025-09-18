@@ -255,6 +255,33 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
+**1. Project Management:**   
+  - **Trello:** Herramienta de gestión de tableros para la organización de tareas y sprints. [https://trello.com/es](https://trello.com/es)
+
+**2. Requirements Management:**
+  - **UXPressia:** Herramienta en línea enfocada en experiencia de usuario (UX) que permite crear de forma colaborativa y visual mapas de experiencia del cliente, customer journey maps, personas y mapas de impacto. [https://uxpressia.com/](https://uxpressia.com/)
+
+**3. Product UX/UI Design:**
+  - **Figma:** Herramienta de prototipado y diseño de alta fidelidad y responsivo. [https://www.figma.com/es-es/](https://www.figma.com/es-es/)
+
+**4. Software Development:**
+  - **Webstorm:** IDE de la familia JetBrains para desarrollo con Angular (Javascript, HTML, CSS). [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)   
+  - **Angular CLI:** Herramienta de línea de comandos que simplifica el desarrollo de aplicaciones Angular (ng g cl, ng g c, ng g s). [https://angular.dev/tools/cli](https://angular.dev/tools/cli)   
+  - **Angular:** Framework de código abierto para el desarrollo de aplicaciones web de una sola página (SPA, Single-Page Application). [https://angular.dev/](https://angular.dev/)   
+  - **Typescript:** Lenguaje de programación de código abierto y tipado estático desarrollado y mantenido por Microsoft. [https://www.typescriptlang.org/](https://www.typescriptlang.org/)   
+  - **CSS:** Lenguaje de estilos que controla la presentación y el diseño visual de una página web. [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)   
+  - **HTML:** Lenguaje de marcado que define la estructura y el contenido de una página web. [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)   
+
+**5. Software Deployment:**   
+  - **GitHub Pages:** Servicio gratuito de alojamiento de sitios web estáticos que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub y los publica en un sitio web. [https://pages.github.com/](https://pages.github.com/)   
+
+**6. Software Documentation:**   
+  - **Git:** Sistema de control de versiones distribuido que permite registrar cambios en el código y trabajar de forma colaborativa.   
+  - **GitHub:** Plataforma en la nube basada en Git que facilita la colaboración, gestión de proyectos y hospedaje de repositorios.   
+  - **Markdown:** Lenguaje de marcado ligero y fácil de usar, diseñado para dar formato a texto plano, generalmente usado en la documentación de proyectos. [https://markdown.es/](https://markdown.es/)   
+  - **PlantUML** (plantuml4idea): Herramienta para generar diagramas a partir de texto, integrable en Webstorm mediante el plugin *plantuml4idea*. [https://plugins.jetbrains.com/plugin/7017-plantuml4idea](https://plugins.jetbrains.com/plugin/7017-plantuml4idea)
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
