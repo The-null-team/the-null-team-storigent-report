@@ -977,20 +977,198 @@ Se visualiza el recorrido del usuario al interactuar con el producto, identifica
 emociones, puntos de dolor y oportunidades de mejora. Este mapeo ayuda a entender la experiencia completa
 del usuario y a diseñar soluciones más efectivas.
 
+<img src="static/img/chapter 2/img-user-journey-mapping.png" alt="User Journey Mapping" style="width: 800px;"></img>
+
+El User Journey Mapping de Storigent permite visualizar cómo Sebastián Díaz, Jefe de Logística, interactúa con el sistema a lo largo de su recorrido, desde la búsqueda de soluciones hasta la adopción final del sistema.
+Esta herramienta ayuda a identificar los momentos críticos, las emociones, los problemas y las oportunidades de mejora en cada fase, lo que facilita diseñar una experiencia más fluida, eficiente y satisfactoria para los usuarios clave.
+
+
+1. User Goals:
+
+- Aware: Identificar una solución más confiable que Excel.
+
+- Join: Evaluar si el sistema se integra con ventas y facturación.
+
+- Use: Gestionar inventario en tiempo real sin errores.
+
+- Develop: Analizar reportes de pérdidas y desempeño.
+
+- Leave: Validar que la solución es útil y proponer su adopción total.
+
+2. Process and Channels:
+
+- Aware: Busca opciones en Google, revisa LinkedIn y YouTube.
+
+- Join: Solicita cotización y pide demo.
+
+- Use: Usa laptop en oficina y tablet en almacén para registrar entradas y salidas.
+
+- Develop: Genera reportes en el sistema y recibe alertas de stock bajo.
+
+- Leave: Presenta resultados a su jefe y envía feedback por email.
+
+3. Process:
+
+- Aware: Lee sobre software de inventario y compara precios.
+
+- Join: Hace reunión con el proveedor para ver beneficios.
+
+- Use: Crea usuarios para su equipo y carga productos.
+
+- Develop: Revisa estadísticas y detecta errores de manipulación.
+
+- Leave: Si funciona, recomienda continuar la suscripción o expansión.
+
+4. Problems:
+
+- Aware: Mucha oferta en el mercado, difícil elegir.
+
+- Join: Demos limitadas o poca información técnica.
+
+- Use: Sistema lento, errores al registrar datos.
+
+- Develop: Reportes incompletos o tardíos.
+
+- Leave: Poco soporte técnico o falta de seguimiento.
+
+5. Experience:
+
+- Aware: 😐 neutral
+
+- Join: 🙂 expectativa
+
+- Use: 😀 satisfacción si el sistema funciona bien
+
+- Develop: 😕 frustración si detecta fallas o lentitud
+
+- Leave: 😃 felicidad si logra convencer a su empresa de implementarlo
+
+6. Ideas / Opportunities:
+
+- Aware: Hacer campañas en LinkedIn dirigidas a jefes de logística.
+
+- Join: Ofrecer demos más completas y pruebas gratis.
+
+- Use: Optimizar velocidad del sistema y mejorar interfaz.
+
+- Develop: Generar reportes automáticos y alertas precisas.
+
+- Leave: Ofrecer soporte post-venta y encuestas de satisfacción.
+
+
 ### 2.3.4. Empathy Mapping
 Se representa gráficamente lo que el usuario piensa, siente, dice y hace, con el objetivo
 de comprender su experiencia desde una perspectiva más humana y empática. Esta herramienta permite
 profundizar en la dimensión emocional del usuario.
+
+<img src="static/img/chapter 2/img-empathy-mapping.png" alt="Empathy Mapping" style="width: 800px;"></img>
+
+El Empathy Mapping de Storigent se centra en comprender profundamente la experiencia de los usuarios, identificando lo que piensan, sienten, dicen y hacen durante su interacción con el sistema.
+Para este caso, se ha trabajado con Sebastián Díaz, Jefe de Logística en una distribuidora de alimentos y bebidas, quien tiene la responsabilidad de coordinar inventarios, pedidos y entregas, optimizar tiempos y mantener el stock actualizado.
+El objetivo es mapear sus necesidades, emociones y comportamientos para diseñar soluciones que hagan su trabajo más eficiente, reduzcan errores y mejoren la trazabilidad del inventario.
+
+   - Thoughts & Feelings: Sebastián desea optimizar la gestión de inventarios y reducir errores humanos. Siente frustración cuando el sistema es lento o los datos no coinciden, y piensa constantemente en mejorar la trazabilidad y el control de stock para cumplir con sus KPIs.
+
+   - Needs / Actions (DO): Coordina ingresos y salidas de productos en tiempo real, integra información entre ventas, almacén y facturación, genera reportes claros y toma decisiones rápidas frente a quiebres de stock o retrasos.
+
+   - What They See: Sistemas desactualizados basados en Excel, problemas de comunicación entre áreas y la ventaja competitiva de empresas con sistemas más modernos. También identifica oportunidades para mejorar procesos y eficiencia.
+
+   - What They Say: Expresiones como “Necesitamos algo más confiable que Excel” o “Si seguimos así, vamos a perder más productos” reflejan su frustración y la necesidad de un sistema confiable.
+
+   - What They Do: Supervisa al equipo de almacén, revisa stock y órdenes de compra, registra datos manualmente y coordina mediante WhatsApp y correo electrónico.
+
+   - What They Hear: Quejas de los vendedores, recomendaciones de colegas para usar un sistema integrado y presión de su jefe para reducir pérdidas y mejorar eficiencia.
+
+   - Pains: Pérdidas por errores de registro, lentitud en el flujo de información, estrés por procesos manuales y falta de visibilidad en tiempo real del inventario.
+
+   - Gains: Un sistema rápido, confiable y centralizado, con alertas automáticas de stock y vencimientos, reducción de errores humanos y más tiempo para planificar en lugar de corregir errores.
 
 ## 2.4. Big Picture EventStorming
 Se realiza una exploración colaborativa de los eventos clave dentro del sistema,
 permitiendo entender el flujo general de procesos y detectar áreas críticas para el diseño funcional
 de Storigent. Esta técnica facilita la alineación entre el equipo y la visión del producto.
 
+Step 1: Unstructured Exploration
+
+Este primer paso del Event Storming de Storigent representa una exploración libre y sin estructura del flujo completo del producto dentro del sistema. Se identifican eventos clave como la recepción del producto, el monitoreo de condiciones climáticas, la activación del tracking, y la sincronización de inventarios. Esta etapa permite visualizar de forma general todos los procesos involucrados en la gestión, conservación y trazabilidad del inventario, sin aún definir roles ni comandos específicos.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-1.jpg" alt="Event Storming Step 1" style="width: 800px;"></img>
+
+Step 2: Timelines
+
+En esta etapa se organiza el flujo de eventos en líneas temporales claras, mostrando cómo se encadenan los procesos dentro del sistema de Storigent. Se distinguen rutas según condiciones críticas, mantenimiento preventivo, y logística de transporte. Esta visualización permite entender cuándo ocurren los eventos clave como inspección, ajustes de almacenamiento, activación de tracking, auditorías de inventario y transferencias entre almacenes, facilitando la planificación y optimización de cada fase del ciclo de vida del producto.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-2.jpg" alt="Event Storming Step 2" style="width: 800px;"></img>
+
+Step 3: Pain Points
+
+En este paso se identifican los principales puntos de dolor que Storigent busca resolver mediante flujos separados que responden a preguntas clave: cómo asegurar la conservación del producto, cómo garantizar su llegada segura, cómo evitar el desabastecimiento y cómo rastrear transferencias entre almacenes; cada flujo muestra los eventos críticos que generan fricción en la operación, permitiendo enfocar el diseño del sistema en soluciones específicas para cada problema.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-3.jpg" alt="Event Storming Step 3" style="width: 800px;"></img>
+
+Step 4: Pivotal Points
+
+Este paso destaca los puntos clave del sistema donde se toman decisiones críticas que afectan la conservación, logística y disponibilidad del producto; se identifican eventos como la detección de condiciones críticas, alertas de bajo inventario, y entregas con problemas, los cuales activan acciones como mantenimiento preventivo, generación de reportes, alertas logísticas y reabastecimiento, permitiendo que Storigent responda de forma inteligente y automatizada ante situaciones que requieren intervención inmediata.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-4.jpg" alt="Event Storming Step 4" style="width: 800px;"></img>
+
+Step 5: Commands
+
+Este paso define los comandos que activan los eventos del sistema, asignando responsabilidades claras a roles como operadores de almacén, técnicos de mantenimiento, inspectores de calidad, coordinadores logísticos y gestores de inventario; cada acción —como registrar entradas, escanear RFID, iniciar monitoreo, programar mantenimiento o activar el tracking— está vinculada a un evento específico, lo que permite estructurar el flujo operativo de Storigent de forma precisa y automatizada.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-5.jpg" alt="Event Storming Step 5" style="width: 800px;"></img>
+
+Step 6: Polices
+
+Este paso define las políticas que rigen el funcionamiento del sistema, agrupando reglas operativas como el uso obligatorio de RFID, cumplimiento climático, generación de reportes, gestión de inventario, umbrales de stock, programación de revisiones y confirmación de transferencias; estas políticas aseguran que cada acción dentro de Storigent se ejecute bajo criterios estandarizados, permitiendo trazabilidad, control de calidad y respuesta eficiente ante condiciones críticas.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-6.jpg" alt="Event Storming Step 6" style="width: 800px;"></img>
+
+Step 7: Read Models
+
+Este paso organiza la información que el sistema debe mostrar en distintas ventanas o vistas, agrupando los datos por procesos como recepción, almacenamiento, conservación, envío, alertas, mantenimiento, auditoría y transferencias; cada modelo de lectura permite visualizar el estado actual de los productos, condiciones ambientales, historial de mantenimiento, ubicación en tránsito, niveles de inventario y eventos críticos, facilitando la toma de decisiones en tiempo real dentro de Storigent.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-7.jpg" alt="Event Storming Step 7" style="width: 800px;"></img>
+
+Step 8: External Systems
+
+Este paso identifica las ventanas del sistema que se conectan con plataformas externas, como módulos de entrada, almacenamiento, envío, alertas y transferencias; cada una agrupa tareas específicas que pueden integrarse con otros sistemas —por ejemplo, escaneo RFID, monitoreo climático, seguimiento logístico o gestión de inventario— permitiendo que Storigent se comunique de forma fluida con tecnologías externas para mejorar la trazabilidad, automatización y eficiencia operativa.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-8.jpg" alt="Event Storming Step 8" style="width: 800px;"></img>
+
+Step 9: Aggregates
+
+Este paso agrupa los elementos clave del sistema en seis agregados principales: Producto, Monitoreo, Inventario, Envío, Mantenimiento y Soporte; cada agregado reúne tareas relacionadas que comparten lógica y responsabilidad, como el uso de sensores IoT para rastreo y monitoreo, auditorías de inventario, gestión de alertas, preparación de envíos y mantenimiento preventivo, permitiendo que Storigent mantenga una estructura modular, escalable y coherente para el manejo integral de inventarios.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-9.jpg" alt="Event Storming Step 9" style="width: 800px;"></img>
+
+Step 10: Bounded Contexts
+
+Este paso define los límites funcionales del sistema dividiéndolo en seis contextos independientes: Producto, Monitoreo, Inventario, Envío, Mantenimiento y Soporte; cada contexto agrupa procesos que comparten lógica y datos, como el uso de sensores IoT en monitoreo y mantenimiento, la validación de condiciones de almacenamiento, la gestión de entregas y stock, y la asistencia al usuario, permitiendo que Storigent mantenga una arquitectura modular, escalable y alineada con principios de diseño orientado a dominio.
+
+<img src="static/img/chapter 2/img-big-picture-event-storming-step-10.jpg" alt="Event Storming Step 10" style="width: 800px;"></img>
+
 ## 2.5. Ubiquitous Language
 Se define un lenguaje común entre todos los actores del proyecto, que facilite la comunicación clara
 y coherente durante el desarrollo de Storigent. Este lenguaje compartido evita ambigüedades y asegura
 que todos los involucrados comprendan los conceptos clave de forma unificada.
+
+- Product Entry (Ingreso de producto): Proceso mediante el cual un producto es registrado al llegar al almacén, incluyendo la lectura de su etiqueta RFID y la validación de su estado inicial.
+- RFID Tag (Etiqueta RFID): Identificador único que permite rastrear y registrar automáticamente la ubicación y estado del producto dentro del sistema.
+- Climate Monitoring (Monitoreo climático): Supervisión constante de las condiciones ambientales del almacén (temperatura, humedad, etc.) para asegurar la conservación adecuada de los productos.
+- Storage Conditions (Condiciones de almacenamiento): Parámetros físicos del entorno donde se guarda el producto, que deben ajustarse según sus necesidades de conservación.
+- Care Guide (Guía de cuidado): Instrucciones específicas para el manejo y conservación del producto, visibles para el personal del almacén.
+- Condition Report (Reporte de condición): Documento generado automáticamente que resume el estado actual del producto, basado en datos de sensores y revisiones.
+- Conservation Recommendation (Recomendación de conservación): Sugerencia emitida por el sistema para mejorar las condiciones de almacenamiento o transporte del producto ante riesgos detectados.
+- Preventive Maintenance (Mantenimiento preventivo): Acciones programadas para evitar el deterioro de productos o fallos en el sistema de conservación.
+- Tracking (Seguimiento): Proceso de monitoreo en tiempo real de la ubicación del producto durante su transporte entre almacenes o hacia el destino final.
+- Inventory Level (Nivel de inventario): Cantidad actual de unidades disponibles de un producto en el sistema.
+- Low Inventory Alert (Alerta de bajo inventario): Notificación automática que indica que el stock de un producto ha alcanzado un umbral mínimo.
+- Inventory Audit (Auditoría de inventario): Revisión periódica del inventario para validar la cantidad y estado de los productos registrados.
+- Warehouse Transfer (Transferencia entre almacenes): Proceso de envío de productos de un almacén a otro, incluyendo su seguimiento y confirmación de recepción.
+- Critical Conditions (Condiciones críticas): Situaciones detectadas por el sistema que pueden poner en riesgo la conservación o entrega del producto.
+- Delivery Confirmation (Confirmación de entrega): Validación de que el producto ha llegado correctamente a su destino final.
+- Alerts (Alertas): Mensajes generados por el sistema ante eventos que requieren atención inmediata, como condiciones críticas o fallos en el monitoreo.
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
