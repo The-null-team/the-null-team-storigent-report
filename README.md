@@ -2045,6 +2045,14 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 
 # Conclusiones
 
+El desarrollo del proyecto Storigent ha permitido consolidar una propuesta tecnológica innovadora orientada a mejorar la gestión y conservación de inventarios en diversos sectores empresariales. Desde sus primeras etapas, se definió con claridad el propósito del software, centrado en la optimización de recursos mediante el uso de tecnologías como RFID y monitoreo climatológico, lo cual garantiza una trazabilidad eficiente en el transporte y almacenamiento de productos. Esta visión responde a necesidades reales del mercado, especialmente en empresas que requieren control riguroso de sus materiales y condiciones de conservación.
+
+A lo largo del proceso, se aplicaron metodologías centradas en el usuario, como Lean UX y técnicas de needfinding, que permitieron identificar problemáticas clave, formular hipótesis de valor y comprender profundamente a los usuarios. Herramientas como User Personas, Empathy Maps y User Journey Mapping fueron fundamentales para diseñar una solución alineada con las expectativas del público objetivo, compuesto por empresas pequeñas, grandes y emprendedores. Asimismo, el análisis competitivo y las entrevistas realizadas aportaron información valiosa para validar la propuesta y definir estrategias diferenciadoras frente a otras soluciones del mercado.
+
+En cuanto al diseño del producto, se establecieron lineamientos visuales y arquitectónicos que aseguran coherencia, escalabilidad y facilidad de uso. Se desarrollaron diagramas de arquitectura, componentes y base de datos, además de una estructura clara del backlog y las historias de usuario que guían el desarrollo incremental del software. El primer sprint, enfocado en la implementación de la Landing Page, permitió materializar la propuesta de valor de Storigent en una interfaz funcional y atractiva, que sirve como punto de partida para la validación con usuarios reales y la captación de potenciales clientes.
+
+Finalmente, el trabajo colaborativo del equipo, junto con la aplicación de prácticas ágiles como la planificación de sprints y la documentación de evidencias, ha demostrado una gestión eficiente del proyecto. Este enfoque ha facilitado la toma de decisiones informadas y el avance continuo hacia la implementación completa del producto. Con una base sólida ya establecida, Storigent se encuentra preparado para continuar con el desarrollo de sus servicios y aplicaciones web, consolidando su posicionamiento como una solución integral en el mercado de gestión de inventarios.
+
 # Bibliografía
 Sanz Mateo, M. I. (2015). Metodología LEAN para el desarrollo de software. Ejemplo práctico de aplicación en empresa de desarrollo de software (Trabajo Fin de Grado). Universidad de Valladolid. Recuperado de https://uvadoc.uva.es/handle/10324/13538
 
