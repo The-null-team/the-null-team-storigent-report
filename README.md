@@ -232,7 +232,55 @@
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+A continuación, se especificará los parámetros implementados en la estructura del proyecto.
+
 ### 4.1.1. General Style Guidelines
+
+### Brand Overview  
+
+La startup **“Storigent”** se centra en ofrecer una solución tecnológica avanzada para la **gestión de inventarios, trazabilidad y conservación de productos sensibles** en el mercado peruano. Su propuesta establece una plataforma web inteligente, lo que permite monitorear en tiempo real condiciones críticas como temperatura, humedad y golpes durante el almacenamiento y transporte.  
+
+Además, la solución integra funcionalidades de control de stock, generación automatizada de reportes y alertas inmediatas, lo que asegura procesos más confiables, eficientes y transparentes para las empresas que buscan garantizar la calidad de sus productos.  
+
+---
+
+### Brand Name  
+
+El nombre de la propuesta es **Storigent**, que surge de la fusión de las palabras *“Storage”* (almacenamiento) y *“Intelligent”* (inteligente).  
+
+Este concepto refleja directamente el propósito de la plataforma: brindar **almacenamiento y gestión inteligente**, con especial énfasis en la conservación y trazabilidad de productos.  
+
+Storigent busca resolver los principales desafíos del sector —falta de control, visibilidad y eficiencia en la cadena de suministro— mediante una solución que combina monitoreo en tiempo real, trazabilidad completa y generación de indicadores de desempeño para la toma de decisiones estratégicas.  
+
+### Logo
+
+<img src="static/img/chapter 4/img-logo-storigent.png"></img> 
+
+### Typography
+
+La tipografía cumple un papel esencial en la organización y coherencia del lenguaje visual en todas las plataformas de la aplicación. Al momento de seleccionarla, se priorizó que las fuentes fueran claras y fáciles de leer, además de que contribuyan a mejorar la experiencia del usuario. Por esta razón, se eligieron estilos tipográficos que combinan legibilidad con un diseño que refuerza la identidad de la aplicación.
+
+<img src="static/img/chapter 4/Tipografia.png"></img> 
+
+<img src="static/img/chapter 4/koulen.png"></img> 
+
+<img src="static/img/chapter 4/inter.png"></img> 
+
+### Colores
+
+<img src="static/img/chapter 4/Colores.png"></img> 
+
+### Spacing
+
+<img src="static/img/chapter 4/espacio.png"></img> 
+
+### Tono de Comunicación y Lenguaje aplicado
+
+La paleta cromática de Storigent está diseñada para reflejar la identidad de la marca y reforzar su propuesta tecnológica en el sector logístico. El **color primario `#2E8FC6`** encarna la esencia de la plataforma, transmitiendo innovación, confianza y cercanía en cada interacción, lo que genera en el usuario una percepción de transparencia y seguridad. El **color secundario `#1B68A0`** aporta dinamismo y energía, evocando compromiso con la eficiencia y la acción continua, mientras que el **color terciario `#1A679F`** complementa con un tono de estabilidad, profesionalismo y solidez, asegurando coherencia visual en los distintos entornos digitales.  
+
+A estos se suman los **colores de estado**, fundamentales para la experiencia del usuario al comunicar situaciones específicas dentro de la plataforma. En conjunto, esta paleta no solo responde a criterios estéticos, sino que también cumple un rol estratégico en la comunicación visual: refuerza el tono profesional, resolutivo y confiable de Storigent, motivando al usuario a interactuar con la plataforma con seguridad, claridad y entusiasmo.  
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
