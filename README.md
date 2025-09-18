@@ -326,58 +326,50 @@ En este sprint se busca completar la landing page de Storigent, incluyendo el di
         <tr>
             <th>Team Member (Last Name, First Name)</th>
             <th>Github Username</th>
-            <th>Aspect Name 1 Leader (L) / Collaborator (C)</th>
-            <th>Aspect Name 2 Leader (L) / Collaborator (C)</th>
-            <th>Aspect Name 3 Leader (L) / Collaborator (C)</th>
+            <th>Diseño Landing Page</th>
+            <th>Despliegue Landing Page</th>
         </tr>
         <tr>
             <td>Calixto Iriarte, David Alejandro</td>
             <td>DavidCalixto99</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
         </tr>
         <tr>
             <td>Cespedes Pillco, Jarod Jack</td>
             <td>PruebaJJC</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
         </tr>
         <tr>
             <td>Espinar Matínez, Gabriel Ferran</td>
             <td>zzZero14</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
+            <td>Leader</td>
+            <td>Collaborator</td>
         </tr>
         <tr>
             <td>Meza Tataje, David</td>
             <td>de1vi</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
         </tr>
         <tr>
             <td>Palomino Tito, Abraham Joel</td>
             <td>AbrahamJPalominoT</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
         </tr>
         <tr>
             <td>Tello Murga, Javier Oswaldo</td>
             <td>JavierTello20</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
         </tr>
         <tr>
             <td>Zagaceta Bardales, Rodrigo Enrique</td>
             <td>Rodrigo290205</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
+            <td>Collaborator</td>
+            <td>Leader</td>
         </tr>
     </table>
 </div>
