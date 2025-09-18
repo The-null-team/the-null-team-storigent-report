@@ -575,6 +575,36 @@ funcionalidades relevantes para el producto.
 
 <strong>Emprendedores</strong>
 
+Dispositivos:
+
+<p align="center">
+    <img src="static/img/chapter 2/img-emprendedores-grafico-dispositivos.png" alt="Dispositivos Emprendedores" style="width: 300px;"></img>
+</p>
+
+Expectativas:
+
+<p align="center">
+    <img src="static/img/chapter 2/img-emprendedores-grafico-expectativas.png" alt="Expectativas Emprendedores" style="width: 300px;"></img>
+</p>
+
+Frustraciones:
+
+<p align="center">
+    <img src="static/img/chapter 2/img-emprendedores-grafico-frustraciones.png" alt="Frustraciones Emprendedores" style="width: 300px;"></img>
+</p>
+
+Herramientas Digitales:
+
+<p align="center">
+    <img src="static/img/chapter 2/img-emprendedores-grafico-herramientas-digitales.png" alt="Herramientas Digitales Emprendedores" style="width: 300px;"></img>
+</p>
+
+Personalidad:
+
+<p align="center">
+    <img src="static/img/chapter 2/img-emprendedores-grafico-personalidad.png" alt="Personalidad Emprendedores" style="width: 300px;"></img>
+</p>
+
 <strong>Empresas</strong>
 
 Dispositivos:
