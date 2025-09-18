@@ -315,6 +315,16 @@ Organizaciones de distintos tamaños en sectores como retail, alimentos, logíst
 
 **Dato de sustento**: Según ComexPerú (2023, Reporte MYPES), “el 99,5 % de las empresas en el Perú corresponden a micro y pequeñas empresas”.  
 
+#### 2. Emprendedores  
+
+Personas que inician o gestionan pequeños negocios de manera independiente y que muchas veces utilizan métodos manuales (cuadernos, hojas de cálculo, etc.) para manejar sus productos. Buscan ordenar y optimizar su inventario para crecer de forma sostenible.  
+
+**Demografía**: Personas comunes, sin necesidad de experiencia técnica avanzada, localizadas principalmente en áreas urbanas. Muchos de ellos trabajan de manera individual o con equipos reducidos.  
+
+**Necesidades clave**: Una solución práctica, económica y fácil de usar que les permita organizar su inventario desde cero, evitar pérdidas y contar con trazabilidad básica de sus productos.  
+
+**Dato de sustento**: Según ComexPerú (2023), gran parte de los emprendedores en el país se encuentran en el sector comercio, siendo uno de los más representativos dentro de las microempresas.  
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
