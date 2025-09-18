@@ -77,35 +77,35 @@ Enlace al repositorio de GitHub TB1: [Repositorio GitHub TB1](https://github.com
 
 Colaboración en el desarrollo del informe del proyecto Storigent:
 
-David Alejandro Calixto Iriarte:
+Calixto Iriarte, David Alejandro:
 
-<img src="/static/img/chapter 2/img-collaboration-David-C.png" alt="David Calixto" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-collaboration-David-C.png" alt="David Calixto" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
-Jarod Jack Céspedes Pillco:
+Céspedes Pillco, Jarod Jack:
 
-<img src="/static/img/chapter 2/img-collaboration-Jarod.png" alt="Jarod Cespedes" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-collaboration-Jarod.png" alt="Jarod Cespedes" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
 Espinar Martínez, Gabriel Ferran:
 
-<img src="/static/img/chapter 2/img-collaboration-Gabriel.png" alt="Oscar Checa" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-collaboration-Gabriel.png" alt="Gabriel Espinar" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
 Tello Murga, Javier Oswaldo:
 
-<img src="/static/img/chapter 2/img-collaboration-Javier.png" alt="Daniel Palomino" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-collaboration-Javier.png" alt="Javier Tello" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
 Zagaceta Bardales, Rodrigo Enrique:
 
-<img src="/static/img/chapter 2/img-collaboration-Rodrigo.png" alt="Rodrigo Zagaceta" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-collaboration-Rodrigo.png" alt="Rodrigo Zagaceta" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
 Meza Tataje, David:
 
-<img src="/static/img/chapter 2/img-collaboration-David-M.png" alt="Rodrigo Zagaceta" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-collaboration-David-M.png" alt="David Meza" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
 Todos los integrantes:
 
-<img src="/static/img/chapter 2/img-top-commiters.png" alt="Top Commiters" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-top-commiters.png" alt="Top Commiters" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
-<img src="/static/img/chapter 2/img-commits-over-time.png" alt="Commits Over Time" style="display: block; margin: auto; max-width: 100%; height: auto;">
+<img src="/static/img/develop/img-commits-over-time.png" alt="Commits Over Time" style="display: block; margin: auto; max-width: 100%; height: auto;">
 
 <br><br>
 
