@@ -490,6 +490,12 @@ Jorge Enrique demuestra habilidades prácticas en la organización de su inventa
 
 Expectativas y Necesidades: Las respuestas de Jorge Enrique no expresan explícitamente la necesidad o expectativa de integrar nuevas tecnologías o software para su gestión. Su enfoque está en cómo maneja los desafíos actuales con los métodos y recursos disponibles.
 
+Duración: 21:40 minutos
+
+Línea de Tiempo: 0:00 - 21:40
+
+Enlace a la entrevista: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EYZwEP021e1KuYOKCD9O0scBjzWXZSbw9CMbcqBDG46GBA?e=dTd8Va&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 <strong>Entrevista 2: Luis Alberto Calixto Ramírez</strong>
 
 Captura:
@@ -498,9 +504,9 @@ Captura:
 
 Duración: 15:58 minutos
 
-Línea de Tiempo: 
+Línea de Tiempo: 21:41 - 37:39
 
-Enlace a la entrevista: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EcThJtRL6aJFq7Wk32pNBjQBOfF9F6D4RgZPk9REMN0-uA?e=UzTDLx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace a la entrevista: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EYZwEP021e1KuYOKCD9O0scBjzWXZSbw9CMbcqBDG46GBA?e=dTd8Va&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Resumen:
 
@@ -524,6 +530,12 @@ Captura:
 
 <img src="static/img/chapter 2/img-entrevista-Sebastian.png" alt="Entrevista Sebastián" style="width: px;"></img>
 
+Duración: 9:48 minutos
+
+Línea de Tiempo: 37:40 - 47:28
+
+Enlace a la entrevista: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EYZwEP021e1KuYOKCD9O0scBjzWXZSbw9CMbcqBDG46GBA?e=dTd8Va&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 Resumen:
 
 Sebastián Díaz, un ingeniero industrial de 32 años, soltero y residente en San Borja, se desempeña como jefe de logística en una distribuidora de productos alimenticios y bebidas.
@@ -539,6 +551,12 @@ Expectativas y Necesidades: Sus principales frustraciones con los sistemas actua
 Captura:
 
 <img src="static/img/chapter 2/img-entrevista-Cesar.png" alt="Entrevista César" style="width: 600px;"></img>
+
+Duración: 9:01 minutos
+
+Línea de Tiempo: 47:29 - 56:30
+
+Enlace a la entrevista: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EYZwEP021e1KuYOKCD9O0scBjzWXZSbw9CMbcqBDG46GBA?e=dTd8Va&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Resumen:
 
@@ -557,6 +575,12 @@ Expectativas y Necesidades: Las respuestas de César reflejan una personalidad o
 Captura:
 
 <img src="static/img/chapter 2/img-entrevista-Ingrid.png" alt="Entrevista Ingrid" style="width: 600px;"></img>
+
+Duración: 11:57 minutos
+
+Línea de Tiempo: 56:31 - 1:08:28
+
+Enlace a la entrevista: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EYZwEP021e1KuYOKCD9O0scBjzWXZSbw9CMbcqBDG46GBA?e=dTd8Va&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Resumen:
 
