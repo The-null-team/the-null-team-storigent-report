@@ -283,11 +283,128 @@ A estos se suman los **colores de estado**, fundamentales para la experiencia de
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
+
+En esta sección, definiremos la estructuración del producto **Storigent** para cada uno de los segmentos objetivo. Se incluyen los componentes clave que permitirán a los usuarios organizar y encontrar su contenido: Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems.
+
 ### 4.2.1. Organization Systems
+
+La plataforma **Storigent** organiza sus funcionalidades en torno a seis ejes principales definidos en sus **Epics**:  
+1. Creación y gestión de cuentas.  
+2. Gestión de inventario en tiempo real.  
+3. Monitoreo de condiciones ambientales.  
+4. Trazabilidad y movimientos de productos.  
+5. Alertas y notificaciones predictivas.  
+6. Reportes y análisis estratégicos.  
+
+**Segmento 1: Empresas (pequeñas y grandes) – Jerárquica:**  
+- **Dashboard general:** Estado de inventario, métricas ambientales y alertas prioritarias.  
+- **Gestión de cuentas y roles (EP-01):** Registro de usuarios, asignación de permisos y perfiles administrativos.  
+- **Inventario avanzado (EP-02):** Registro de productos, actualización de stock, categorización y búsqueda.  
+- **Trazabilidad (EP-04):** Registro de entradas, salidas y transferencias entre almacenes, con tracking en transporte y alertas de retrasos.  
+- **Reportes estratégicos (EP-06):** Indicadores clave, reportes consolidados, análisis predictivo y exportación de datos.  
+
+**Secuencial:**  
+1. Registro y configuración de cuenta.  
+2. Carga de productos vía RFID y definición de categorías.  
+3. Monitoreo y control de condiciones ambientales (temperatura, humedad, sensores activos).  
+4. Seguimiento de transporte con trazabilidad y alertas automáticas.  
+5. Generación de reportes consolidados y análisis predictivo.  
+
+**Segmento 2: Emprendedores – Jerárquica:**  
+- **Gestión básica de inventario (EP-02):** Alta de productos, control de stock y categorización.  
+- **Notificaciones inteligentes (EP-05):** Alertas de stock bajo, caducidad y configuraciones personalizadas.  
+- **Historial de movimientos (EP-02/EP-04):** Registro simple de entradas, salidas y transportes realizados.  
+- **Guías de cuidado personalizadas:** Recomendaciones de conservación adaptadas al producto.  
+
+**Secuencial:**  
+1. Registro rápido de usuario y activación de perfil.  
+2. Alta de producto con guía de cuidado asociada.  
+3. Recepción de notificaciones y alertas de stock.  
+4. Revisión de historial de movimientos.  
+5. Reabastecimiento o eliminación de productos según estado.
+
+   
 ### 4.2.2. Labeling Systems
+
+El sistema de etiquetado de **Storigent** está diseñado para ser simple, directo y adaptado al contexto del usuario.  
+
+**Web App – Empresas**
+- **Inicio:** Resumen general de inventario, métricas ambientales y alertas.  
+- **Usuarios y roles:** Administración de cuentas y permisos.  
+- **Inventario:** Listado de productos, movimientos e historial.  
+- **Transporte:** Trazabilidad, transferencias y seguimiento en tiempo real.  
+- **Reportes:** Generación de indicadores y exportación de datos.  
+- **Configuración:** Ajustes de sensores, notificaciones y parámetros del sistema.  
+
+**App Móvil – Emprendedores**
+- **Mis productos:** Vista rápida del inventario personal.  
+- **Alertas:** Notificaciones sobre stock, caducidad o fallos de sensor.  
+- **Movimientos:** Registro de entradas y salidas básicas.  
+- **Transporte:** Seguimiento de envíos activos.  
+- **Guías de cuidado:** Recomendaciones automáticas de conservación.  
+- **Soporte:** Ayuda y contacto.
+  
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page (Epic 07)**
+- **Title:**  
+Storigent | Software Inteligente para Gestión y Conservación de Inventarios  
+
+- **Meta Description:**  
+Descubre Storigent, la solución digital de **LogiCore** que optimiza la gestión de inventarios con tecnología RFID, monitoreo ambiental y trazabilidad de transporte.  
+
+- **Meta Keywords:**  
+gestión de inventarios, conservación de productos, RFID, monitoreo ambiental, trazabilidad logística, Storigent, control de stock  
+
+- **Meta Author:**  
+Equipo de Desarrollo - LogiCore  
+
+**Aplicación Web**
+- **Title:**  
+Panel de Control | Storigent - Inventarios, Conservación y Trazabilidad  
+
+- **Meta Description:**  
+Accede al panel de Storigent para administrar inventarios, controlar condiciones ambientales, generar reportes y realizar seguimiento de cargas con trazabilidad en tiempo real.  
+
+- **Meta Keywords:**  
+panel de control, gestión de inventarios, conservación de productos, RFID, monitoreo climático, reportes automáticos, transporte con trazabilidad  
+
+- **Meta Author:**  
+Equipo Técnico - LogiCore  
+
 ### 4.2.4. Searching Systems
+
+**Opciones de búsqueda**  
+- Barra de búsqueda general (productos, usuarios, movimientos).  
+- Categorías de productos y etiquetas (estado, lote, ubicación).  
+- Filtros dinámicos: fechas, niveles de stock, condiciones ambientales, transporte activo.  
+
+**Resultados de búsqueda**  
+- Listado de productos con stock y estado de conservación.  
+- Historial de movimientos y trazabilidad.  
+- Alertas relacionadas y recomendaciones.  
+- Opciones de ordenación y exportación de resultados.  
+
 ### 4.2.5. Navigation Systems
+
+
+**Landing Page (Epic 07):**  
+La navegación principal está orientada a visitantes y potenciales clientes, con un menú superior simple y claro:  
+- **Inicio:** Sección hero con propuesta de valor y llamada a la acción.  
+- **Características:** Resumen de beneficios clave del producto.  
+- **Sectores:** Información sobre los sectores a los que se dirige Storigent.  
+- **Tecnología:** Explicación del uso de RFID, monitoreo ambiental y trazabilidad, etc.  
+- **Contacto:** Formulario y canales de comunicación.   
+- **Selector de idioma:** ES/EN para alternar entre español e inglés.  
+
+**Aplicación Web (Epics 01–06):**  
+La navegación está diseñada para usuarios registrados (empresas y emprendedores), con un enfoque jerárquico y orientado a tareas:  
+- **Inicio:** Dashboard con resumen de inventario, métricas ambientales y alertas.  
+- **Inventario:** Gestión de productos, stock, categorías e historial.  
+- **Transporte:** Registro de entradas, salidas, transferencias y trazabilidad.  
+- **Reportes:** Acceso a indicadores, análisis predictivo y exportación de datos.  
+- **Configuración:** Ajustes de usuarios, roles, sensores y notificaciones.
+  
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
