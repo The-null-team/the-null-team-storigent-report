@@ -283,6 +283,33 @@
   - **PlantUML** (plantuml4idea): Herramienta para generar diagramas a partir de texto, integrable en Webstorm mediante el plugin *plantuml4idea*. [https://plugins.jetbrains.com/plugin/7017-plantuml4idea](https://plugins.jetbrains.com/plugin/7017-plantuml4idea)
 
 ### 5.1.2. Source Code Management
+
+Nuestro proyecto seguirá las convenciones de flujo de trabajo definidas por el modelo GitFlow para el control de versiones de desarrollo. Teniendo a GitHub como plataforma y sistema de control de versiones.   
+
+A continuación detallaremos la implementación del modelo GitFlow y se proporcionará los URL de los repositorios de GitHub de cada producto del trabajo.
+
+**Repositorios de GitHub:**
+- Organización en GitHub: [https://github.com/The-null-team](https://github.com/The-null-team)   
+- Reporte: [https://github.com/The-null-team/the-null-team-storigent-report](https://github.com/The-null-team/the-null-team-storigent-report)   
+- Landing Page: [https://github.com/The-null-team/the-null-team-storigent-landing-page](https://github.com/The-null-team/the-null-team-storigent-landing-page)   
+
+**Flujo de Trabajo GitFlow:** GitFlow es un modelo de flujo de trabajo para administrar y gestionar branches en un proyecto Git, propuesto por Vincent Driessen, diseñado para facilitar el desarrollo colaborativo.   
+
+**Estructuras de Ramas o Branches:**
+- **Main Branch:** Es la rama principal de la aplicación, contiene las versiones estables y sin errores listas para ser lanzadas públicamente.
+- **Develop Branch:** Es la rama base para el desarrollo activo, aquí se integran todas las funcionalidades nuevas antes de que se considere un lanzamiento.
+- **Feature Branch:** Es la rama que se usa para desarrollar nuevas funcionalidades o mejoras específicas del proyecto.
+- **Release Branch:** Es la rama que se utiliza para preparar una versión estable del proyecto donde se corrigen bug menores, se actualizan versiones y se ajustan las configuraciones necesarias.
+
+**Versionamiento Semántico:** Aplicaremos el sistema de versionamiento semántico (Semantic Versioning) para dar nombre a los releases de nuestra aplicación.
+
+**Convenciones de Commits:** Para hacer commits claros y estructurados en nuestro proyecto, utilizaremos la especificación Conventional Commits. Aquí tenemos a los que más usaremos en el desarrollo de ete proyecto:   
+- ```feat```: Para nuevas características.
+- ```fix```: Para arreglo de errores o *bugs*.
+- ```docs```: Para cambios en la documentación del proyecto.
+- ```refactor```: Para la refactorización de código que no añade características ni corrige errores.
+- ```chore```: Para actualizaciones que no afectan al código original.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
