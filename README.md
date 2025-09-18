@@ -349,7 +349,7 @@ Estas convenciones se emplearon en los entornos utilizados durante el proceso de
 **Convenciones Generales de Desarrollo:**
 
 **1. Convención de Nombrado:**   
-- Los nombres de los archivos deberán ir en minúscula y separadas por guiones. Por ejemplo: ```person-entity.js```   
+- Los nombres de los archivos deberán ir en minúscula y separadas por guiones. Por ejemplo: ```person-entity.ts```   
 - Los nombres de clases o componentes deberán seguir el formato *PascalCase*. Por ejemplo: ```PersonAssembler```
 - Los nombres de las variables deben ser descriptivas. Evitar usar nombres como: ```x```, ```tmp```
 
@@ -474,9 +474,6 @@ En este sprint se busca completar la landing page de Storigent, incluyendo el di
 
 El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page funcional para el proyecto Storigent. A continuación se muestra una captura de pantalla de las historias de usuario que se buscan trabajar en este sprint.
 
-_Aquí iría la screenshot de la página de Miro o Trello_   
-Link: _Aquí va el link_
-
 <div align="center">
     <table>
         <tr>
@@ -498,14 +495,94 @@ Link: _Aquí va el link_
             <th>Status (To-Do / In-Process / To-Review / Done)</th>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US-37</td>
+            <td>Sección principal (Hero) con llamada a la acción</td>
+            <td>T01</td>
+            <td>Diseñar vista principal de la landing page</td>
+            <td>Crear un vista de presentación del proyecto que contenga la llamada a la acción del usuario</td>
+            <td>2</td>
+            <td>Espinar Martínez, Gabriel Ferran</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-38</td>
+            <td>Beneficios para cada tipo de usuario</td>
+            <td>T02</td>
+            <td>Diseñar vista de beneficios del producto</td>
+            <td>Crear una vista que contenga los beneficios el usuario puede obtener al usar nuestra plataforma</td>
+            <td>2</td>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-38</td>
+            <td>Beneficios para cada tipo de usuario</td>
+            <td>T03</td>
+            <td>Diseñar vista de tecnología de vanguardia</td>
+            <td>Crear una vista que contenga las tecnología que nuestro proyecto implementa</td>
+            <td>2</td>
+            <td>Meza Tataje, David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-38</td>
+            <td>Beneficios para cada tipo de usuario</td>
+            <td>T04</td>
+            <td>Diseñar vista de sectores</td>
+            <td>Crear una vista que hable sobre los sectores en los que trabajamos</td>
+            <td>2</td>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-39</td>
+            <td>Planes y precios básicos</td>
+            <td>T05</td>
+            <td>Diseñar vista de planes y precios que ofrece nuestro producto</td>
+            <td>Crear una vista que mustre los planes con sus respectivos precios y los beneficios que traen</td>
+            <td>2</td>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-40</td>
+            <td>Formulario de contacto o demo</td>
+            <td>T06</td>
+            <td>Diseñar vista de contacto</td>
+            <td>Crear una vista que provea nuestra información de contacto para el usuario</td>
+            <td>2</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-41</td>
+            <td>Preguntas frecuentes y testimonios</td>
+            <td>T07</td>
+            <td>Diseñar vista de preguntas frecuentes (FAQ)</td>
+            <td>Crear una vista donde damos respuestas a las preguntas más comunes sobre el producto</td>
+            <td>1</td>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>In-Progress</td>
+        </tr>
+        <tr>
+            <td>US-41</td>
+            <td>Preguntas frecuentes y testimonios</td>
+            <td>T08</td>
+            <td>Diseñar vista de testimonios</td>
+            <td>Crear una vista donde mostramos los testimonios de los usuarios que han usado nuestra plataforma</td>
+            <td>2</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>To-Do</td>
+        </tr>
+        <tr>
+            <td>US-42</td>
+            <td>Diseño adaptable y optimizado</td>
+            <td>T09</td>
+            <td>Diseñar una interfaz responsiva y optimizada</td>
+            <td>Crear estilos que implementen responsiveness y que usen animaciones suaves para evitar sobrecargas</td>
+            <td>3</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
         </tr>
     </table>
 </div>
