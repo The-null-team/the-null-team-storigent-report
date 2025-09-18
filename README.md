@@ -1043,3 +1043,14 @@ que todos los involucrados comprendan los conceptos clave de forma unificada.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+# Conclusiones
+
+# Bibliografía
+
+# Anexos
+### Anexo A: Entrevistas Completas
+- Enlace a las entrevistas: [Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215489_upc_edu_pe/EYZwEP021e1KuYOKCD9O0scBjzWXZSbw9CMbcqBDG46GBA?e=dTd8Va&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+### Anexo B: Videos de Exposiciones
+- TB1: [Exposición TB1]()
