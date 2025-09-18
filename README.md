@@ -663,6 +663,291 @@ Se organiza la información sobre las tareas clave que los usuarios realizan en 
 de inventarios, vinculándolas con sus objetivos y necesidades. Esta matriz permite identificar oportunidades
 de mejora en la experiencia del usuario.
 
+<table>
+    <tr>
+        <td rowspan="2">
+            Tarea
+        </td>
+        <td colspan="2">
+            Jorge Luis Ramírez
+        </td>
+        <td colspan="2">
+            Sebastián Diaz
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Frecuencia
+        </td>
+        <td>
+            Importancia
+        </td>
+        <td>
+            Frecuencia
+        </td>
+        <td>
+            Importancia
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Registrar entradas y salidas de inventario
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Verificar estado físico de productos
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+        <td>
+            Casi siempre
+        </td>
+        <td>
+            Importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Organizar productos por categoría
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Coordinar transporte y entregas
+        </td>
+        <td>
+            Casi siempre
+        </td>
+        <td>
+            Importante
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Responder consultas de clientes
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+        <td>
+            A veces
+        </td>
+        <td>
+            Importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Revisar niveles de stock
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Realizar pedidos a proveedores
+        </td>
+        <td>
+            A veces
+        </td>
+        <td>
+            Importante
+        </td>
+        <td>
+            Casi siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Supervisar condiciones de conversación
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Actualizar registros financieros
+        </td>
+        <td>
+            A veces
+        </td>
+        <td>
+            Importante
+        </td>
+        <td>
+            Casi siempre
+        </td>
+        <td>
+            Importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Controlar fechas de vencimiento
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gestionar devoluciones o reclamos
+        </td>
+        <td>
+            A veces
+        </td>
+        <td>
+            Importante
+        </td>
+        <td>
+            A veces
+        </td>
+        <td>
+            Importante
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Analizar pérdidas por errores logísticos
+        </td>
+        <td>
+            Rara vez
+        </td>
+        <td>
+            Poco importante
+        </td>
+        <td>
+            Siempre
+        </td>
+        <td>
+            Muy importante
+        </td>
+    </tr>
+</table>
+
+<strong>Análisis de la User Task Matrix</strong>
+
+<strong>Tareas con mayor frecuencia e importancia en ambos segmentos</strong>
+
+Las siguientes tareas son realizadas siempre y consideradas muy importantes tanto por los Emprendedores como por las Empresas:
+
+- Registrar entradas y salidas de inventario
+- Revisar niveles de stock
+- Organizar productos por categoría
+- Supervisar condiciones de conservación
+- Controlar fechas de vencimiento
+
+Estas tareas son críticas para la operación diaria de ambos segmentos. Reflejan la necesidad de tener un control constante y detallado del inventario, especialmente en negocios donde los productos son perecederos o personalizados. Esto indica que cualquier solución tecnológica debe priorizar funcionalidades que faciliten estas acciones, como automatización, alertas, categorización visual y monitoreo de condiciones.
+
+<strong>Tareas con diferencias significativas entre segmentos</strong>
+
+1. Responder consultas de clientes
+- Emprendedores: Siempre / Muy importante
+- Empresas: A veces / Importante
+    - Los emprendedores tienen una relación directa con sus clientes, lo que hace que esta tarea sea constante y prioritaria. En cambio, las empresas delegan esta función o la gestionan por canales más estructurados.
+
+2. Analizar pérdidas por errores logísticos
+- Emprendedores: Rara vez / Poco importante
+- Empresas: Siempre / Muy importante
+    - Las empresas tienen procesos más complejos y estructurados, por lo que el análisis de pérdidas es esencial para la mejora continua. Los emprendedores, al tener operaciones más pequeñas, no priorizan esta tarea.
+
+3. Actualizar registros financieros
+- Emprendedores: A veces / Importante
+- Empresas: Casi siempre / Importante
+    - Las empresas tienen mayor regularidad en esta tarea por exigencias contables y de reporte. Los emprendedores lo hacen de forma más informal o esporádica.
+
+4. Realizar pedidos a proveedores
+- Emprendedores: A veces / Importante
+- Empresas: Casi siempre / Muy importante
+    - Las empresas tienen ciclos de abastecimiento más definidos y constantes, mientras que los emprendedores compran según demanda.
+
+<strong>Tareas con coincidencias en frecuencia e importancia</strong>
+
+- Gestionar devoluciones o reclamos
+    - Ambos segmentos: A veces / Importante
+        - Aunque no es una tarea diaria, ambos reconocen su relevancia cuando ocurre.
+
+- Coordinar transporte y entregas
+    - Emprendedores: Casi siempre / Importante
+    - Empresas: Siempre / Muy importante
+        - Ambos realizan esta tarea, pero las empresas le dan mayor prioridad por el volumen y complejidad de sus operaciones.
+
+<strong>Conclusión</strong>
+
+- Las tareas más relevantes para ambos segmentos están relacionadas con el control del inventario, la organización de productos y la conservación adecuada.
+- Los Emprendedores se enfocan más en la atención al cliente y la gestión visual, mientras que las Empresas priorizan el análisis logístico, la integración de procesos y la trazabilidad.
+- Las coincidencias permiten diseñar funcionalidades comunes en Storigent, mientras que las diferencias sugieren la necesidad de personalización por segmento.
+
 ### 2.3.3. User Journey Mapping
 Se visualiza el recorrido del usuario al interactuar con el producto, identificando momentos críticos,
 emociones, puntos de dolor y oportunidades de mejora. Este mapeo ayuda a entender la experiencia completa
