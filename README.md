@@ -308,11 +308,11 @@
         </tr>
         <tr>
             <th>Sprint 1 Velocity</th>
-            <td>XX Story Points</td>
+            <td>17 Story Points</td>
         </tr>
         <tr>
             <th>Sum of Story Points</th>
-            <td>XX Story Points</td>
+            <td>17 Story Points</td>
         </tr>
     </table>
 </div>
