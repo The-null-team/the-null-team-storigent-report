@@ -282,6 +282,15 @@ La paleta cromática de Storigent está diseñada para reflejar la identidad de 
 A estos se suman los **colores de estado**, fundamentales para la experiencia del usuario al comunicar situaciones específicas dentro de la plataforma. En conjunto, esta paleta no solo responde a criterios estéticos, sino que también cumple un rol estratégico en la comunicación visual: refuerza el tono profesional, resolutivo y confiable de Storigent, motivando al usuario a interactuar con la plataforma con seguridad, claridad y entusiasmo.  
 
 ### 4.1.2. Web Style Guidelines
+
+La aplicación web de **Storigent** será diseñada bajo principios de **responsive design**, asegurando que la experiencia de usuario se mantenga clara y funcional en cualquier dispositivo tecnológico, ya sea computadora, tablet o smartphone. El diseño se adaptará automáticamente a los distintos tamaños de pantalla sin comprometer la usabilidad ni la presentación del contenido.  
+
+Se implementará el **patrón de lectura en Z**, comenzando en la esquina superior izquierda con el **logotipo de Storigent**, que servirá como punto de referencia visual y refuerzo de la identidad de la marca. A continuación, la vista se desplazará hacia la esquina superior derecha, donde estarán ubicados los accesos principales como **Inicio**, **Características**, **Sectores**, **Tecnología** y **Contacto**, así como opciones de **Login** y **Sign up**.  
+
+En el recorrido descendente de la Z, el usuario encontrará la **sección principal (Hero)** con el mensaje clave de la plataforma y una llamada a la acción destacada, invitando a explorar los beneficios o registrarse. Finalmente, la línea visual llevará al extremo inferior derecho, donde se ubicarán elementos secundarios como enlaces de soporte, idioma y políticas.  
+
+Este estilo de navegación asegura que la interfaz sea **intuitiva, moderna y coherente**, facilitando que empresas y emprendedores accedan rápidamente a las funcionalidades que **Storigent** ofrece: trazabilidad con RFID, monitoreo climatológico en tiempo real y control eficiente de inventarios.  
+
 ## 4.2. Information Architecture
 
 En esta sección, definiremos la estructuración del producto **Storigent** para cada uno de los segmentos objetivo. Se incluyen los componentes clave que permitirán a los usuarios organizar y encontrar su contenido: Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems.
