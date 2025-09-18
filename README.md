@@ -477,31 +477,27 @@ A continuación, se detalla la participación específica de cada integrante del
         </tr>
         <tr>
             <td>Calixto Iriarte, David Alejandro</td>
-            <td></td>
+            <td>Elaboración del Capítulo I Introduction del informe y diseño de la sección Sectores de la landing page</td>
         </tr>
         <tr>
             <td>Cespedes Pillco, Jarod Jack</td>
-            <td></td>
+            <td>Elaboración del Capítulo V Product Implementation, Validation & Deployment del informe y diseño de la sección Elige Tu Plan de la landing page</td>
         </tr>
         <tr>
             <td>Espinar Martínez, Gabriel Ferran</td>
-            <td></td>
+            <td>Elaboración del Capítulo IV Product Design del informe y diseño de la sección Sobre Nosotros de la landing page</td>
         </tr>
         <tr>
             <td>Meza Tataje, David</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Palomino Tito, Abraham Joel</td>
-            <td></td>
+            <td>Elaboración del Capítulo II Requirements Elicitation & Analysis del informe y diseño de la sección Tecnología de Vanguardia de la landing page</td>
         </tr>
         <tr>
             <td>Tello Murga, Javier Oswaldo</td>
-            <td></td>
+            <td>Elaboración del Capítulo III Requirements Specification y parte del Capítulo IV Product Design, y diseño de la sección Características de la landing page</td>
         </tr>
         <tr>
             <td>Zagaceta Bardales, Rodrigo Enrique</td>
-            <td></td>
+            <td>Elaboración del Capítulo II Requirements Elicitation & Analysis del informe y diseño de la sección Contactos de la landing page</td>
         </tr>
     </table>
 </div>
