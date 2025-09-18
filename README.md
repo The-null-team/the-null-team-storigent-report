@@ -406,15 +406,132 @@ Todos los integrantes:
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+Storigent es una startup tecnológica enfocada en optimizar la gestión de inventarios y conservación de productos a través de un software inteligente. Nuestra plataforma integra herramientas de control de inventario en tiempo real, monitoreo de condiciones ambientales (como temperatura y humedad), trazabilidad de productos y generación de alertas predictivas para prevenir pérdidas o deterioro.
+El objetivo de Storigent es brindar a las empresas una solución integral y fácil de usar que aumente la eficiencia gestion de productos, reduzca costos asociados a mermas y mejore la toma de decisiones estratégicas mediante reportes y análisis avanzados. Con una interfaz intuitiva y adaptable a distintos sectores como alimentos, farmacéutica, retail o manufactura. Storigent busca convertirse en un aliado clave para la digitalización de la logística interna, asegurando la calidad de los productos desde su recepción hasta su distribución.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+| Integrante | Foto     |  Perfil de estudiante    |
+|:------------|:----------:|-----------:|
+|   |  |   |
+|   |  |   |
+|   |  |   |
+|   |  |   |
+|   |  |   |
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
-#### 1.2.2.2. Lean UX Assumptions.
-#### 1.2.2.3. Lean UX Hypothesis Statements
-#### 1.2.2.4. Lean UX Canvas
-## 1.3. Segmentos objetivo
+Para identificar las principales dificultades en la gestión y conservación de productos almacenados, es necesario analizar los principales desafíos con respecto a la pérdida de recursos, la falta de control y/o irregularidades que pueden presentar sistemas modernos que logran afectar la calidad y disponibilidad de los productos.
+
+#Análisis de Antecedentes y Problemática (5W + 2H)
+
+#Who (Quiénes):
+Personas, instituciones o entidades que que necesitan gestionar y almacenar de manera adecuada sus productos, los cuales pueden tener diferente naturaleza (alimentos, artículos de consumo, materiales, insumos, etc.) y cada uno con su respectiva medida de conservación.
+
+#What (Qué):
+La dificultad de contar con un control eficiente del inventario y con una conservación adecuada que evite el deterioro, la caducidad o la pérdida de productos afectando su negocio de manera significativa.
+
+#Where (Dónde):
+En cualquier lugar de negocio que cuente con un almacenamiento de productos y manejo un inventario, ya sea desde pequeños depósitos, almacenes domésticos o comunitarios, hasta grandes empresas de mayor gestión.
+
+#When (Cuándo):
+El problema surge de forma constante durante la gestión cotidiana del almacenamiento, pero se intensifica en momentos de alta rotación, acumulación de stock o falta de monitoreo en tiempo real al realizar operaciones de inventarios.
+
+#Why (Por qué):
+
+-Procesos de control manual poco fiables.
+
+-Falta de seguimiento a las condiciones ambientales de conservación.
+
+-Ausencia o ineficiencia de trazabilidad en los productos.
+
+-Limitada información en tiempo real para tomar decisiones.
+
+#How (Cómo):
+Esto ocasiona pérdidas por caducidad, desperdicio de recursos, desorganización del espacio y mayores dificultades para dar seguimiento al flujo de productos.
+
+#How Much (Cuánto):
+
+Se estima que entre un 5% y 15% de los productos almacenados pueden perderse por deterioro o caducidad sin una gestión adecuada. Esto genera impacto económico, social y ambiental, pues aumenta el desperdicio y reduce la eficiencia en el uso de recursos. 
+
+
+### 1.2.2 Lean UX Process  
+#### 1.2.2.1. Lean UX Problem Statements  
+
+En un escenario donde la administración de inventarios y la trazabilidad logística son determinantes para la competitividad, se identifica la necesidad de contar con una plataforma digital que permita controlar, conservar y transportar productos de manera eficiente. Esta solución debe ofrecer a empresas y emprendedores una experiencia práctica, confiable y adaptable a sus operaciones.  
+
+Como equipo, asumimos el compromiso de abordar este reto en conjunto con los usuarios que requieren optimizar la gestión de inventarios y con las organizaciones interesadas en mejorar su trazabilidad y reducir pérdidas. Nuestro enfoque estará en comprender a fondo sus necesidades y expectativas para diseñar y desarrollar una solución innovadora que responda integralmente a sus requerimientos.  
+
+---
+
+#### 1.2.2.2. Lean UX Assumptions  
+
+**Business Assumptions**  
+
+1. **Demanda de mercado**: Suponemos que emprendedores y empresas de distintos tamaños enfrentan dificultades frecuentes en la gestión de inventarios y necesitan herramientas tecnológicas que les ayuden a disminuir errores, optimizar procesos y mejorar la trazabilidad.  
+2. **Disposición al uso**: Suponemos que los usuarios estarán abiertos a dejar los métodos manuales (como hojas de cálculo o registros físicos) para adoptar una solución digital siempre que sea intuitiva, accesible y fácil de usar.  
+3. **Impacto económico positivo**: Suponemos que Storigent reducirá costos operativos al minimizar pérdidas por exceso de stock, deterioro de productos y problemas en transporte, lo que facilitará la recuperación de la inversión.  
+4. **Accesibilidad tecnológica**: Suponemos que la mayoría de usuarios tiene acceso a internet y dispositivos móviles o computadoras, lo que permitirá implementar Storigent sin limitaciones de infraestructura.  
+5. **Escalabilidad**: Suponemos que la plataforma podrá crecer con el negocio, desde un pequeño inventario inicial hasta operaciones de mayor volumen y complejidad.  
+6. **Confianza y adopción**: Suponemos que al integrar gestión de inventarios, guías de conservación y trazabilidad, Storigent se diferenciará de soluciones parciales, logrando confianza y lealtad de los usuarios.  
+
+**User Assumptions**  
+
+- Los usuarios buscan una solución integral que combine inventarios, conservación y trazabilidad.  
+- Valoran la accesibilidad y la conveniencia de usar la plataforma desde cualquier lugar y dispositivo.  
+- Están dispuestos a invertir en una herramienta confiable que reduzca errores y aumente la eficiencia.  
+- Esperan que las guías de conservación sean simples y aplicables a sus negocios.  
+- Dan importancia a la seguridad y transparencia en la gestión de datos y operaciones.  
+
+---
+
+#### 1.2.2.3. Lean UX Hypothesis Statements  
+
+- Creemos que emprendedores y empresas requieren una solución integral que permita gestionar inventarios, conservar productos y asegurar la trazabilidad en transporte.  
+- Creemos que si ofrecemos una plataforma accesible y sencilla, los usuarios la preferirán frente a métodos manuales o herramientas aisladas.  
+- Creemos que al brindar datos claros y en tiempo real, los usuarios podrán reducir errores, mejorar la eficiencia y disminuir pérdidas por deterioro o exceso de stock.  
+- Creemos que si garantizamos seguridad y transparencia en la información, los usuarios confiarán en Storigent e integrarán la plataforma a sus operaciones.  
+- Creemos que al evidenciar un impacto positivo en la reducción de costos y riesgos, los usuarios estarán dispuestos a invertir en Storigent como una solución sostenible y escalable.  
+
+---
+
+#### 1.2.2.4. Lean UX Canvas  
+
+| **1. Business problem** | **5. Solutions** | **2. Business outcomes** |
+|--------------------------|------------------|---------------------------|
+| En el Perú, muchas empresas y emprendedores sufren pérdidas económicas debido a una gestión ineficiente de inventarios, falta de trazabilidad en transporte y ausencia de guías de conservación. Esto ocasiona errores, mermas, sobrecostos logísticos y desorden operativo, afectando su competitividad y sostenibilidad. | <br><br>• Sistema inteligente de registro y control de inventarios.<br>• Guías de conservación y recomendaciones por tipo de producto.<br>• Reportes automáticos de pérdidas, rotación y alertas de stock.<br>• Interfaz amigable accesible desde la web.<br>• Gestión de usuarios, roles y permisos para empresas. | • Optimizar la gestión de inventarios y reducir pérdidas.<br>• Mejorar la trazabilidad de productos durante el transporte.<br>• Ofrecer una plataforma adaptable tanto a pequeños como a grandes negocios. |
+
+| **3. Users** |   | **4. User outcomes and benefits** |
+|--------------|---|-----------------------------------|
+| • Empresas pequeñas y grandes: buscan reducir costos, mejorar control operativo y asegurar trazabilidad en toda la cadena.<br><br>• Emprendedores: requieren una solución práctica, económica y sencilla para gestionar inventarios desde el inicio y crecer ordenadamente. |   | • Minimizar errores en inventarios.<br>• Reducir pérdidas por conservación inadecuada.<br>• Obtener trazabilidad en tiempo real.<br>• Aumentar eficiencia con una herramienta intuitiva.<br>• Escalar el negocio con una solución flexible. |
+
+| **6. Hypothesis** | **7. ¿Qué es lo más importante que debemos aprender primero?** | **8. ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?** |
+|-------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| • Creemos que los usuarios adoptarán una app integral de inventarios si esta reduce errores y pérdidas económicas.<br>• Sabremos que hemos tenido éxito si al menos el 60% de usuarios reporta una reducción en pérdidas en los primeros 3 meses.<br>• Creemos que las guías de conservación representan un valor clave.<br>• Sabremos que hemos tenido éxito si al menos el 50% de usuarios las utiliza con frecuencia. | • Si las empresas están dispuestas a digitalizar sus procesos.<br>• Qué interés real existe en la trazabilidad en distintos sectores.<br>• Si las guías de conservación resultan útiles y aplicables.<br>• Qué barreras de adopción tecnológica enfrentan los usuarios. | • Crear un landing page con la propuesta de valor.<br>• Realizar entrevistas a emprendedores y empresas.<br>• Desarrollar un video demostrativo que muestre beneficios y casos de uso. |  
+
+---
+
+## 1.3. Segmentos objetivo  
+
+#### 1. Empresas (pequeñas y grandes)  
+
+Organizaciones de distintos tamaños en sectores como retail, alimentos, logística, farmacéutica y manufactura. Buscan mejorar la gestión de inventarios, reducir pérdidas y optimizar la trazabilidad.  
+
+**Demografía**: Ubicadas principalmente en centros urbanos e industriales, con equipos que van desde unas decenas hasta cientos de empleados.  
+
+**Necesidades clave**: Control en tiempo real, conservación de productos y reducción de costos operativos.  
+
+**Dato de sustento**: Según ComexPerú (2023, Reporte MYPES), “el 99,5 % de las empresas en el Perú corresponden a micro y pequeñas empresas”.  
+
+#### 2. Emprendedores  
+
+Personas que inician o gestionan pequeños negocios de manera independiente y que muchas veces utilizan métodos manuales (cuadernos, hojas de cálculo, etc.) para manejar sus productos. Buscan ordenar y optimizar su inventario para crecer de forma sostenible.  
+
+**Demografía**: Personas comunes, sin necesidad de experiencia técnica avanzada, localizadas principalmente en áreas urbanas. Muchos de ellos trabajan de manera individual o con equipos reducidos.  
+
+**Necesidades clave**: Una solución práctica, económica y fácil de usar que les permita organizar su inventario desde cero, evitar pérdidas y contar con trazabilidad básica de sus productos.  
+
+**Dato de sustento**: Según ComexPerú (2023), gran parte de los emprendedores en el país se encuentran en el sector comercio, siendo uno de los más representativos dentro de las microempresas.  
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
