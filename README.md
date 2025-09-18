@@ -1803,17 +1803,197 @@ Referencia URL: https://trello.com/invite/b/68cadaeea4756cf09805bac4/ATTI112d83b
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+A continuación, se especificará los parámetros implementados en la estructura del proyecto.
+
 ### 4.1.1. General Style Guidelines
+
+### Brand Overview  
+
+La startup **“Storigent”** se centra en ofrecer una solución tecnológica avanzada para la **gestión de inventarios, trazabilidad y conservación de productos sensibles** en el mercado peruano. Su propuesta establece una plataforma web inteligente, lo que permite monitorear en tiempo real condiciones críticas como temperatura, humedad y golpes durante el almacenamiento y transporte.  
+
+Además, la solución integra funcionalidades de control de stock, generación automatizada de reportes y alertas inmediatas, lo que asegura procesos más confiables, eficientes y transparentes para las empresas que buscan garantizar la calidad de sus productos.  
+
+---
+
+### Brand Name  
+
+El nombre de la propuesta es **Storigent**, que surge de la fusión de las palabras *“Storage”* (almacenamiento) y *“Intelligent”* (inteligente).  
+
+Este concepto refleja directamente el propósito de la plataforma: brindar **almacenamiento y gestión inteligente**, con especial énfasis en la conservación y trazabilidad de productos.  
+
+Storigent busca resolver los principales desafíos del sector —falta de control, visibilidad y eficiencia en la cadena de suministro— mediante una solución que combina monitoreo en tiempo real, trazabilidad completa y generación de indicadores de desempeño para la toma de decisiones estratégicas.  
+
+### Logo
+
+<img src="static/img/chapter 4/img-logo-storigent.png"></img> 
+
+### Typography
+
+La tipografía cumple un papel esencial en la organización y coherencia del lenguaje visual en todas las plataformas de la aplicación. Al momento de seleccionarla, se priorizó que las fuentes fueran claras y fáciles de leer, además de que contribuyan a mejorar la experiencia del usuario. Por esta razón, se eligieron estilos tipográficos que combinan legibilidad con un diseño que refuerza la identidad de la aplicación.
+
+<img src="static/img/chapter 4/Tipografia.png"></img> 
+
+<img src="static/img/chapter 4/koulen.png"></img> 
+
+<img src="static/img/chapter 4/inter.png"></img> 
+
+### Colores
+
+<img src="static/img/chapter 4/Colores.png"></img> 
+
+### Spacing
+
+<img src="static/img/chapter 4/espacio.png"></img> 
+
+### Tono de Comunicación y Lenguaje aplicado
+
+La paleta cromática de Storigent está diseñada para reflejar la identidad de la marca y reforzar su propuesta tecnológica en el sector logístico. El **color primario `#2E8FC6`** encarna la esencia de la plataforma, transmitiendo innovación, confianza y cercanía en cada interacción, lo que genera en el usuario una percepción de transparencia y seguridad. El **color secundario `#1B68A0`** aporta dinamismo y energía, evocando compromiso con la eficiencia y la acción continua, mientras que el **color terciario `#1A679F`** complementa con un tono de estabilidad, profesionalismo y solidez, asegurando coherencia visual en los distintos entornos digitales.  
+
+A estos se suman los **colores de estado**, fundamentales para la experiencia del usuario al comunicar situaciones específicas dentro de la plataforma. En conjunto, esta paleta no solo responde a criterios estéticos, sino que también cumple un rol estratégico en la comunicación visual: refuerza el tono profesional, resolutivo y confiable de Storigent, motivando al usuario a interactuar con la plataforma con seguridad, claridad y entusiasmo.  
+
 ### 4.1.2. Web Style Guidelines
+
+La aplicación web de **Storigent** será diseñada bajo principios de **responsive design**, asegurando que la experiencia de usuario se mantenga clara y funcional en cualquier dispositivo tecnológico, ya sea computadora, tablet o smartphone. El diseño se adaptará automáticamente a los distintos tamaños de pantalla sin comprometer la usabilidad ni la presentación del contenido.  
+
+Se implementará el **patrón de lectura en Z**, comenzando en la esquina superior izquierda con el **logotipo de Storigent**, que servirá como punto de referencia visual y refuerzo de la identidad de la marca. A continuación, la vista se desplazará hacia la esquina superior derecha, donde estarán ubicados los accesos principales como **Inicio**, **Características**, **Sectores**, **Tecnología** y **Contacto**, así como opciones de **Login** y **Sign up**.  
+
+En el recorrido descendente de la Z, el usuario encontrará la **sección principal (Hero)** con el mensaje clave de la plataforma y una llamada a la acción destacada, invitando a explorar los beneficios o registrarse. Finalmente, la línea visual llevará al extremo inferior derecho, donde se ubicarán elementos secundarios como enlaces de soporte, idioma y políticas.  
+
+Este estilo de navegación asegura que la interfaz sea **intuitiva, moderna y coherente**, facilitando que empresas y emprendedores accedan rápidamente a las funcionalidades que **Storigent** ofrece: trazabilidad con RFID, monitoreo climatológico en tiempo real y control eficiente de inventarios.  
+
 ## 4.2. Information Architecture
+
+En esta sección, definiremos la estructuración del producto **Storigent** para cada uno de los segmentos objetivo. Se incluyen los componentes clave que permitirán a los usuarios organizar y encontrar su contenido: Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems.
+
 ### 4.2.1. Organization Systems
+
+La plataforma **Storigent** organiza sus funcionalidades en torno a seis ejes principales definidos en sus **Epics**:  
+1. Creación y gestión de cuentas.  
+2. Gestión de inventario en tiempo real.  
+3. Monitoreo de condiciones ambientales.  
+4. Trazabilidad y movimientos de productos.  
+5. Alertas y notificaciones predictivas.  
+6. Reportes y análisis estratégicos.  
+
+**Segmento 1: Empresas (pequeñas y grandes) – Jerárquica:**  
+- **Dashboard general:** Estado de inventario, métricas ambientales y alertas prioritarias.  
+- **Gestión de cuentas y roles (EP-01):** Registro de usuarios, asignación de permisos y perfiles administrativos.  
+- **Inventario avanzado (EP-02):** Registro de productos, actualización de stock, categorización y búsqueda.  
+- **Trazabilidad (EP-04):** Registro de entradas, salidas y transferencias entre almacenes, con tracking en transporte y alertas de retrasos.  
+- **Reportes estratégicos (EP-06):** Indicadores clave, reportes consolidados, análisis predictivo y exportación de datos.  
+
+**Secuencial:**  
+1. Registro y configuración de cuenta.  
+2. Carga de productos vía RFID y definición de categorías.  
+3. Monitoreo y control de condiciones ambientales (temperatura, humedad, sensores activos).  
+4. Seguimiento de transporte con trazabilidad y alertas automáticas.  
+5. Generación de reportes consolidados y análisis predictivo.  
+
+**Segmento 2: Emprendedores – Jerárquica:**  
+- **Gestión básica de inventario (EP-02):** Alta de productos, control de stock y categorización.  
+- **Notificaciones inteligentes (EP-05):** Alertas de stock bajo, caducidad y configuraciones personalizadas.  
+- **Historial de movimientos (EP-02/EP-04):** Registro simple de entradas, salidas y transportes realizados.  
+- **Guías de cuidado personalizadas:** Recomendaciones de conservación adaptadas al producto.  
+
+**Secuencial:**  
+1. Registro rápido de usuario y activación de perfil.  
+2. Alta de producto con guía de cuidado asociada.  
+3. Recepción de notificaciones y alertas de stock.  
+4. Revisión de historial de movimientos.  
+5. Reabastecimiento o eliminación de productos según estado.
+
+   
 ### 4.2.2. Labeling Systems
+
+El sistema de etiquetado de **Storigent** está diseñado para ser simple, directo y adaptado al contexto del usuario.  
+
+**Web App – Empresas**
+- **Inicio:** Resumen general de inventario, métricas ambientales y alertas.  
+- **Usuarios y roles:** Administración de cuentas y permisos.  
+- **Inventario:** Listado de productos, movimientos e historial.  
+- **Transporte:** Trazabilidad, transferencias y seguimiento en tiempo real.  
+- **Reportes:** Generación de indicadores y exportación de datos.  
+- **Configuración:** Ajustes de sensores, notificaciones y parámetros del sistema.  
+
+**App Móvil – Emprendedores**
+- **Mis productos:** Vista rápida del inventario personal.  
+- **Alertas:** Notificaciones sobre stock, caducidad o fallos de sensor.  
+- **Movimientos:** Registro de entradas y salidas básicas.  
+- **Transporte:** Seguimiento de envíos activos.  
+- **Guías de cuidado:** Recomendaciones automáticas de conservación.  
+- **Soporte:** Ayuda y contacto.
+  
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page (Epic 07)**
+- **Title:**  
+Storigent | Software Inteligente para Gestión y Conservación de Inventarios  
+
+- **Meta Description:**  
+Descubre Storigent, la solución digital de **LogiCore** que optimiza la gestión de inventarios con tecnología RFID, monitoreo ambiental y trazabilidad de transporte.  
+
+- **Meta Keywords:**  
+gestión de inventarios, conservación de productos, RFID, monitoreo ambiental, trazabilidad logística, Storigent, control de stock  
+
+- **Meta Author:**  
+Equipo de Desarrollo - LogiCore  
+
+**Aplicación Web**
+- **Title:**  
+Panel de Control | Storigent - Inventarios, Conservación y Trazabilidad  
+
+- **Meta Description:**  
+Accede al panel de Storigent para administrar inventarios, controlar condiciones ambientales, generar reportes y realizar seguimiento de cargas con trazabilidad en tiempo real.  
+
+- **Meta Keywords:**  
+panel de control, gestión de inventarios, conservación de productos, RFID, monitoreo climático, reportes automáticos, transporte con trazabilidad  
+
+- **Meta Author:**  
+Equipo Técnico - LogiCore  
+
 ### 4.2.4. Searching Systems
+
+**Opciones de búsqueda**  
+- Barra de búsqueda general (productos, usuarios, movimientos).  
+- Categorías de productos y etiquetas (estado, lote, ubicación).  
+- Filtros dinámicos: fechas, niveles de stock, condiciones ambientales, transporte activo.  
+
+**Resultados de búsqueda**  
+- Listado de productos con stock y estado de conservación.  
+- Historial de movimientos y trazabilidad.  
+- Alertas relacionadas y recomendaciones.  
+- Opciones de ordenación y exportación de resultados.  
+
 ### 4.2.5. Navigation Systems
+
+
+**Landing Page (Epic 07):**  
+La navegación principal está orientada a visitantes y potenciales clientes, con un menú superior simple y claro:  
+- **Inicio:** Sección hero con propuesta de valor y llamada a la acción.  
+- **Características:** Resumen de beneficios clave del producto.  
+- **Sectores:** Información sobre los sectores a los que se dirige Storigent.  
+- **Tecnología:** Explicación del uso de RFID, monitoreo ambiental y trazabilidad, etc.  
+- **Contacto:** Formulario y canales de comunicación.   
+- **Selector de idioma:** ES/EN para alternar entre español e inglés.  
+
+**Aplicación Web (Epics 01–06):**  
+La navegación está diseñada para usuarios registrados (empresas y emprendedores), con un enfoque jerárquico y orientado a tareas:  
+- **Inicio:** Dashboard con resumen de inventario, métricas ambientales y alertas.  
+- **Inventario:** Gestión de productos, stock, categorías e historial.  
+- **Transporte:** Registro de entradas, salidas, transferencias y trazabilidad.  
+- **Reportes:** Acceso a indicadores, análisis predictivo y exportación de datos.  
+- **Configuración:** Ajustes de usuarios, roles, sensores y notificaciones.
+  
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+<img src="static/img/chapter 4/1Wireframe-Storigent.png"></img>
+
 ### 4.3.2. Landing Page Mock-up
+
+<img src="static/img/chapter 4/1Mockup-Storigent.png"></img>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -1822,33 +2002,459 @@ Referencia URL: https://trello.com/invite/b/68cadaeea4756cf09805bac4/ATTI112d83b
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
+
+<img src="static/img/chapter 4/design-level-eventstorming.png"></img>
+
 ### 4.6.2. Software Architecture Context Diagram
+
+<img src="static/img/chapter 4/structurizr-106363-SystemContext-001.png"></img>
+
 ### 4.6.3. Software Architecture Container Diagrams
+
+<img src="static/img/chapter 4/structurizr-106361-Container-001.png"></img>
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+<img src="static/img/chapter 4/structurizr-106364-Component-001.png"></img>
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+<img src="static/img/chapter 4/database-diagram.png"></img>
+
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
+**1. Project Management:**   
+  - **Trello:** Herramienta de gestión de tableros para la organización de tareas y sprints. [https://trello.com/es](https://trello.com/es)
+
+**2. Requirements Management:**
+  - **UXPressia:** Herramienta en línea enfocada en experiencia de usuario (UX) que permite crear de forma colaborativa y visual mapas de experiencia del cliente, customer journey maps, personas y mapas de impacto. [https://uxpressia.com/](https://uxpressia.com/)
+
+**3. Product UX/UI Design:**
+  - **Figma:** Herramienta de prototipado y diseño de alta fidelidad y responsivo. [https://www.figma.com/es-es/](https://www.figma.com/es-es/)
+
+**4. Software Development:**
+  - **Webstorm:** IDE de la familia JetBrains para desarrollo con Angular (Javascript, HTML, CSS). [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)   
+  - **Angular CLI:** Herramienta de línea de comandos que simplifica el desarrollo de aplicaciones Angular (ng g cl, ng g c, ng g s). [https://angular.dev/tools/cli](https://angular.dev/tools/cli)   
+  - **Angular:** Framework de código abierto para el desarrollo de aplicaciones web de una sola página (SPA, Single-Page Application). [https://angular.dev/](https://angular.dev/)   
+  - **Typescript:** Lenguaje de programación de código abierto y tipado estático desarrollado y mantenido por Microsoft. [https://www.typescriptlang.org/](https://www.typescriptlang.org/)   
+  - **CSS:** Lenguaje de estilos que controla la presentación y el diseño visual de una página web. [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)   
+  - **HTML:** Lenguaje de marcado que define la estructura y el contenido de una página web. [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)   
+
+**5. Software Deployment:**   
+  - **GitHub Pages:** Servicio gratuito de alojamiento de sitios web estáticos que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub y los publica en un sitio web. [https://pages.github.com/](https://pages.github.com/)   
+
+**6. Software Documentation:**   
+  - **Git:** Sistema de control de versiones distribuido que permite registrar cambios en el código y trabajar de forma colaborativa.   
+  - **GitHub:** Plataforma en la nube basada en Git que facilita la colaboración, gestión de proyectos y hospedaje de repositorios.   
+  - **Markdown:** Lenguaje de marcado ligero y fácil de usar, diseñado para dar formato a texto plano, generalmente usado en la documentación de proyectos. [https://markdown.es/](https://markdown.es/)   
+  - **PlantUML** (plantuml4idea): Herramienta para generar diagramas a partir de texto, integrable en Webstorm mediante el plugin *plantuml4idea*. [https://plugins.jetbrains.com/plugin/7017-plantuml4idea](https://plugins.jetbrains.com/plugin/7017-plantuml4idea)
+
 ### 5.1.2. Source Code Management
+
+Nuestro proyecto seguirá las convenciones de flujo de trabajo definidas por el modelo GitFlow para el control de versiones de desarrollo. Teniendo a GitHub como plataforma y sistema de control de versiones.   
+
+A continuación detallaremos la implementación del modelo GitFlow y se proporcionará los URL de los repositorios de GitHub de cada producto del trabajo.
+
+**Repositorios de GitHub:**
+- Organización en GitHub: [https://github.com/The-null-team](https://github.com/The-null-team)   
+- Reporte: [https://github.com/The-null-team/the-null-team-storigent-report](https://github.com/The-null-team/the-null-team-storigent-report)   
+- Landing Page: [https://github.com/The-null-team/the-null-team-storigent-landing-page](https://github.com/The-null-team/the-null-team-storigent-landing-page)   
+
+**Flujo de Trabajo GitFlow:** GitFlow es un modelo de flujo de trabajo para administrar y gestionar branches en un proyecto Git, propuesto por Vincent Driessen, diseñado para facilitar el desarrollo colaborativo.   
+
+**Estructuras de Ramas o Branches:**
+- **Main Branch:** Es la rama principal de la aplicación, contiene las versiones estables y sin errores listas para ser lanzadas públicamente.
+- **Develop Branch:** Es la rama base para el desarrollo activo, aquí se integran todas las funcionalidades nuevas antes de que se considere un lanzamiento.
+- **Feature Branch:** Es la rama que se usa para desarrollar nuevas funcionalidades o mejoras específicas del proyecto.
+- **Release Branch:** Es la rama que se utiliza para preparar una versión estable del proyecto donde se corrigen bug menores, se actualizan versiones y se ajustan las configuraciones necesarias.
+
+**Versionamiento Semántico:** Aplicaremos el sistema de versionamiento semántico (Semantic Versioning) para dar nombre a los releases de nuestra aplicación.
+
+**Convenciones de Commits:** Para hacer commits claros y estructurados en nuestro proyecto, utilizaremos la especificación Conventional Commits. Aquí tenemos a los que más usaremos en el desarrollo de ete proyecto:   
+- ```feat```: Para nuevas características.
+- ```fix```: Para arreglo de errores o *bugs*.
+- ```docs```: Para cambios en la documentación del proyecto.
+- ```refactor```: Para la refactorización de código que no añade características ni corrige errores.
+- ```chore```: Para actualizaciones que no afectan al código original.
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Uno de los principios fundamentales que aplicamos durante el desarrollo de Storigent fue la importancia de mantener un código ordenado, legible y escalable. Es por ello que, nos propusimos a adoptar una cultura de desarrollo consciente, donde cada línea de código aporte claridad, coherencia y mantenibilidad a largo plazo.   
+
+Estas convenciones se emplearon en los entornos utilizados durante el proceso de desarrollo. A continuación, presentaremos nuestras buenas prácticas organizadas por bloques clave: HTML y CSS.   
+
+**Convenciones HTML:**   
+
+**1. Etiquetas Semánticas:** Utilizamos etiquetas semánticas como ```<header>```, ```<footer>```, ```<nav>``` y ```<section>``` para mejorar la estructura lógica del contenido de la página web.   
+
+**2. Jerarquía de Encabezados:** Respetamos el orden de las etiquetas de encabezado (de ```<h1>``` a ```<h6>```) de forma progresiva.   
+
+**3. Cierre Correcto de Etiquetas:** Todas las etiquetas deben ser cerradas explícitamente. Por ejemplo: ```<p>Soy un párrafo de ejemplo</p>```    
+
+**4. Uso Correcto de Minúsculas:** Todos los elementos y atributos se deben escribir en minúscula para mantener una estructura uniforme y limpia.    
+
+**5. Valores de Atributos dentro de Comillas Dobles:** Cuando se asigna un valor a un atributo, estos siempre deberán ir dentro de comillas dobles. Por ejemplo: ```<input type="text" placeholder="Escribe tu correo...">```    
+
+**6. Uso del Atributo ```alt``` y Asignación de Dimensiones en Imágenes:** Las etiquetas ```<img>``` deben incluir los atributos ```alt```, ```width``` y ```height``` para mejorar la accesibilidad y optimizar el tiempo de carga. Por ejemplo: ```<img src="strgn-logo.png" alt="Storigent Logo" width="128" height="128">```   
+
+**7. Evitar Anidamientos Innecesarios:** Evitamos el uso excesivo de la etiqueta ```<div>```. Logrando una estructura de código HTML limpia y fácil de entender.   
+
+**Convenciones CSS:**   
+
+**1. Guiónes como Separadores Por Defecto en Nombres:** Por ejemplo: ```.payment-card```   
+
+**2. Clases Desccriptivas y Reusables:** Usamos nombres como ```.payment-card``` y ```.btn-confirm``` en lugar de nombres genéricos como ```.card1```.   
+
+**3. Uso de Variables CSS:** Definiremos variables como ```--default-bg-color``` y ```--default-font```.   
+
+**4. Evitar Asignar Cero a Unidades:** Se debe escribir así: ```margin: 0;``` Y no así: ```margin: 0px;```   
+
+**5. Separación Visual de Reglas:** Cada selector se escribe en líneas distintas.   
+
+**6. Uso de Animaciones Suaves:** Utilizaremos animaciones como ```transition: all 0.3s ease-in-out;``` para efectos visuales sin sobrecargar la experiencia.   
+
+**Convenciones Generales de Desarrollo:**
+
+**1. Convención de Nombrado:**   
+- Los nombres de los archivos deberán ir en minúscula y separadas por guiones. Por ejemplo: ```person-entity.ts```   
+- Los nombres de clases o componentes deberán seguir el formato *PascalCase*. Por ejemplo: ```PersonAssembler```
+- Los nombres de las variables deben ser descriptivas. Evitar usar nombres como: ```x```, ```tmp```
+
+**2. Componentes Reutilizables:** Creamos elementos como ```ImportantButton``` y ```SecondaryButton``` que pueden agilizar significativamente el desarrollo de las vistas.   
+
+**3. Documentación en el Código:** Agregaremos definiciones y descripciones en funciones, clases y bloques de lógica compleja.   
+
+**4. Versionado y Commits Semánticos:** Crearemos ramas como ```feat/choose-your-plan-view``` y ```fix/contact-form```; y redactaremos commits como ```feat: add validation in register button``` y ```fix: unexpected behavior of calculate function```.   
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Sprint #</th>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>2025-08-30</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>05:30 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual a través de Google Meet</td>
+        </tr>
+        <tr>
+            <th>Prepared by</th>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Calixto Iriarte, David Alejandro; Céspedes Pillco, Jarod Jack; Espinar Martinez, Gabriel Ferran; Palomino Tito, Abraham Joel; Tello Murga, Gabriel Oswaldo; Zagaceta Bardales, Rodrigo Enrique; Meza Tataje, David</td>
+        </tr>
+        <tr>
+            <th>Sprint n - 1 Review Summary</th>
+            <td>No existe sprint previo</td>
+        </tr>
+        <tr>
+            <th>Sprint n - 1 Retrospective Summary</th>
+            <td>No existe sprint previo</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 1 Goal</th>
+            <td>Our focues is on deploying the first version of our landing page. We believe it delivers satisfaction and confidence to our team and future users. This will be confirmed when all the members of the team and a end-users navigates our landing page without any issues.</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Velocity</th>
+            <td>17 Story Points</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>17 Story Points</td>
+        </tr>
+    </table>
+</div>
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+En este sprint se busca completar la landing page de Storigent, incluyendo el diseño y su despliegue. Para lograr una correcta comunicación, se ha creado la matriz de liderazgo y colaboración (LACX), en la cual se define quien lidera y quien colabora en cada aspecto del sprint.
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Team Member (Last Name, First Name)</th>
+            <th>Github Username</th>
+            <th>Diseño Landing Page</th>
+            <th>Despliegue Landing Page</th>
+        </tr>
+        <tr>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>DavidCalixto99</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td>PruebaJJC</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Espinar Matínez, Gabriel Ferran</td>
+            <td>zzZero14</td>
+            <td>Leader</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Meza Tataje, David</td>
+            <td>de1vi</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>JavierTello20</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Rodrigo290205</td>
+            <td>Collaborator</td>
+            <td>Leader</td>
+        </tr>
+    </table>
+</div>
+
 #### 5.2.1.3. Sprint Backlog 1
+
+El objetivo principal del Sprint 1 es desarrollar y desplegar una landing page funcional para el proyecto Storigent. A continuación se muestra una captura de pantalla de las historias de usuario que se buscan trabajar en este sprint.
+
+<div align="center">
+    <table>
+        <tr>
+            <th colspan="1">Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">Work-Item / Task</th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status (To-Do / In-Process / To-Review / Done)</th>
+        </tr>
+        <tr>
+            <td>US-37</td>
+            <td>Sección principal (Hero) con llamada a la acción</td>
+            <td>T01</td>
+            <td>Diseñar vista principal de la landing page</td>
+            <td>Crear un vista de presentación del proyecto que contenga la llamada a la acción del usuario</td>
+            <td>2</td>
+            <td>Espinar Martínez, Gabriel Ferran</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-38</td>
+            <td>Beneficios para cada tipo de usuario</td>
+            <td>T02</td>
+            <td>Diseñar vista de beneficios del producto</td>
+            <td>Crear una vista que contenga los beneficios el usuario puede obtener al usar nuestra plataforma</td>
+            <td>2</td>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-38</td>
+            <td>Beneficios para cada tipo de usuario</td>
+            <td>T03</td>
+            <td>Diseñar vista de tecnología de vanguardia</td>
+            <td>Crear una vista que contenga las tecnología que nuestro proyecto implementa</td>
+            <td>2</td>
+            <td>Meza Tataje, David</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-38</td>
+            <td>Beneficios para cada tipo de usuario</td>
+            <td>T04</td>
+            <td>Diseñar vista de sectores</td>
+            <td>Crear una vista que hable sobre los sectores en los que trabajamos</td>
+            <td>2</td>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-39</td>
+            <td>Planes y precios básicos</td>
+            <td>T05</td>
+            <td>Diseñar vista de planes y precios que ofrece nuestro producto</td>
+            <td>Crear una vista que mustre los planes con sus respectivos precios y los beneficios que traen</td>
+            <td>2</td>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-40</td>
+            <td>Formulario de contacto o demo</td>
+            <td>T06</td>
+            <td>Diseñar vista de contacto</td>
+            <td>Crear una vista que provea nuestra información de contacto para el usuario</td>
+            <td>2</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-41</td>
+            <td>Preguntas frecuentes y testimonios</td>
+            <td>T07</td>
+            <td>Diseñar vista de preguntas frecuentes (FAQ)</td>
+            <td>Crear una vista donde damos respuestas a las preguntas más comunes sobre el producto</td>
+            <td>1</td>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>In-Progress</td>
+        </tr>
+        <tr>
+            <td>US-41</td>
+            <td>Preguntas frecuentes y testimonios</td>
+            <td>T08</td>
+            <td>Diseñar vista de testimonios</td>
+            <td>Crear una vista donde mostramos los testimonios de los usuarios que han usado nuestra plataforma</td>
+            <td>2</td>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>To-Do</td>
+        </tr>
+        <tr>
+            <td>US-42</td>
+            <td>Diseño adaptable y optimizado</td>
+            <td>T09</td>
+            <td>Diseñar una interfaz responsiva y optimizada</td>
+            <td>Crear estilos que implementen responsiveness y que usen animaciones suaves para evitar sobrecargas</td>
+            <td>3</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
+        </tr>
+    </table>
+</div>
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los avances en la implementación de la solución, específicamente en el desarrollo de la Landing Page correspondiente al alcance del Sprint actual. Se detallan los commits realizados en el repositorio, evidenciando las funcionalidades implementadas, los ajustes de estilo y las mejoras en la interfaz de usuario. A continuación, se muestra una tabla que resume los commits relevantes asociados a este componente.
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit On (Date)</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En el primer sprint, logramos desarrollar parcialmente la implementación del despliegue del landing page. Donde se muestra las diferentes divisiones que el usuario podrá visualizar como lo sería la información sobre el startup y nuestro producto. A continuación mostramos algunas evidencias:
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint no se desarrollaron ni documentaron Web Services, dado que el enfoque principal estuvo en la implementación de la Landing Page como primer entregable del sistema. Por lo tanto, no se cuenta con endpoints disponibles ni documentación generada en OpenAPI en esta etapa del proyecto.
+
+La documentación de servicios será considerada en los siguientes Sprints, una vez que se inicie el desarrollo del backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+A continuación mostraremos capturas de la landing page desplegada:
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+Durante el desarrollo del Sprint, cada miembro del equipo participó activamente en la implementación de la Landing Page, dividiéndose por secciones según el diseño y el contenido definido previamente.
+
+A continuación, se detalla la participación específica de cada integrante del equipo:
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Actividades</th>
+        </tr>
+        <tr>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>Elaboración del Capítulo I Introduction del informe y diseño de la sección Sectores de la landing page</td>
+        </tr>
+        <tr>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td>Elaboración del Capítulo V Product Implementation, Validation & Deployment del informe y diseño de la sección Elige Tu Plan de la landing page</td>
+        </tr>
+        <tr>
+            <td>Espinar Martínez, Gabriel Ferran</td>
+            <td>Elaboración del Capítulo IV Product Design del informe y diseño de la sección Sobre Nosotros de la landing page</td>
+        </tr>
+        <tr>
+            <td>Meza Tataje, David</td>
+            <td>Elaboración del Capítulo II Requirements Elicitation & Analysis del informe y diseño de la sección Tecnología de Vanguardia de la landing page</td>
+        </tr>
+        <tr>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>Elaboración del Capítulo III Requirements Specification y parte del Capítulo IV Product Design, y diseño de la sección Características de la landing page</td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Elaboración del Capítulo II Requirements Elicitation & Analysis del informe y diseño de la sección Contactos de la landing page</td>
+        </tr>
+    </table>
+</div>
+
+**Evidencia de Colaboración en GitHub**   
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
+
+_Aquí una foto de las estadísticas de commits de cada integrante_
+
+**Repositorio de Trabajo:** Link del repositorio
+
+Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
+
 # Conclusiones
+
+El desarrollo del proyecto Storigent ha permitido consolidar una propuesta tecnológica innovadora orientada a mejorar la gestión y conservación de inventarios en diversos sectores empresariales. Desde sus primeras etapas, se definió con claridad el propósito del software, centrado en la optimización de recursos mediante el uso de tecnologías como RFID y monitoreo climatológico, lo cual garantiza una trazabilidad eficiente en el transporte y almacenamiento de productos. Esta visión responde a necesidades reales del mercado, especialmente en empresas que requieren control riguroso de sus materiales y condiciones de conservación.
+
+A lo largo del proceso, se aplicaron metodologías centradas en el usuario, como Lean UX y técnicas de needfinding, que permitieron identificar problemáticas clave, formular hipótesis de valor y comprender profundamente a los usuarios. Herramientas como User Personas, Empathy Maps y User Journey Mapping fueron fundamentales para diseñar una solución alineada con las expectativas del público objetivo, compuesto por empresas pequeñas, grandes y emprendedores. Asimismo, el análisis competitivo y las entrevistas realizadas aportaron información valiosa para validar la propuesta y definir estrategias diferenciadoras frente a otras soluciones del mercado.
+
+En cuanto al diseño del producto, se establecieron lineamientos visuales y arquitectónicos que aseguran coherencia, escalabilidad y facilidad de uso. Se desarrollaron diagramas de arquitectura, componentes y base de datos, además de una estructura clara del backlog y las historias de usuario que guían el desarrollo incremental del software. El primer sprint, enfocado en la implementación de la Landing Page, permitió materializar la propuesta de valor de Storigent en una interfaz funcional y atractiva, que sirve como punto de partida para la validación con usuarios reales y la captación de potenciales clientes.
+
+Finalmente, el trabajo colaborativo del equipo, junto con la aplicación de prácticas ágiles como la planificación de sprints y la documentación de evidencias, ha demostrado una gestión eficiente del proyecto. Este enfoque ha facilitado la toma de decisiones informadas y el avance continuo hacia la implementación completa del producto. Con una base sólida ya establecida, Storigent se encuentra preparado para continuar con el desarrollo de sus servicios y aplicaciones web, consolidando su posicionamiento como una solución integral en el mercado de gestión de inventarios.
 
 # Bibliografía
 Sanz Mateo, M. I. (2015). Metodología LEAN para el desarrollo de software. Ejemplo práctico de aplicación en empresa de desarrollo de software (Trabajo Fin de Grado). Universidad de Valladolid. Recuperado de https://uvadoc.uva.es/handle/10324/13538
