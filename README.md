@@ -311,6 +311,54 @@ A continuación detallaremos la implementación del modelo GitFlow y se proporci
 - ```chore```: Para actualizaciones que no afectan al código original.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Uno de los principios fundamentales que aplicamos durante el desarrollo de Storigent fue la importancia de mantener un código ordenado, legible y escalable. Es por ello que, nos propusimos a adoptar una cultura de desarrollo consciente, donde cada línea de código aporte claridad, coherencia y mantenibilidad a largo plazo.   
+
+Estas convenciones se emplearon en los entornos utilizados durante el proceso de desarrollo. A continuación, presentaremos nuestras buenas prácticas organizadas por bloques clave: HTML y CSS.   
+
+**Convenciones HTML:**   
+
+**1. Etiquetas Semánticas:** Utilizamos etiquetas semánticas como ```<header>```, ```<footer>```, ```<nav>``` y ```<section>``` para mejorar la estructura lógica del contenido de la página web.   
+
+**2. Jerarquía de Encabezados:** Respetamos el orden de las etiquetas de encabezado (de ```<h1>``` a ```<h6>```) de forma progresiva.   
+
+**3. Cierre Correcto de Etiquetas:** Todas las etiquetas deben ser cerradas explícitamente. Por ejemplo: ```<p>Soy un párrafo de ejemplo</p>```    
+
+**4. Uso Correcto de Minúsculas:** Todos los elementos y atributos se deben escribir en minúscula para mantener una estructura uniforme y limpia.    
+
+**5. Valores de Atributos dentro de Comillas Dobles:** Cuando se asigna un valor a un atributo, estos siempre deberán ir dentro de comillas dobles. Por ejemplo: ```<input type="text" placeholder="Escribe tu correo...">```    
+
+**6. Uso del Atributo ```alt``` y Asignación de Dimensiones en Imágenes:** Las etiquetas ```<img>``` deben incluir los atributos ```alt```, ```width``` y ```height``` para mejorar la accesibilidad y optimizar el tiempo de carga. Por ejemplo: ```<img src="strgn-logo.png" alt="Storigent Logo" width="128" height="128">```   
+
+**7. Evitar Anidamientos Innecesarios:** Evitamos el uso excesivo de la etiqueta ```<div>```. Logrando una estructura de código HTML limpia y fácil de entender.   
+
+**Convenciones CSS:**   
+
+**1. Guiónes como Separadores Por Defecto en Nombres:** Por ejemplo: ```.payment-card```   
+
+**2. Clases Desccriptivas y Reusables:** Usamos nombres como ```.payment-card``` y ```.btn-confirm``` en lugar de nombres genéricos como ```.card1```.   
+
+**3. Uso de Variables CSS:** Definiremos variables como ```--default-bg-color``` y ```--default-font```.   
+
+**4. Evitar Asignar Cero a Unidades:** Se debe escribir así: ```margin: 0;``` Y no así: ```margin: 0px;```   
+
+**5. Separación Visual de Reglas:** Cada selector se escribe en líneas distintas.   
+
+**6. Uso de Animaciones Suaves:** Utilizaremos animaciones como ```transition: all 0.3s ease-in-out;``` para efectos visuales sin sobrecargar la experiencia.   
+
+**Convenciones Generales de Desarrollo:**
+
+**1. Convención de Nombrado:**   
+- Los nombres de los archivos deberán ir en minúscula y separadas por guiones. Por ejemplo: ```person-entity.js```   
+- Los nombres de clases o componentes deberán seguir el formato *PascalCase*. Por ejemplo: ```PersonAssembler```
+- Los nombres de las variables deben ser descriptivas. Evitar usar nombres como: ```x```, ```tmp```
+
+**2. Componentes Reutilizables:** Creamos elementos como ```ImportantButton``` y ```SecondaryButton``` que pueden agilizar significativamente el desarrollo de las vistas.   
+
+**3. Documentación en el Código:** Agregaremos definiciones y descripciones en funciones, clases y bloques de lógica compleja.   
+
+**4. Versionado y Commits Semánticos:** Crearemos ramas como ```feat/choose-your-plan-view``` y ```fix/contact-form```; y redactaremos commits como ```feat: add validation in register button``` y ```fix: unexpected behavior of calculate function```.   
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
