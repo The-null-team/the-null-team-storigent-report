@@ -354,12 +354,6 @@ En este sprint se busca completar la landing page de Storigent, incluyendo el di
             <td>Collaborator</td>
         </tr>
         <tr>
-            <td>Palomino Tito, Abraham Joel</td>
-            <td>AbrahamJPalominoT</td>
-            <td>Collaborator</td>
-            <td>Collaborator</td>
-        </tr>
-        <tr>
             <td>Tello Murga, Javier Oswaldo</td>
             <td>JavierTello20</td>
             <td>Collaborator</td>
