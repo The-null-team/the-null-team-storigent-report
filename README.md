@@ -674,7 +674,9 @@ preferencias tecnológicas, y sirven como guía para el diseño del producto.
 
 <strong>Emprendedores:</strong>
 
-
+<p align="center">
+    <img src="static/img/chapter 2/img-user-persona-emprendedores.png" alt="User Persona Emprendedores" style="width: 600px;"></img>
+</p>
 
 <strong>Empresas:</strong>
 
