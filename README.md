@@ -648,6 +648,12 @@ Se presentan perfiles representativos de los usuarios objetivo, construidos a pa
 en entrevistas. Estos perfiles incluyen información demográfica, comportamientos, objetivos, frustraciones y
 preferencias tecnológicas, y sirven como guía para el diseño del producto.
 
+<strong>Emprendedores:</strong>
+
+<p align="center">
+    <img src="static/img/chapter 2/img-user-persona-emprendedores.png" alt="User Persona Emprendedores" style="width: 600px;"></img>
+</p>
+
 ### 2.3.2. User Task Matrix
 Se organiza la información sobre las tareas clave que los usuarios realizan en relación con la gestión
 de inventarios, vinculándolas con sus objetivos y necesidades. Esta matriz permite identificar oportunidades
