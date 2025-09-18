@@ -1495,8 +1495,194 @@ que todos los involucrados comprendan los conceptos clave de forma unificada.
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-----------------|--------|-------------|--------------------------|----------------------------|
+| US-01 | Registro de Usuario | Como emprendedor, quiero registrarme en la aplicación para gestionar mis inventarios. | Escenario 1: Given un visitante accede al registro, when completa los datos correctamente, then se crea la cuenta. <br> Escenario 2: Given un visitante ingresa datos inválidos, when intenta registrarse, then el sistema muestra un error. | EP-01 |
+| US-02 | Inicio de Sesión | Como usuario, quiero iniciar sesión con mis credenciales para acceder a mi cuenta. | Escenario 1: Given un usuario registrado, when ingresa credenciales correctas, then accede al sistema. <br> Escenario 2: Given un usuario ingresa datos inválidos, when intenta iniciar, then el sistema muestra error. | EP-01 |
+| US-03 | Recuperación de Contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvidarla. | Escenario 1: Given un usuario registrado, when solicita recuperar, then el sistema envía un enlace al correo. <br> Escenario 2: Given un usuario ingresa correo inválido, when solicita recuperar, then el sistema muestra error. | EP-01 |
+| US-04 | Gestión de Perfil | Como usuario, quiero actualizar mis datos de perfil. | Escenario 1: Given un usuario accede a perfil, when modifica datos válidos, then el sistema guarda cambios. <br> Escenario 2: Given un usuario ingresa datos inválidos, when intenta guardar, then el sistema rechaza los cambios. | EP-01 |
+| US-05 | Roles de Usuario | Como administrador, quiero asignar roles para controlar permisos. | Escenario 1: Given un admin selecciona un usuario, when asigna rol válido, then el sistema actualiza permisos. <br> Escenario 2: Given un admin asigna un rol inválido, when intenta guardar, then el sistema muestra error. | EP-01 |
+| US-06 | Cierre de Sesión | Como usuario, quiero cerrar sesión de manera segura. | Escenario 1: Given un usuario está logueado, when selecciona cerrar sesión, then el sistema termina su sesión. | EP-01 |
+| US-07 | Registro de Producto | Como emprendedor, quiero registrar productos en el inventario. | Escenario 1: Given un usuario logueado, when ingresa datos válidos de producto, then el sistema los guarda. <br> Escenario 2: Given datos incompletos, when intenta guardar, then el sistema muestra error. | EP-02 |
+| US-08 | Actualización de Stock | Como usuario, quiero actualizar la cantidad de productos en inventario. | Escenario 1: Given un producto registrado, when se modifica stock, then el sistema actualiza. | EP-02 |
+| US-09 | Eliminación de Producto | Como usuario, quiero eliminar productos obsoletos. | Escenario 1: Given un producto existe, when se elimina, then desaparece del inventario. <br> Escenario 2: Given un producto no existe, when se intenta eliminar, then el sistema muestra error. | EP-02 |
+| US-10 | Categorización de Productos | Como usuario, quiero categorizar productos para organizarlos mejor. | Escenario 1: Given un usuario ingresa categoría, when asigna productos, then el sistema los agrupa. | EP-02 |
+| US-11 | Búsqueda de Productos | Como usuario, quiero buscar productos rápidamente. | Escenario 1: Given un usuario ingresa un término, when busca, then el sistema muestra coincidencias. | EP-02 |
+| US-12 | Historial de Movimientos de Inventario | Como usuario, quiero ver historial de entradas y salidas. | Escenario 1: Given un usuario accede a un producto, when revisa historial, then el sistema muestra movimientos. | EP-02 |
+| US-13 | Lectura de Sensores | Como usuario, quiero visualizar datos de sensores ambientales. | Escenario 1: Given sensores están conectados, when usuario accede a monitoreo, then se muestran datos en tiempo real. | EP-03 |
+| US-14 | Alertas de Temperatura | Como usuario, quiero recibir alertas cuando la temperatura sea anómala. | Escenario 1: Given un sensor detecta variación, when excede umbral, then el sistema envía alerta. | EP-03 |
+| US-15 | Alertas de Humedad | Como usuario, quiero recibir alertas por humedad fuera de rango. | Escenario 1: Given un sensor detecta variación, when excede umbral, then el sistema envía alerta. | EP-03 |
+| US-16 | Reportes Ambientales | Como usuario, quiero obtener reportes de condiciones ambientales. | Escenario 1: Given datos históricos existen, when usuario solicita reporte, then el sistema genera PDF/Excel. | EP-03 |
+| US-17 | Integración con RFID | Como empresa, quiero que los sensores RFID registren condiciones automáticamente. | Escenario 1: Given producto con RFID, when se registra en inventario, then se asocian datos ambientales. | EP-03 |
+| US-18 | Notificaciones de Sensor Inactivo | Como usuario, quiero recibir alerta si un sensor deja de transmitir. | Escenario 1: Given un sensor no transmite, when se detecta inactividad, then el sistema alerta. | EP-03 |
+| US-19 | Registro de Entradas | Como usuario, quiero registrar entradas de productos. | Escenario 1: Given llega un lote, when se ingresa al sistema, then se almacena como entrada. | EP-04 |
+| US-20 | Registro de Salidas | Como usuario, quiero registrar salidas de productos. | Escenario 1: Given un lote se despacha, when se marca salida, then el sistema lo registra. | EP-04 |
+| US-21 | Transferencia entre Almacenes | Como empresa, quiero registrar transferencias entre almacenes. | Escenario 1: Given un producto se transfiere, when se selecciona almacén destino, then se registra. | EP-04 |
+| US-22 | Tracking de Transporte | Como usuario, quiero seguir el transporte de mis productos. | Escenario 1: Given un producto en traslado, when usuario consulta, then sistema muestra ubicación GPS. | EP-04 |
+| US-23 | Alertas de Retraso | Como usuario, quiero recibir alertas de retraso en transporte. | Escenario 1: Given transporte excede tiempo estimado, when se detecta retraso, then sistema notifica. | EP-04 |
+| US-24 | Historial de Trazabilidad | Como usuario, quiero ver historial de movimientos de producto. | Escenario 1: Given un producto existe, when se consulta trazabilidad, then sistema muestra recorrido. | EP-04 |
+| US-25 | Alertas de Stock Bajo | Como usuario, quiero recibir alertas cuando stock esté por agotarse. | Escenario 1: Given stock bajo umbral, when sistema lo detecta, then se notifica al usuario. | EP-05 |
+| US-26 | Alertas de Exceso de Stock | Como usuario, quiero recibir alertas cuando stock esté en exceso. | Escenario 1: Given stock supera límite, when sistema lo detecta, then se notifica al usuario. | EP-05 |
+| US-27 | Notificación de Caducidad | Como usuario, quiero alertas sobre productos próximos a caducar. | Escenario 1: Given un producto tiene fecha próxima, when sistema detecta, then se genera alerta. | EP-05 |
+| US-28 | Alertas de Fallo de Sensor | Como usuario, quiero alertas cuando un sensor falla. | Escenario 1: Given sensor desconectado, when sistema detecta, then alerta al usuario. | EP-05 |
+| US-29 | Notificaciones Personalizadas | Como usuario, quiero configurar notificaciones según mis necesidades. | Escenario 1: Given usuario configura alertas, when condiciones se cumplen, then sistema envía aviso. | EP-05 |
+| US-30 | Dashboard de Notificaciones | Como usuario, quiero ver todas mis notificaciones en un panel. | Escenario 1: Given usuario accede a panel, when consulta, then sistema lista notificaciones. | EP-05 |
+| US-31 | Reporte de Inventario General | Como usuario, quiero obtener un reporte consolidado de inventario. | Escenario 1: Given usuario solicita reporte, when sistema procesa, then genera PDF/Excel. | EP-06 |
+| US-32 | Reporte de Pérdidas | Como usuario, quiero reportes de pérdidas de inventario. | Escenario 1: Given existen datos de pérdidas, when usuario solicita, then se genera reporte. | EP-06 |
+| US-33 | Reporte de Movimientos | Como usuario, quiero reportes detallados de movimientos de stock. | Escenario 1: Given datos de movimientos existen, when usuario solicita, then se genera reporte. | EP-06 |
+| US-34 | Análisis Predictivo de Stock | Como empresa, quiero análisis predictivo para optimizar compras. | Escenario 1: Given datos históricos existen, when sistema analiza, then recomienda reabastecimiento. | EP-06 |
+| US-35 | Visualización de Indicadores | Como usuario, quiero ver métricas clave en gráficos. | Escenario 1: Given usuario accede a dashboard, when consulta, then sistema muestra indicadores. | EP-06 |
+| US-36 | Exportación de Datos | Como usuario, quiero exportar datos a CSV/Excel. | Escenario 1: Given usuario solicita exportar, when sistema procesa, then descarga archivo. | EP-06 |
+| US-37 | Sección principal (Hero) con llamada a la acción | Como visitante, quiero ver en la parte superior un mensaje claro y un botón destacado, para entender de inmediato qué ofrece la plataforma y registrarme fácilmente.|Escenario 1: Given un visitante accede a la página principal, when carga la sección inicial, then se muestra un título, un texto breve y un botón de acción. <br> Escenario 2: Given un visitante hace clic en el botón de acción, when la interacción es válida, then el sistema redirige al formulario de registro/login. | EP-07 |
+| US-38 | Beneficios para cada tipo de usuario | Como visitante, quiero ver los beneficios principales para Empresas y Emprendedores, para saber cómo la plataforma me puede ayudar. | Escenario 1: Given un visitante está en la Landing Page, when navega hacia la sección de beneficios, then se muestran al menos dos bloques diferenciados (Empresas y Emprendedores). <br> Escenario 2: Given los bloques están visibles, when el visitante los lee, then encuentra al menos 3 beneficios claros en cada bloque. | EP-07 |
+| US-39 | Planes y precios básicos | Como visitante, quiero ver un resumen de los planes disponibles con sus precios, para evaluar qué opción me conviene. | Escenario 1: Given un visitante accede a la sección de planes, when la página carga, then se muestran al menos dos planes con precios y características principales. <br> Escenario 2: Given un visitante hace clic en "Elegir plan", when la interacción es válida, then el sistema redirige al registro o proceso de suscripción. | EP-07 |
+| US-40 | Formulario de contacto o demo | Como visitante, quiero enviar un mensaje o pedir una demostración, para resolver mis dudas antes de registrarme. | Escenario 1: Given un visitante accede al formulario, when deja campos obligatorios vacíos, then el sistema muestra un mensaje de error. <br> Escenario 2: Given un visitante completa los campos obligatorios correctamente, when envía el formulario, then el sistema confirma el envío y guarda la información. | EP-07 |
+| US-41 | Preguntas frecuentes y testimonios | Como visitante, quiero leer respuestas a preguntas comunes y ver testimonios de otros usuarios, para ganar confianza en la plataforma. | Escenario 1: Given un visitante accede a la sección de preguntas frecuentes, when hace clic en una pregunta, then se despliega la respuesta correspondiente. <br> Escenario 2: Given un visitante está en la sección de testimonios, when la página carga, then se muestran testimonios o logos de clientes. | EP-07 |
+| US-42 | Diseño adaptable y optimizado | Como visitante, quiero que la página funcione bien en celular, tablet y PC, y que aparezca en buscadores, para acceder fácilmente desde cualquier dispositivo. | Escenario 1: Given un visitante accede desde un celular o tablet, when la página carga, then el diseño se adapta automáticamente al tamaño de la pantalla. <br> Escenario 2: Given la Landing Page está publicada, when un buscador indexa el sitio, then aparecen título, descripción y metadatos básicos. | EP-07 |
+
+### Epic 01: Creación y Gestión de Cuenta
+
+| Story ID | Título                     |
+|----------|----------------------------|
+| US-01    | Registro de Usuario        |
+| US-02    | Inicio de Sesión           |
+| US-03    | Recuperación de Contraseña |
+| US-04    | Gestión de Perfil          |
+| US-05    | Roles de Usuario           |
+| US-06    | Cierre de Sesión           |
+
+
+### Epic 02: Gestión de Inventario en Tiempo Real
+
+| Story ID | Título                                 |
+|----------|----------------------------------------|
+| US-07    | Registro de Producto                   |
+| US-08    | Actualización de Stock                 |
+| US-09    | Eliminación de Producto                |
+| US-10    | Categorización de Productos            |
+| US-11    | Búsqueda de Productos                  |
+| US-12    | Historial de Movimientos de Inventario |
+
+
+### Epic 03: Monitoreo de Condiciones Ambientales
+
+| Story ID | Título                            |
+|----------|-----------------------------------|
+| US-13    | Lectura de Sensores               |
+| US-14    | Alertas de Temperatura            |
+| US-15    | Alertas de Humedad                |
+| US-16    | Reportes Ambientales              |
+| US-17    | Integración con RFID              |
+| US-18    | Notificaciones de Sensor Inactivo |
+
+
+### Epic 04: Trazabilidad y Movimientos de Productos
+
+| Story ID | Título                        |
+|----------|-------------------------------|
+| US-19    | Registro de Entradas          |
+| US-20    | Registro de Salidas           |
+| US-21    | Transferencia entre Almacenes |
+| US-22    | Tracking de Transporte        |
+| US-23    | Alertas de Retraso            |
+| US-24    | Historial de Trazabilidad     |
+
+
+### Epic 05: Alertas y Notificaciones Predictivas
+
+| Story ID | Título                        |
+|----------|-------------------------------|
+| US-25    | Alertas de Stock Bajo         |
+| US-26    | Alertas de Exceso de Stock    |
+| US-27    | Notificación de Caducidad     |
+| US-28    | Alertas de Fallo de Sensor    |
+| US-29    | Notificaciones Personalizadas |
+| US-30    | Dashboard de Notificaciones   |
+
+
+### Epic 06: Reportes y Análisis Estratégicos
+
+| Story ID | Título                        |
+|----------|-------------------------------|
+| US-31    | Reporte de Inventario General |
+| US-32    | Reporte de Pérdidas           |
+| US-33    | Reporte de Movimientos        |
+| US-34    | Análisis Predictivo de Stock  |
+| US-35    | Visualización de Indicadores  |
+| US-36    | Exportación de Datos          |
+
+
+### Epic 07: Landing Page
+
+| Story ID | Título                                           |
+|----------|--------------------------------------------------|
+| US-37    | Sección principal (Hero) con llamada a la acción |
+| US-38    | Beneficios para cada tipo de usuario             |
+| US-39    | Planes y precios básicos                         |
+| US-40    | Formulario de contacto o demo                    |
+| US-41    | Preguntas frecuentes y testimonios               |
+| US-42    | Diseño adaptable y optimizado                    |
+
+
 ## 3.2. Impact Mapping
+
+### Un objetivo de 15% en un piloto de 12 empresas (con onboarding y sensores) es ambicioso pero alcanzable si se automatizan registros, alertas y acciones de rotación.
+![Impact Mapping](./static/img/chapter-3/impact-mapping-empresa.jpg)
+
+### El público emprendedor en ciudades principales suele adoptar soluciones simples si aportan ahorro directo. 120 registros en 6 meses con una campaña de captación y prueba piloto es alcanzable.
+![Impact Mapping](./static/img/chapter-3/impact-mapping-emprendedor.jpg)
+
 ## 3.3. Product Backlog
+
+# Product Backlog
+
+| Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|------:|---------------|--------|-------------|----------------------------------|
+| 1 | US-37 | Sección principal (Hero) con llamada a la acción | Como visitante, quiero ver en la parte superior un mensaje claro y un botón destacado, para entender de inmediato qué ofrece la plataforma y registrarme fácilmente. | 2 |
+| 2 | US-38 | Beneficios para cada tipo de usuario | Como visitante, quiero ver los beneficios principales para Empresas y Emprendedores, para saber cómo la plataforma me puede ayudar. | 2 |
+| 3 | US-39 | Planes y precios básicos | Como visitante, quiero ver un resumen de los planes disponibles con sus precios, para evaluar qué opción me conviene. | 3 |
+| 4 | US-40 | Formulario de contacto o demo | Como visitante, quiero enviar un mensaje o pedir una demostración, para resolver mis dudas antes de registrarme. | 3 |
+| 5 | US-41 | Preguntas frecuentes y testimonios | Como visitante, quiero leer respuestas a preguntas comunes y ver testimonios de otros usuarios, para ganar confianza en la plataforma. | 2 |
+| 6 | US-42 | Diseño adaptable y optimizado | Como visitante, quiero que la página funcione bien en celular, tablet y PC, y que aparezca en buscadores, para acceder fácilmente desde cualquier dispositivo. | 5 |
+| 7 | US-01 | Registro de Usuario | Como emprendedor, quiero registrarme en la aplicación para gestionar mis inventarios. | 3 |
+| 8 | US-02 | Inicio de Sesión | Como usuario, quiero iniciar sesión con mis credenciales para acceder a mi cuenta. | 2 |
+| 9 | US-03 | Recuperación de Contraseña | Como usuario, quiero recuperar mi contraseña en caso de olvidarla. | 3 |
+| 10 | US-04 | Gestión de Perfil | Como usuario, quiero actualizar mis datos de perfil. | 2 |
+| 11 | US-06 | Cierre de Sesión | Como usuario, quiero cerrar sesión de manera segura. | 1 |
+| 12 | US-05 | Roles de Usuario | Como administrador, quiero asignar roles para controlar permisos. | 5 |
+| 13 | US-07 | Registro de Producto | Como emprendedor, quiero registrar productos en el inventario. | 3 |
+| 14 | US-08 | Actualización de Stock | Como usuario, quiero actualizar la cantidad de productos en inventario. | 2 |
+| 15 | US-09 | Eliminación de Producto | Como usuario, quiero eliminar productos obsoletos. | 2 |
+| 16 | US-10 | Categorización de Productos | Como usuario, quiero categorizar productos para organizarlos mejor. | 2 |
+| 17 | US-11 | Búsqueda de Productos | Como usuario, quiero buscar productos rápidamente. | 3 |
+| 18 | US-12 | Historial de Movimientos de Inventario | Como usuario, quiero ver historial de entradas y salidas. | 3 |
+| 19 | US-19 | Registro de Entradas | Como usuario, quiero registrar entradas de productos. | 3 |
+| 20 | US-20 | Registro de Salidas | Como usuario, quiero registrar salidas de productos. | 3 |
+| 21 | US-21 | Transferencia entre Almacenes | Como empresa, quiero registrar transferencias entre almacenes. | 5 |
+| 22 | US-22 | Tracking de Transporte | Como usuario, quiero seguir el transporte de mis productos. | 5 |
+| 23 | US-23 | Alertas de Retraso | Como usuario, quiero recibir alertas de retraso en transporte. | 3 |
+| 24 | US-24 | Historial de Trazabilidad | Como usuario, quiero ver historial de movimientos de producto. | 3 |
+| 25 | US-25 | Alertas de Stock Bajo | Como usuario, quiero recibir alertas cuando stock esté por agotarse. | 3 |
+| 26 | US-26 | Alertas de Exceso de Stock | Como usuario, quiero recibir alertas cuando stock esté en exceso. | 2 |
+| 27 | US-27 | Notificación de Caducidad | Como usuario, quiero alertas sobre productos próximos a caducar. | 3 |
+| 28 | US-29 | Notificaciones Personalizadas | Como usuario, quiero configurar notificaciones según mis necesidades. | 3 |
+| 29 | US-30 | Dashboard de Notificaciones | Como usuario, quiero ver todas mis notificaciones en un panel. | 3 |
+| 30 | US-28 | Alertas de Fallo de Sensor | Como usuario, quiero alertas cuando un sensor falla. | 3 |
+| 31 | US-13 | Lectura de Sensores | Como usuario, quiero visualizar datos de sensores ambientales. | 5 |
+| 32 | US-14 | Alertas de Temperatura | Como usuario, quiero recibir alertas cuando la temperatura sea anómala. | 3 |
+| 33 | US-15 | Alertas de Humedad | Como usuario, quiero recibir alertas por humedad fuera de rango. | 3 |
+| 34 | US-18 | Notificaciones de Sensor Inactivo | Como usuario, quiero recibir alerta si un sensor deja de transmitir. | 3 |
+| 35 | US-16 | Reportes Ambientales | Como usuario, quiero obtener reportes de condiciones ambientales. | 5 |
+| 36 | US-17 | Integración con RFID | Como empresa, quiero que los sensores RFID registren condiciones automáticamente. | 8 |
+| 37 | US-31 | Reporte de Inventario General | Como usuario, quiero obtener un reporte consolidado de inventario. | 5 |
+| 38 | US-32 | Reporte de Pérdidas | Como usuario, quiero reportes de pérdidas de inventario. | 3 |
+| 39 | US-33 | Reporte de Movimientos | Como usuario, quiero reportes detallados de movimientos de stock. | 3 |
+| 40 | US-35 | Visualización de Indicadores | Como usuario, quiero ver métricas clave en gráficos. | 5 |
+| 41 | US-34 | Análisis Predictivo de Stock | Como empresa, quiero análisis predictivo para optimizar compras. | 8 |
+| 42 | US-36 | Exportación de Datos | Como usuario, quiero exportar datos a CSV/Excel. | 2 |
+
+Referencia URL: https://trello.com/invite/b/68cadaeea4756cf09805bac4/ATTI112d83ba3d34c14a529df031f6e5f866E2ED34D5/kanban-template
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
