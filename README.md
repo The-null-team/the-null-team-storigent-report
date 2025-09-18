@@ -431,6 +431,9 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 <img src="static/img/chapter 4/structurizr-106361-Container-001.png"></img>
 
 ### 4.6.4. Software Architecture Components Diagrams
+
+<img src="static/img/chapter 4/structurizr-106364-Component-001.png"></img>
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
