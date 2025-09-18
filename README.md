@@ -7,7 +7,7 @@
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
     <br><strong>"Informe del Trabajo Final"</strong><br>
     <br>
-    <strong>Startup: LogiCore</strong><br>
+    <strong>Startup: The Null Team</strong><br>
     <strong>Nombre del Producto: Storigent</strong><br>
 </p>
 
@@ -31,10 +31,6 @@
             <td style="padding: 8px;">U202310436</td>
         </tr>
         <tr>
-            <td style="padding: 8px">Palomino Tito, Abraham Joel</td>
-            <td style="padding: 8px">U201821512</td>
-        </tr>
-        <tr>
             <td style="padding: 8px;">Tello Murga, Javier Oswaldo</td>
             <td style="padding: 8px;">u202218387</td>
         </tr>
@@ -54,50 +50,261 @@
 </p>
 <br>
 
-<h1 align="center">Registro de versiones del Informe</h1>
-</br>
+# Registro de versiones del Informe
 <table>
-        <thead>
-            <tr>
-                <th>Versión</th>
-                <th>Fecha</th>
-                <th>Autor</th>
-                <th>Descripción de modificaciones</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th></th>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-      </tbody>
+    <thead>
+        <tr>
+            <th>Versión</th>
+            <th>Fecha</th>
+            <th>Autor</th>
+            <th>Descripción de modificaciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>v0.1</th>
+            <td>2025-09-02</td>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>Se añadió Epic ID y User Stories.</td>
+        </tr>
+        <tr>
+            <th>v0.2</th>
+            <td>2025-09-04</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido sobre diseño de entrevistas.</td>
+        </tr>
+        <tr>
+            <th>v0.3</th>
+            <td>2025-09-04</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió análisis del panorama competitivo y competidores.</td>
+        </tr>
+        <tr>
+            <th>v0.4</th>
+            <td>2025-09-04</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadieron estrategias y tácticas frente a competidores.</td>
+        </tr>
+        <tr>
+            <th>v0.5</th>
+            <td>2025-09-13</td>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>Se realizaron actualizaciones en el archivo README.md con contenido documental relevante.</td>
+        </tr>
+        <tr>
+            <th>v0.6</th>
+            <td>2025-09-15</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido del registro de entrevistas.</td>
+        </tr>
+        <tr>
+            <th>v0.7</th>
+            <td>2025-09-15</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió más contenido al registro de entrevistas.</td>
+        </tr>
+        <tr>
+            <th>v0.8</th>
+            <td>2025-09-15</td>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>Se añadieron nuevas User Stories (37–42), Epic ID O7 e Impact Mapping.</td>
+        </tr>
+        <tr>
+            <th>v0.9</th>
+            <td>2025-09-15</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>Se añadió plantilla de planificación del sprint, backlog, líderes y colaboradores, y evidencias de desarrollo, ejecución, servicios y despliegue para la revisión del sprint.</td>
+        </tr>
+        <tr>
+            <th>v0.10</th>
+            <td>2025-09-15</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>Se añadió sección de colaboración del equipo durante el sprint.</td>
+        </tr>
+        <tr>
+            <th>v0.11</th>
+            <td>2025-09-17</td>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>Se añadió el product backlog y su URL de referencia.</td>
+        </tr>
+        <tr>
+            <th>v0.12</th>
+            <td>2025-09-17</td>
+            <td>Espinar Martínez, Gabriel Ferran</td>
+            <td>Se añadió contenido sobre arquitectura de software, arquitectura de información y diseño de nivel de eventos.</td>
+        </tr>
+        <tr>
+            <th>v0.13</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido del registro de entrevistas.</td>
+        </tr>
+        <tr>
+            <th>v0.14</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido del análisis de entrevistas.</td>
+        </tr>
+        <tr>
+            <th>v0.15</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido del user persona.</td>
+        </tr>
+        <tr>
+            <th>v0.16</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió matriz de tareas del usuario.</td>
+        </tr>
+        <tr>
+            <th>v0.17</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido de anexos.</td>
+        </tr>
+        <tr>
+            <th>v0.18</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadieron líneas de tiempo, duración y enlaces de video por entrevista.</td>
+        </tr>
+        <tr>
+            <th>v0.19</th>
+            <td>2025-09-18</td>
+            <td>Meza Tataje, David</td>
+            <td>Se añadió contenido explicativo sobre User Journey Mapping, Empathy Mapping, Big Picture EventStorming y Lenguaje Ubicuo.</td>
+        </tr>
+        <tr>
+            <th>v0.20</th>
+            <td>2025-09-18</td>
+            <td>Espinar Martínez, Gabriel Ferran</td>
+            <td>Se añadieron lineamientos de estilo web, imágenes de estilo general y mockups de la landing page.</td>
+        </tr>
+        <tr>
+            <th>v0.21</th>
+            <td>2025-09-18</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>Se añadió contenido del sprint backlog, guía de estilo de código fuente, gestión de código, configuración del entorno de desarrollo y asignación de roles en la tabla de líderes de aspectos.</td>
+        </tr>
+        <tr>
+            <th>v0.22</th>
+            <td>2025-09-18</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>Se añadieron actividades en la tabla de colaboración del equipo.</td>
+        </tr>
+        <tr>
+            <th>v0.23</th>
+            <td>2025-09-18</td>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>Se añadieron correcciones y complementos al archivo README.md.</td>
+        </tr>
+        <tr>
+            <th>v0.24</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido de conclusiones, bibliografía y anexos.</td>
+        </tr>
+        <tr>
+            <th>v0.25</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió tabla de resultados de aprendizaje estudiantil.</td>
+        </tr>
+        <tr>
+            <th>v0.26</th>
+            <td>2025-09-18</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Se añadió contenido sobre colaboración en el capítulo 2.</td>
+        </tr>
+    </tbody>
 </table>
 
 <br><br>
 # Project Report Collaboration Insights
+
+Enlace al repositorio de GitHub TB1: [Repositorio GitHub TB1](https://github.com/The-null-team/the-null-team-storigent-report/tree/develop?tab=readme-ov-file)
+
+Colaboración en el desarrollo del informe del proyecto Storigent:
+
+Calixto Iriarte, David Alejandro:
+
+<img src="/static/img/develop/img-collaboration-David-C.png" alt="David Calixto" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Céspedes Pillco, Jarod Jack:
+
+<img src="/static/img/develop/img-collaboration-Jarod.png" alt="Jarod Cespedes" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Espinar Martínez, Gabriel Ferran:
+
+<img src="/static/img/develop/img-collaboration-Gabriel.png" alt="Gabriel Espinar" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Tello Murga, Javier Oswaldo:
+
+<img src="/static/img/develop/img-collaboration-Javier.png" alt="Javier Tello" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Zagaceta Bardales, Rodrigo Enrique:
+
+<img src="/static/img/develop/img-collaboration-Rodrigo.png" alt="Rodrigo Zagaceta" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Meza Tataje, David:
+
+<img src="/static/img/develop/img-collaboration-David-M.png" alt="David Meza" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+Todos los integrantes:
+
+<img src="/static/img/develop/img-top-commiters.png" alt="Top Commiters" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
+<img src="/static/img/develop/img-commits-over-time.png" alt="Commits Over Time" style="display: block; margin: auto; max-width: 100%; height: auto;">
+
 <br><br>
 
-<h1>Student Outcome</h1>
-</br>
+# Student Outcome
+
 <table>
-        <thead>
-            <tr>
-                <th>Versión</th>
-                <th>Fecha</th>
-                <th>Autor</th>
-                <th>Descripción de modificaciones</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th></th>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-      </tbody>
+         <tr>
+                <td>Criterio específico</td>
+                <td>Acciones realizadas</td>
+                <td>Conclusiones</td>
+        </tr>
+        <tr>
+                <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: Para esta entrega realice entrevistas de las cuales obtuvimos informacion acerca de las necesidades, objetivos y frustraciones de nuestros segmentos objetivos como empresarios/emprendedores. Ademas, ayude con el desarrollo del Software Architecture Diagrams y Database Diagram.
+                <br><br>Cespedes Pillco, Jarod Jack: Realicé presentaciones de los avances del proyecto a mis compañeros de equipo, traté de explicar temas técnicos con un lenguaje sencillo, utilicé recursos de apoyo para mejorar la comprensión y practiqué previamente para mejorar mi seguridad y fluidez al hablar.
+                <br><br>Espinar Martínez, Gabriel Ferran: Participé en la exposición oral explicando los apartados de Style Guidelines, Information Architecture, Landing Page UI Design y Domain-Driven Software Architecture.
+                <br><br>Tello Murga, Javier Oswaldo: Expliqué a mi equipo el trabajo que realicé con las User Stories, sus Epic ID, el Impact Mapping y el Product Backlog. Comenté cómo cada historia se relaciona con las metas del proyecto y respondí las dudas que surgieron. Hablé en un lenguaje simple para que todos pudieran entender, incluso quienes no estaban familiarizados con los términos técnicos, y me aseguré de que cada idea quedara clara.
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: Realicé el contenido correspondiente desde el punto 2.1 hasta el 2.5, abarcando el proceso de competidores, entrevistas y needfinding.
+                <br><br>Meza Tataje, David: Presenté los avances del proyecto relacionados con el Empathy Mapping, User Journey Mapping, Big Picture EventStorming y Ubiquitous Language a mis compañeros de equipo. Expliqué conceptos técnicos y diagramas complejos utilizando un lenguaje sencillo y ejemplos prácticos, apoyándome en imágenes y material visual para facilitar la comprensión. Practiqué previamente mis explicaciones para mejorar la seguridad y fluidez al hablar, y adapté mi discurso según el conocimiento previo de la audiencia.
+                </td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: Pude entender el enfoque que tenemos llevar como grupo al momento de desarrollar nuestro proyecto de trabajo final, aun veo que queda cosas que implementar cuando avancemos con los hitos de entregas.
+                <br><br>Cespedes Pillco, Jarod Jack: En esta entrega, mejoré en adaptar mi forma de hablar según el tipo de audiencia, mejoré mi confianza para expresarme en público, me dí cuenta que el uso de ejemplos y material visual facilita la compresión de ideas complejas. Reconozco que es importante organizar bien el discurso para poder transmitir mensajes claros y efectivos.
+                <br><br>Espinar Martínez, Gabriel Ferran: Considero que esta presentación me permitió mejorar mi capacidad de comunicación oral, ya que tuve que explicar conceptos técnicos de forma sencilla y estructurada. Esto fue clave para asegurar que los diagramas y diseños fueran comprendidos por diferentes audiencias.
+                <br><br>Tello Murga, Javier Oswaldo: Me sentí más seguro al hablar frente a mis compañeros y pude expresar las ideas de forma ordenada. Aprendí que adaptarse al tipo de público es importante para que todos comprendan. También noté que dar ejemplos concretos ayuda a que la explicación sea más fácil de seguir.
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: En la presente entrega, pude mejorar mi comunicación oral con los integrants del grupo para tener un mayor entendimiento y coordinación en las tareas asignadas, además de practicar la exposición de ideas y conceptos técnicos de manera clara y concisa.
+                <br><br>Meza Tataje, David: Esta experiencia reforzó mi capacidad para comunicar ideas complejas de manera clara y comprensible a diferentes tipos de audiencia. Aprendí que el uso de recursos visuales, ejemplos concretos y una estructura clara mejora la retención de información y facilita la comprensión de procesos técnicos, contribuyendo a presentaciones más efectivas y profesionales.
+                </td>
+        </tr>
+        <tr>
+                <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: Con la ayuda de mi grupo establecimos objetivos a realizar para esta entrega, tomando en cuenta la prioridad de cada punto a desarrollar. Se tuvo que usar herramientas especificas cada capitulo del proyecto. 
+                <br><br>Cespedes Pillco, Jarod Jack: Escribí el informe con un lenguaje formal y estructurado, hice resúmenes claros para que mis compañeros entendieran los puntos clave del trabajo, utilicé tablas, diagramas listas para organizar la información escrita de forma más comprensible, revisé y corregí mis redacciones para evitar errores.
+                <br><br>Espinar Martínez, Gabriel Ferran: Redacté los apartados 4.1 Style Guidelines, 4.2 Information Architecture, 4.3 Landing Page UI Design y 4.6 Domain-Driven Software Architecture.
+                <br><br>Tello Murga, Javier Oswaldo: Redacté la documentación de las User Stories, los Epic ID y el Impact Mapping, y organicé el Product Backlog usando Trello para que fuera visual y sencillo de revisar. Escribí de manera clara y revisé el texto para evitar errores, usando listas y descripciones cortas para que cualquiera del equipo pudiera entender los objetivos y las prioridades.
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: Verifiqué el correcto trabajo del informe en base a las instrucciones brindadas por el Project Statement.
+                <br><br>Meza Tataje, David: Redacté la documentación del Empathy Mapping, User Journey Mapping, Big Picture EventStorming y Ubiquitous Language utilizando un lenguaje formal y estructurado. Organicé la información con subtítulos, listas, diagramas y descripciones detalladas, asegurando que cada apartado fuera claro y fácil de entender. Revisé y corregí los textos para mantener coherencia, claridad y precisión en la comunicación escrita.
+                </td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: Tuve una vision mas amplia con respecto a los requerimientos necesarios para el dearrollo del proyecto y de como realizarlos de manera adecuada.
+                <br><br>Cespedes Pillco, Jarod Jack: En esta primera entrega, reforcé mis habilidades de redacción al estructurar ideas de forma clara y coherente, me doy cuenta que la comunicación escrita bien organizada facilita la comprensión y evita confusiones, y aprendí la importancia de revisar y adaptar el estilo de escritura según a quién va dirigido el mensaje.
+                <br><br>Espinar Martínez, Gabriel Ferran: Considero que mi aporte en esta primera entrega fue clave para dar una base sólida al proyecto, tanto en el aspecto visual como en el técnico. A través de los lineamientos de estilo, la arquitectura de información y los diseños de la landing page, logramos unificar la identidad de Storigent y dar forma a cómo se presentará ante los usuarios y por ultimo resaltar la importancia de la comunicación constante con mis compañeros.
+                <br><br>Tello Murga, Javier Oswaldo: Mejoré mi capacidad de escribir de forma clara y directa, lo que facilita que el equipo y otras personas comprendan el trabajo. Aprendí que una buena organización, como el uso de Trello y el lenguaje sencillo, ayuda a que la información llegue de manera efectiva a diferentes lectores.
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: En la presente entrega, considero que comuniqué de manera clara los comunicados a través de nuestro grupo de trabajo para brindar un mayor entendimiento.
+                <br><br>Meza Tataje, David: Al elaborar estos documentos, reforcé mi habilidad para transmitir información técnica de manera escrita a diferentes tipos de audiencia. Comprendí que una presentación clara, bien organizada y visualmente apoyada facilita la comprensión, evita confusiones y asegura que todos los miembros del equipo y partes interesadas puedan interpretar correctamente los procesos y conceptos del proyecto.
+                </td>
+        </tr>
 </table>
 
 # Tabla de contenidos
@@ -1341,6 +1548,23 @@ que todos los involucrados comprendan los conceptos clave de forma unificada.
 # Conclusiones
 
 # Bibliografía
+Sanz Mateo, M. I. (2015). Metodología LEAN para el desarrollo de software. Ejemplo práctico de aplicación en empresa de desarrollo de software (Trabajo Fin de Grado). Universidad de Valladolid. Recuperado de https://uvadoc.uva.es/handle/10324/13538
+
+Bautista Bohórquez, C. L. (2019). Estudio de la adopción de metodologías ágiles para la gestión de proyectos de desarrollo de software (Tesis de Maestría). Universidad Industrial de Santander. Recuperado de https://noesis.uis.edu.co/bitstreams/2ece66e4-aca1-427e-b077-e88f67bd9b84/download
+
+Red Hat. (2019). ¿Qué es la arquitectura basada en eventos?. Red Hat. Recuperado de https://www.redhat.com/es/topics/integration/what-is-event-driven-architecture 
+
+Sánchez, C. (2020). Citar Entrevistas – Referencia Bibliográfica. Normas APA (7ma edición). Recuperado de https://normas-apa.org/referencias/citar-entrevistas/
+
+Carreño Dueñas, D. A., Amaya González, L. F., Ruiz Orjuela, E. T., & Tiboche, F. J. (2019). Diseño de un sistema para la gestión de inventarios de las pymes en el sector alimentario. Industrial Data, 22(1), 113–132. https://doi.org/10.15381/idata.v22i1.16530
+
+Carballo-Huerta, M. A., & González-Ramírez, G. A. (2023). El diseño centrado en el usuario: Estrategia para la actualización docente. Revista Legado de Arquitectura y Diseño, 18(34). Universidad Autónoma del Estado de México. https://www.redalyc.org/articulo.oa?id=477975707014
+
+López Fuentes, F. de A. (2015). Sistemas distribuidos. Universidad Autónoma Metropolitana, Unidad Cuajimalpa. http://dccd.cua.uam.mx/libros/archivos/03IXStream_sistemas_distribuidos.pdf
+
+De la Cruz Medina, S. (2024). Implementación de metodologías ágiles en proyectos tecnológicos educativos de nivel superior. LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades, 5(5). https://dialnet.unirioja.es/descarga/articulo/9789020.pdf
+
+Codina, L. (2019). Bibliografía sobre investigación cualitativa. Recuperado de https://www.lluiscodina.com/investigacion-cualitativa-recursos/bibliografia/ 
 
 # Anexos
 ### Anexo A: Entrevistas Completas
