@@ -109,6 +109,52 @@ Todos los integrantes:
 
 <br><br>
 
+<table>
+         <tr>
+                <td>Criterio específico</td>
+                <td>Acciones realizadas</td>
+                <td>Conclusiones</td>
+        </tr>
+        <tr>
+                <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: 
+                <br><br>Cespedes Pillco, Jarod Jack: 
+                <br><br>Espinar Martínez, Gabriel Ferran: 
+                <br><br>Tello Murga, Javier Oswaldo: 
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: 
+                <br><br>Meza Tataje, David: 
+                </td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: 
+                <br><br>Cespedes Pillco, Jarod Jack: 
+                <br><br>Espinar Martínez, Gabriel Ferran: 
+                <br><br>Tello Murga, Javier Oswaldo: 
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: 
+                <br><br>Meza Tataje, David: 
+                </td>
+        </tr>
+        <tr>
+                <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: 
+                <br><br>Cespedes Pillco, Jarod Jack: 
+                <br><br>Espinar Martínez, Gabriel Ferran: 
+                <br><br>Tello Murga, Javier Oswaldo: 
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: 
+                <br><br>Meza Tataje, David: 
+                </td>
+                <td>TB1 
+                <br><br>Calixto Iriarte, David Alejandro: 
+                <br><br>Cespedes Pillco, Jarod Jack: 
+                <br><br>Espinar Martínez, Gabriel Ferran: 
+                <br><br>Tello Murga, Javier Oswaldo: 
+                <br><br>Zagaceta Bardales, Rodrigo Enrique: 
+                <br><br>Meza Tataje, David: 
+                </td>
+        </tr>
+</table>
+
 # Tabla de contenidos
 
 ## [Registro de Versiones del Informe](#registro-de-versiones-del-informe-1)
