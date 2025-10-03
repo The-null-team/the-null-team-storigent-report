@@ -2390,7 +2390,35 @@ En esta sección se presentan los avances en la implementación de la solución,
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-En el primer sprint, logramos desarrollar parcialmente la implementación del despliegue del landing page. Donde se muestra las diferentes divisiones que el usuario podrá visualizar como lo sería la información sobre el startup y nuestro producto. A continuación mostramos algunas evidencias:
+En el primer sprint, logramos desarrollar la implementación del despliegue de la landing page. Donde se muestra las diferentes divisiones que el usuario podrá visualizar como lo sería la información sobre el startup y nuestro producto. A continuación mostramos algunas evidencias:
+
+- Sección Home: En esta sección se muestra la propuesta de valor del producto y una llamada a la acción para que el usuario pueda registrarse o iniciar sesión.
+
+![landing-page-execution-evidence-1.jpg](static/img/chapter%205/landing-page/execution/landing-page-execution-evidence-1.jpg)
+
+- Sección About Us: En esta sección se muestra información sobre la empresa y el equipo detrás del producto.
+
+![landing-page-execution-evidence-2.jpg](static/img/chapter%205/landing-page/execution/landing-page-execution-evidence-2.jpg)
+
+- Sección Features: En esta sección se muestran las características principales del producto.
+
+![landing-page-execution-evidence-3.jpg](static/img/chapter%205/landing-page/execution/landing-page-execution-evidence-3.jpg)
+
+- Sección Sectors: En esta sección se muestran los sectores a los que está dirigido el producto.
+
+![landing-page-execution-evidence-4.jpg](static/img/chapter%205/landing-page/execution/landing-page-execution-evidence-4.jpg)
+
+- Sección Cutting-Edge Technology: En esta sección se muestra la tecnología que utiliza el producto.
+
+![landing-page-execution-evidence-5.jpg](static/img/chapter%205/landing-page/execution/landing-page-execution-evidence-5.jpg)
+
+- Sección Choose Your Plan: En esta sección se muestran los diferentes planes y precios del producto.
+
+![landing-page-execution-evidence-6.jpg](static/img/chapter%205/landing-page/execution/landing-page-execution-evidence-6.jpg)
+
+- Sección Contact: En esta sección se muestra información de contacto para que el usuario pueda enviar sus consultas o comentarios.
+
+![landing-page-execution-evidence-7.jpg](static/img/chapter%205/landing-page/execution/landing-page-execution-evidence-7.jpg)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2401,6 +2429,22 @@ La documentación de servicios será considerada en los siguientes Sprints, una 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 A continuación mostraremos capturas de la landing page desplegada:
+
+![landing-page-deployed-evidence-1.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-1.png)
+
+![landing-page-deployed-evidence-2.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-2.png)
+
+![landing-page-deployed-evidence-3.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-3.png)
+
+![landing-page-deployed-evidence-4.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-4.png)
+
+![landing-page-deployed-evidence-5.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-5.png)
+
+![landing-page-deployed-evidence-6.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-6.png)
+
+![landing-page-deployed-evidence-7.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-7.png)
+
+![landing-page-deployed-evidence-8.png](static/img/chapter%205/landing-page/deployment/landing-page-deployed-evidence-8.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
