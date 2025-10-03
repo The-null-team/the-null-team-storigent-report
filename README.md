@@ -2003,7 +2003,11 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
 
-<img src="static/img/chapter 4/design-level-eventstorming.png"></img>
+El Design Level Event Storming (DLES) se ejecutó para pasar del entendimiento general del negocio a un plano de diseño de software detallado, basado en los Contextos Delimitados de Storigent. La actividad se centró en la identificación y delimitación de los Agregados (unidades de consistencia transaccional), los cuales fueron agrupados en Subdominios lógicos. Esto permitió mapear con precisión los Comandos que inician los procesos y los Eventos resultantes, definiendo la arquitectura modular de los sistemas Core (Inventario y Monitoreo) y los sistemas Genéricos (Suscripciones e Identidad), estableciendo así la estructura fundamental para el desarrollo.
+
+<img src="static/img/chapter 4/img-design-level-eventstorming-1.png"></img>
+
+<img src="static/img/chapter 4/img-design-level-eventstorming-2.png"></img>
 
 ### 4.6.2. Software Architecture Context Diagram
 
