@@ -223,7 +223,7 @@ Para identificar las principales dificultades en la gestión y conservación de 
 
 La problemática central se encuentra en la ausencia de una solución integral que aborde de manera simultánea la gestión y la conservación de inventarios. En la mayoría de empresas y emprendimientos, los procesos actuales se desarrollan de manera manual o mediante sistemas poco integrados que no garantizan un control en tiempo real. Esta situación provoca limitaciones significativas en áreas críticas como la trazabilidad durante el transporte, el adecuado almacenamiento de productos y la implementación de protocolos de conservación. Como consecuencia, se generan pérdidas económicas, ineficiencias operativas y dificultades en la toma de decisiones estratégicas.
 
-# ¿Cuándo? (When)
+#### ¿Cuándo? (When)
 
 El problema se manifiesta de manera más evidente durante los momentos clave del ciclo logístico. En el almacenamiento, la falta de un monitoreo adecuado impide garantizar la conservación óptima de productos, especialmente aquellos que son sensibles a condiciones ambientales. De igual modo, en la etapa de transporte, la ausencia de trazabilidad confiable limita el control sobre el desplazamiento y las condiciones en que viajan los productos. En ambos casos, la deficiencia en el seguimiento ocasiona deterioro, quiebres de stock, incumplimiento de plazos de entrega y, en consecuencia, sobrecostos que afectan la sostenibilidad de la operación.
 
