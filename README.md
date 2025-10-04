@@ -219,7 +219,7 @@ Para identificar las principales dificultades en la gestión y conservación de 
 
 #Análisis de Antecedentes y Problemática (5W + 2H)
 
-# ¿Qué? (What)
+#### ¿Qué? (What)
 
 La problemática central se encuentra en la ausencia de una solución integral que aborde de manera simultánea la gestión y la conservación de inventarios. En la mayoría de empresas y emprendimientos, los procesos actuales se desarrollan de manera manual o mediante sistemas poco integrados que no garantizan un control en tiempo real. Esta situación provoca limitaciones significativas en áreas críticas como la trazabilidad durante el transporte, el adecuado almacenamiento de productos y la implementación de protocolos de conservación. Como consecuencia, se generan pérdidas económicas, ineficiencias operativas y dificultades en la toma de decisiones estratégicas.
 
@@ -227,23 +227,23 @@ La problemática central se encuentra en la ausencia de una solución integral q
 
 El problema se manifiesta de manera más evidente durante los momentos clave del ciclo logístico. En el almacenamiento, la falta de un monitoreo adecuado impide garantizar la conservación óptima de productos, especialmente aquellos que son sensibles a condiciones ambientales. De igual modo, en la etapa de transporte, la ausencia de trazabilidad confiable limita el control sobre el desplazamiento y las condiciones en que viajan los productos. En ambos casos, la deficiencia en el seguimiento ocasiona deterioro, quiebres de stock, incumplimiento de plazos de entrega y, en consecuencia, sobrecostos que afectan la sostenibilidad de la operación.
 
-# ¿Dónde? (Where)
+#### ¿Dónde? (Where)
 
 Esta problemática se concentra principalmente en los almacenes, centros de distribución y procesos de transporte, que constituyen los puntos neurálgicos de la cadena logística. En los almacenes, la falta de herramientas adecuadas impide un control preciso de los niveles de inventario, lo que puede derivar en excesos o desabastecimientos. En los procesos de distribución y transporte, la ausencia de trazabilidad incrementa el riesgo de pérdidas, daños o retrasos. Cabe destacar que este problema no se limita a organizaciones de gran escala, sino que afecta también a pequeñas y medianas empresas, en especial aquellas que operan en contextos urbanos donde la demanda es variable y las cadenas logísticas resultan más complejas.
 
-# ¿Quiénes? (Who)
+#### ¿Quiénes? (Who)
 
 Los actores involucrados en esta situación son principalmente dos. Por un lado, las empresas, que requieren soluciones escalables y robustas capaces de optimizar recursos, reducir costos y minimizar pérdidas asociadas a la gestión de inventarios. Por otro lado, los emprendedores, quienes enfrentan la necesidad de contar con herramientas accesibles y fáciles de implementar que les permitan organizar y supervisar sus inventarios sin necesidad de realizar grandes inversiones iniciales. Ambos segmentos comparten el interés de contar con una plataforma eficiente que asegure el control y la conservación de sus productos.
 
-# ¿Por qué? (Why)
+#### ¿Por qué? (Why)
 
 Las causas del problema responden, en primer lugar, a la persistencia del uso de métodos manuales de registro y control, que suelen generar errores humanos y demoras en la gestión. En segundo lugar, la inexistencia de sistemas integrados para la trazabilidad y la conservación impide que los datos estén centralizados y disponibles en tiempo real. Asimismo, la falta de aplicación de guías de conservación durante el almacenamiento y transporte repercute en la calidad de los productos. Finalmente, los sistemas tradicionales, que en muchos casos son costosos y poco adaptables, no ofrecen la escalabilidad que las organizaciones modernas requieren frente al crecimiento de sus operaciones.
 
-# ¿Cómo? (How)
+#### ¿Cómo? (How)
 
 La solución propuesta se presenta en la forma de Storigent, una plataforma digital orientada a la gestión integral de inventarios. Esta herramienta centraliza los procesos en un sistema único que permite monitorear los niveles de inventario en tiempo real, aplicar protocolos de conservación en todas las etapas del ciclo logístico y garantizar la trazabilidad de los productos desde el almacenamiento hasta el transporte. Su diseño accesible y escalable ofrece ventajas significativas frente a la dispersión de datos que caracteriza a los métodos actuales, al tiempo que contribuye a la optimización de costos y a la mejora de la eficiencia operativa.
 
-# ¿Cuánto? (How Much)
+#### ¿Cuánto? (How Much)
 
 La ineficiencia en la gestión de inventarios representa un costo considerable para las organizaciones, ya sea por pérdidas asociadas al deterioro de productos, por excesos de stock que inmovilizan capital o por quiebres de inventario que afectan la satisfacción del cliente. La implementación de Storigent supone una inversión estimada de S/ 140,000, con un potencial de reducción de hasta un 30% en los costos logísticos. Esto la convierte en una propuesta no solo viable, sino también rentable, dado que su retorno de inversión puede alcanzarse en un horizonte de corto plazo, fortaleciendo la sostenibilidad de las operaciones.
 
