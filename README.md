@@ -251,9 +251,9 @@ La ineficiencia en la gestión de inventarios representa un costo considerable p
 ### 1.2.2 Lean UX Process  
 #### 1.2.2.1. Lean UX Problem Statements  
 
-En un escenario donde la administración de inventarios y la trazabilidad logística son determinantes para la competitividad, se identifica la necesidad de contar con una plataforma digital que permita controlar, conservar y transportar productos de manera eficiente. Esta solución debe ofrecer a empresas y emprendedores una experiencia práctica, confiable y adaptable a sus operaciones.  
+En la actualidad, la gestión de inventarios y la trazabilidad logística representan elementos esenciales para la competitividad de cualquier organización. Sin embargo, muchas empresas y emprendedores aún carecen de una herramienta tecnológica que les permita administrar, conservar y transportar sus productos de manera eficiente y coordinada. Esta carencia genera dificultades en el control en tiempo real, provoca pérdidas por deterioro o desabastecimiento, y limita la capacidad de tomar decisiones informadas basadas en datos precisos.
 
-Como equipo, asumimos el compromiso de abordar este reto en conjunto con los usuarios que requieren optimizar la gestión de inventarios y con las organizaciones interesadas en mejorar su trazabilidad y reducir pérdidas. Nuestro enfoque estará en comprender a fondo sus necesidades y expectativas para diseñar y desarrollar una solución innovadora que responda integralmente a sus requerimientos.  
+Ante esta situación, nuestro equipo asume el desafío de desarrollar una plataforma digital integral que atienda estas necesidades, ofreciendo una experiencia accesible, confiable y adaptable a diferentes contextos operativos. El propósito es colaborar estrechamente con los usuarios para comprender sus procesos, identificar puntos críticos y diseñar una solución innovadora que optimice la gestión de inventarios, fortalezca la trazabilidad y contribuya a la sostenibilidad de las operaciones logísticas.  
 
 ---
 
