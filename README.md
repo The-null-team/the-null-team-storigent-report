@@ -259,32 +259,43 @@ Ante esta situación, nuestro equipo asume el desafío de desarrollar una plataf
 
 #### 1.2.2.2. Lean UX Assumptions  
 
-**Business Assumptions**  
+Business Assumptions
 
-1. **Demanda de mercado**: Suponemos que emprendedores y empresas de distintos tamaños enfrentan dificultades frecuentes en la gestión de inventarios y necesitan herramientas tecnológicas que les ayuden a disminuir errores, optimizar procesos y mejorar la trazabilidad.  
-2. **Disposición al uso**: Suponemos que los usuarios estarán abiertos a dejar los métodos manuales (como hojas de cálculo o registros físicos) para adoptar una solución digital siempre que sea intuitiva, accesible y fácil de usar.  
-3. **Impacto económico positivo**: Suponemos que Storigent reducirá costos operativos al minimizar pérdidas por exceso de stock, deterioro de productos y problemas en transporte, lo que facilitará la recuperación de la inversión.  
-4. **Accesibilidad tecnológica**: Suponemos que la mayoría de usuarios tiene acceso a internet y dispositivos móviles o computadoras, lo que permitirá implementar Storigent sin limitaciones de infraestructura.  
-5. **Escalabilidad**: Suponemos que la plataforma podrá crecer con el negocio, desde un pequeño inventario inicial hasta operaciones de mayor volumen y complejidad.  
-6. **Confianza y adopción**: Suponemos que al integrar gestión de inventarios, guías de conservación y trazabilidad, Storigent se diferenciará de soluciones parciales, logrando confianza y lealtad de los usuarios.  
+Demanda del mercado: Suponemos que tanto pequeñas como grandes organizaciones enfrentan deficiencias en la gestión de inventarios y requieren soluciones tecnológicas que integren control, trazabilidad y conservación para mejorar su desempeño operativo.
 
-**User Assumptions**  
+Adopción tecnológica: Suponemos que los usuarios estarán dispuestos a abandonar los métodos manuales o dispersos si la herramienta propuesta es intuitiva, fácil de implementar y no requiere altos conocimientos técnicos.
 
-- Los usuarios buscan una solución integral que combine inventarios, conservación y trazabilidad.  
-- Valoran la accesibilidad y la conveniencia de usar la plataforma desde cualquier lugar y dispositivo.  
-- Están dispuestos a invertir en una herramienta confiable que reduzca errores y aumente la eficiencia.  
-- Esperan que las guías de conservación sean simples y aplicables a sus negocios.  
-- Dan importancia a la seguridad y transparencia en la gestión de datos y operaciones.  
+Rentabilidad del sistema: Suponemos que la implementación de Storigent reducirá significativamente los costos derivados del deterioro de productos, errores en el registro y falta de seguimiento, generando un retorno de inversión atractivo.
 
----
+Disponibilidad tecnológica: Suponemos que los usuarios disponen de acceso estable a internet y de dispositivos móviles o computadoras, lo que permite el uso eficiente de la plataforma en distintos contextos empresariales.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements  
+Capacidad de crecimiento: Suponemos que Storigent será capaz de escalar junto con las necesidades del usuario, acompañando el crecimiento de sus operaciones sin afectar el rendimiento del sistema.
 
-- Creemos que emprendedores y empresas requieren una solución integral que permita gestionar inventarios, conservar productos y asegurar la trazabilidad en transporte.  
-- Creemos que si ofrecemos una plataforma accesible y sencilla, los usuarios la preferirán frente a métodos manuales o herramientas aisladas.  
-- Creemos que al brindar datos claros y en tiempo real, los usuarios podrán reducir errores, mejorar la eficiencia y disminuir pérdidas por deterioro o exceso de stock.  
-- Creemos que si garantizamos seguridad y transparencia en la información, los usuarios confiarán en Storigent e integrarán la plataforma a sus operaciones.  
-- Creemos que al evidenciar un impacto positivo en la reducción de costos y riesgos, los usuarios estarán dispuestos a invertir en Storigent como una solución sostenible y escalable.  
+Confianza en la solución: Suponemos que la integración de funciones de monitoreo, trazabilidad y conservación generará mayor confianza, diferenciando a Storigent de otras herramientas fragmentadas del mercado.
+
+User Assumptions
+
+Los usuarios necesitan una solución unificada que centralice la gestión de inventarios, el control de conservación y la trazabilidad logística.
+
+Valoran la posibilidad de acceder a la plataforma desde diferentes dispositivos, priorizando la usabilidad y la disponibilidad en tiempo real.
+
+Están dispuestos a invertir en una herramienta que les permita reducir pérdidas y aumentar la eficiencia de sus operaciones.
+
+Buscan funciones claras, personalizables y acordes a las características de sus productos.
+
+Consideran fundamental la seguridad, transparencia y fiabilidad en el manejo de sus datos operativos.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+Creemos que los emprendedores y empresas podrán mejorar la eficiencia y el control de sus operaciones si utilizan una plataforma digital integral que centralice la gestión de inventarios, la conservación de productos y la trazabilidad del transporte.
+
+Creemos que si proporcionamos una herramienta accesible, intuitiva y adaptable, los usuarios estarán más dispuestos a sustituir los métodos manuales y las soluciones fragmentadas por Storigent.
+
+Creemos que al ofrecer información precisa y actualizada en tiempo real, los usuarios lograrán una toma de decisiones más ágil, una reducción de errores y un control más eficiente del flujo de productos.
+
+Creemos que si garantizamos altos estándares de seguridad y transparencia en el manejo de los datos, los usuarios desarrollarán confianza en Storigent e incorporarán la plataforma de forma sostenida en sus operaciones.
+
+Creemos que al demostrar resultados medibles en la disminución de costos logísticos y pérdidas operativas, los usuarios percibirán a Storigent como una inversión rentable y una herramienta sostenible a largo plazo. 
 
 ---
 
