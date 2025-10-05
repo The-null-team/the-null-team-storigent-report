@@ -427,6 +427,24 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 ### 4.6.4. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+En esta sección el equipo presenta y explica el Class Diagram de UML para cada producto de software y, cuando es aplicable, para cada *bounded context*.  
+El nivel de detalle incluye, además de las clases, interfaces, enumeraciones y sus relaciones, los miembros de cada clase (atributos, métodos y su visibilidad: `private`, `public`, `protected`).  
+Las relaciones muestran la calificación con nombres, la dirección (cuando aplica) y la multiplicidad.  
+
+### Diagrama de Clases - Bounded Contexts Principales
+![Class Diagram 1](static/img/chapter%204/img-class-diagram.png)
+
+- Este diagrama representa los seis bounded contexts principales, considerados los más pesados e importantes del sistema.  
+Se detallan las clases fundamentales que forman la base del dominio, con sus atributos, métodos y relaciones claves.  
+Este modelo constituye la estructura central sobre la cual se desarrollan las funcionalidades críticas del producto.*
+
+### Diagrama de Clases - Bounded Contexts Secundarios
+![Class Diagram 2](static/img/chapter%204/img-class-diagram-2.png)
+
+- En este segundo diagrama se presentan los bounded contexts secundarios, aquellos de menor peso dentro del dominio.  
+Incluye clases de soporte y contextos complementarios, los cuales, aunque no son tan relevantes como los principales, permiten completar la visión global del sistema y asegurar la cohesión entre los distintos módulos.*
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
