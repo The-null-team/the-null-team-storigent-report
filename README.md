@@ -420,77 +420,87 @@ El objetivo de Storigent es brindar a las empresas una solución integral y fác
 |     |     |     |     |     |   
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-Para identificar las principales dificultades en la gestión y conservación de productos almacenados, es necesario analizar los principales desafíos con respecto a la pérdida de recursos, la falta de control y/o irregularidades que pueden presentar sistemas modernos que logran afectar la calidad y disponibilidad de los productos.
+Para identificar las principales dificultades en la gestión y conservación de productos almacenados, es necesario analizar los retos relacionados con la pérdida de recursos, la falta de control y las irregularidades que presentan sistemas actuales, los cuales afectan directamente la calidad y disponibilidad de los productos.
 
 #Análisis de Antecedentes y Problemática (5W + 2H)
 
-#Who (Quiénes):
-Personas, instituciones o entidades que que necesitan gestionar y almacenar de manera adecuada sus productos, los cuales pueden tener diferente naturaleza (alimentos, artículos de consumo, materiales, insumos, etc.) y cada uno con su respectiva medida de conservación.
+#### ¿Qué? (What)
 
-#What (Qué):
-La dificultad de contar con un control eficiente del inventario y con una conservación adecuada que evite el deterioro, la caducidad o la pérdida de productos afectando su negocio de manera significativa.
+La problemática central se encuentra en la ausencia de una solución integral que aborde de manera simultánea la gestión y la conservación de inventarios. En la mayoría de empresas y emprendimientos, los procesos actuales se desarrollan de manera manual o mediante sistemas poco integrados que no garantizan un control en tiempo real. Esta situación provoca limitaciones significativas en áreas críticas como la trazabilidad durante el transporte, el adecuado almacenamiento de productos y la implementación de protocolos de conservación. Como consecuencia, se generan pérdidas económicas, ineficiencias operativas y dificultades en la toma de decisiones estratégicas.
 
-#Where (Dónde):
-En cualquier lugar de negocio que cuente con un almacenamiento de productos y manejo un inventario, ya sea desde pequeños depósitos, almacenes domésticos o comunitarios, hasta grandes empresas de mayor gestión.
+#### ¿Cuándo? (When)
 
-#When (Cuándo):
-El problema surge de forma constante durante la gestión cotidiana del almacenamiento, pero se intensifica en momentos de alta rotación, acumulación de stock o falta de monitoreo en tiempo real al realizar operaciones de inventarios.
+El problema se manifiesta de manera más evidente durante los momentos clave del ciclo logístico. En el almacenamiento, la falta de un monitoreo adecuado impide garantizar la conservación óptima de productos, especialmente aquellos que son sensibles a condiciones ambientales. De igual modo, en la etapa de transporte, la ausencia de trazabilidad confiable limita el control sobre el desplazamiento y las condiciones en que viajan los productos. En ambos casos, la deficiencia en el seguimiento ocasiona deterioro, quiebres de stock, incumplimiento de plazos de entrega y, en consecuencia, sobrecostos que afectan la sostenibilidad de la operación.
 
-#Why (Por qué):
+#### ¿Dónde? (Where)
 
--Procesos de control manual poco fiables.
+Esta problemática se concentra principalmente en los almacenes, centros de distribución y procesos de transporte, que constituyen los puntos neurálgicos de la cadena logística. En los almacenes, la falta de herramientas adecuadas impide un control preciso de los niveles de inventario, lo que puede derivar en excesos o desabastecimientos. En los procesos de distribución y transporte, la ausencia de trazabilidad incrementa el riesgo de pérdidas, daños o retrasos. Cabe destacar que este problema no se limita a organizaciones de gran escala, sino que afecta también a pequeñas y medianas empresas, en especial aquellas que operan en contextos urbanos donde la demanda es variable y las cadenas logísticas resultan más complejas.
 
--Falta de seguimiento a las condiciones ambientales de conservación.
+#### ¿Quiénes? (Who)
 
--Ausencia o ineficiencia de trazabilidad en los productos.
+Los actores involucrados en esta situación son principalmente dos. Por un lado, las empresas, que requieren soluciones escalables y robustas capaces de optimizar recursos, reducir costos y minimizar pérdidas asociadas a la gestión de inventarios. Por otro lado, los emprendedores, quienes enfrentan la necesidad de contar con herramientas accesibles y fáciles de implementar que les permitan organizar y supervisar sus inventarios sin necesidad de realizar grandes inversiones iniciales. Ambos segmentos comparten el interés de contar con una plataforma eficiente que asegure el control y la conservación de sus productos.
 
--Limitada información en tiempo real para tomar decisiones.
+#### ¿Por qué? (Why)
 
-#How (Cómo):
-Esto ocasiona pérdidas por caducidad, desperdicio de recursos, desorganización del espacio y mayores dificultades para dar seguimiento al flujo de productos.
+Las causas del problema responden, en primer lugar, a la persistencia del uso de métodos manuales de registro y control, que suelen generar errores humanos y demoras en la gestión. En segundo lugar, la inexistencia de sistemas integrados para la trazabilidad y la conservación impide que los datos estén centralizados y disponibles en tiempo real. Asimismo, la falta de aplicación de guías de conservación durante el almacenamiento y transporte repercute en la calidad de los productos. Finalmente, los sistemas tradicionales, que en muchos casos son costosos y poco adaptables, no ofrecen la escalabilidad que las organizaciones modernas requieren frente al crecimiento de sus operaciones.
 
-#How Much (Cuánto):
+#### ¿Cómo? (How)
 
-Se estima que entre un 5% y 15% de los productos almacenados pueden perderse por deterioro o caducidad sin una gestión adecuada. Esto genera impacto económico, social y ambiental, pues aumenta el desperdicio y reduce la eficiencia en el uso de recursos. 
+La solución propuesta se presenta en la forma de Storigent, una plataforma digital orientada a la gestión integral de inventarios. Esta herramienta centraliza los procesos en un sistema único que permite monitorear los niveles de inventario en tiempo real, aplicar protocolos de conservación en todas las etapas del ciclo logístico y garantizar la trazabilidad de los productos desde el almacenamiento hasta el transporte. Su diseño accesible y escalable ofrece ventajas significativas frente a la dispersión de datos que caracteriza a los métodos actuales, al tiempo que contribuye a la optimización de costos y a la mejora de la eficiencia operativa.
+
+#### ¿Cuánto? (How Much)
+
+La ineficiencia en la gestión de inventarios representa un costo considerable para las organizaciones, ya sea por pérdidas asociadas al deterioro de productos, por excesos de stock que inmovilizan capital o por quiebres de inventario que afectan la satisfacción del cliente. La implementación de Storigent supone una inversión estimada de S/ 140,000, con un potencial de reducción de hasta un 30% en los costos logísticos. Esto la convierte en una propuesta no solo viable, sino también rentable, dado que su retorno de inversión puede alcanzarse en un horizonte de corto plazo, fortaleciendo la sostenibilidad de las operaciones.
 
 
 ### 1.2.2 Lean UX Process  
 #### 1.2.2.1. Lean UX Problem Statements  
 
-En un escenario donde la administración de inventarios y la trazabilidad logística son determinantes para la competitividad, se identifica la necesidad de contar con una plataforma digital que permita controlar, conservar y transportar productos de manera eficiente. Esta solución debe ofrecer a empresas y emprendedores una experiencia práctica, confiable y adaptable a sus operaciones.  
+En la actualidad, la gestión de inventarios y la trazabilidad logística representan elementos esenciales para la competitividad de cualquier organización. Sin embargo, muchas empresas y emprendedores aún carecen de una herramienta tecnológica que les permita administrar, conservar y transportar sus productos de manera eficiente y coordinada. Esta carencia genera dificultades en el control en tiempo real, provoca pérdidas por deterioro o desabastecimiento, y limita la capacidad de tomar decisiones informadas basadas en datos precisos.
 
-Como equipo, asumimos el compromiso de abordar este reto en conjunto con los usuarios que requieren optimizar la gestión de inventarios y con las organizaciones interesadas en mejorar su trazabilidad y reducir pérdidas. Nuestro enfoque estará en comprender a fondo sus necesidades y expectativas para diseñar y desarrollar una solución innovadora que responda integralmente a sus requerimientos.  
+Ante esta situación, nuestro equipo asume el desafío de desarrollar una plataforma digital integral que atienda estas necesidades, ofreciendo una experiencia accesible, confiable y adaptable a diferentes contextos operativos. El propósito es colaborar estrechamente con los usuarios para comprender sus procesos, identificar puntos críticos y diseñar una solución innovadora que optimice la gestión de inventarios, fortalezca la trazabilidad y contribuya a la sostenibilidad de las operaciones logísticas.  
 
 ---
 
 #### 1.2.2.2. Lean UX Assumptions  
 
-**Business Assumptions**  
+Business Assumptions
 
-1. **Demanda de mercado**: Suponemos que emprendedores y empresas de distintos tamaños enfrentan dificultades frecuentes en la gestión de inventarios y necesitan herramientas tecnológicas que les ayuden a disminuir errores, optimizar procesos y mejorar la trazabilidad.  
-2. **Disposición al uso**: Suponemos que los usuarios estarán abiertos a dejar los métodos manuales (como hojas de cálculo o registros físicos) para adoptar una solución digital siempre que sea intuitiva, accesible y fácil de usar.  
-3. **Impacto económico positivo**: Suponemos que Storigent reducirá costos operativos al minimizar pérdidas por exceso de stock, deterioro de productos y problemas en transporte, lo que facilitará la recuperación de la inversión.  
-4. **Accesibilidad tecnológica**: Suponemos que la mayoría de usuarios tiene acceso a internet y dispositivos móviles o computadoras, lo que permitirá implementar Storigent sin limitaciones de infraestructura.  
-5. **Escalabilidad**: Suponemos que la plataforma podrá crecer con el negocio, desde un pequeño inventario inicial hasta operaciones de mayor volumen y complejidad.  
-6. **Confianza y adopción**: Suponemos que al integrar gestión de inventarios, guías de conservación y trazabilidad, Storigent se diferenciará de soluciones parciales, logrando confianza y lealtad de los usuarios.  
+Demanda del mercado: Suponemos que tanto pequeñas como grandes organizaciones enfrentan deficiencias en la gestión de inventarios y requieren soluciones tecnológicas que integren control, trazabilidad y conservación para mejorar su desempeño operativo.
 
-**User Assumptions**  
+Adopción tecnológica: Suponemos que los usuarios estarán dispuestos a abandonar los métodos manuales o dispersos si la herramienta propuesta es intuitiva, fácil de implementar y no requiere altos conocimientos técnicos.
 
-- Los usuarios buscan una solución integral que combine inventarios, conservación y trazabilidad.  
-- Valoran la accesibilidad y la conveniencia de usar la plataforma desde cualquier lugar y dispositivo.  
-- Están dispuestos a invertir en una herramienta confiable que reduzca errores y aumente la eficiencia.  
-- Esperan que las guías de conservación sean simples y aplicables a sus negocios.  
-- Dan importancia a la seguridad y transparencia en la gestión de datos y operaciones.  
+Rentabilidad del sistema: Suponemos que la implementación de Storigent reducirá significativamente los costos derivados del deterioro de productos, errores en el registro y falta de seguimiento, generando un retorno de inversión atractivo.
 
----
+Disponibilidad tecnológica: Suponemos que los usuarios disponen de acceso estable a internet y de dispositivos móviles o computadoras, lo que permite el uso eficiente de la plataforma en distintos contextos empresariales.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements  
+Capacidad de crecimiento: Suponemos que Storigent será capaz de escalar junto con las necesidades del usuario, acompañando el crecimiento de sus operaciones sin afectar el rendimiento del sistema.
 
-- Creemos que emprendedores y empresas requieren una solución integral que permita gestionar inventarios, conservar productos y asegurar la trazabilidad en transporte.  
-- Creemos que si ofrecemos una plataforma accesible y sencilla, los usuarios la preferirán frente a métodos manuales o herramientas aisladas.  
-- Creemos que al brindar datos claros y en tiempo real, los usuarios podrán reducir errores, mejorar la eficiencia y disminuir pérdidas por deterioro o exceso de stock.  
-- Creemos que si garantizamos seguridad y transparencia en la información, los usuarios confiarán en Storigent e integrarán la plataforma a sus operaciones.  
-- Creemos que al evidenciar un impacto positivo en la reducción de costos y riesgos, los usuarios estarán dispuestos a invertir en Storigent como una solución sostenible y escalable.  
+Confianza en la solución: Suponemos que la integración de funciones de monitoreo, trazabilidad y conservación generará mayor confianza, diferenciando a Storigent de otras herramientas fragmentadas del mercado.
+
+User Assumptions
+
+Los usuarios necesitan una solución unificada que centralice la gestión de inventarios, el control de conservación y la trazabilidad logística.
+
+Valoran la posibilidad de acceder a la plataforma desde diferentes dispositivos, priorizando la usabilidad y la disponibilidad en tiempo real.
+
+Están dispuestos a invertir en una herramienta que les permita reducir pérdidas y aumentar la eficiencia de sus operaciones.
+
+Buscan funciones claras, personalizables y acordes a las características de sus productos.
+
+Consideran fundamental la seguridad, transparencia y fiabilidad en el manejo de sus datos operativos.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+Creemos que los emprendedores y empresas podrán mejorar la eficiencia y el control de sus operaciones si utilizan una plataforma digital integral que centralice la gestión de inventarios, la conservación de productos y la trazabilidad del transporte.
+
+Creemos que si proporcionamos una herramienta accesible, intuitiva y adaptable, los usuarios estarán más dispuestos a sustituir los métodos manuales y las soluciones fragmentadas por Storigent.
+
+Creemos que al ofrecer información precisa y actualizada en tiempo real, los usuarios lograrán una toma de decisiones más ágil, una reducción de errores y un control más eficiente del flujo de productos.
+
+Creemos que si garantizamos altos estándares de seguridad y transparencia en el manejo de los datos, los usuarios desarrollarán confianza en Storigent e incorporarán la plataforma de forma sostenida en sus operaciones.
+
+Creemos que al demostrar resultados medibles en la disminución de costos logísticos y pérdidas operativas, los usuarios percibirán a Storigent como una inversión rentable y una herramienta sostenible a largo plazo. 
 
 ---
 
@@ -498,15 +508,15 @@ Como equipo, asumimos el compromiso de abordar este reto en conjunto con los usu
 
 | **1. Business problem** | **5. Solutions** | **2. Business outcomes** |
 |--------------------------|------------------|---------------------------|
-| En el Perú, muchas empresas y emprendedores sufren pérdidas económicas debido a una gestión ineficiente de inventarios, falta de trazabilidad en transporte y ausencia de guías de conservación. Esto ocasiona errores, mermas, sobrecostos logísticos y desorden operativo, afectando su competitividad y sostenibilidad. | <br><br>• Sistema inteligente de registro y control de inventarios.<br>• Guías de conservación y recomendaciones por tipo de producto.<br>• Reportes automáticos de pérdidas, rotación y alertas de stock.<br>• Interfaz amigable accesible desde la web.<br>• Gestión de usuarios, roles y permisos para empresas. | • Optimizar la gestión de inventarios y reducir pérdidas.<br>• Mejorar la trazabilidad de productos durante el transporte.<br>• Ofrecer una plataforma adaptable tanto a pequeños como a grandes negocios. |
+| En el Perú, muchas empresas y emprendedores enfrentan pérdidas económicas debido a una gestión ineficiente de inventarios, falta de trazabilidad durante el transporte y ausencia de prácticas adecuadas de conservación. Estas deficiencias generan errores, mermas, sobrecostos logísticos y desorden operativo, afectando directamente su competitividad y sostenibilidad. | <br><br>• Plataforma digital integral para el registro, control y monitoreo de inventarios.<br>• Módulo de guías de conservación automatizadas según el tipo de producto.<br>• Panel de reportes con métricas de pérdidas, rotación, niveles de stock y alertas en tiempo real.<br>• Interfaz web adaptable e intuitiva accesible desde cualquier dispositivo.<br>• Sistema de gestión de usuarios, roles y permisos para equipos empresariales. | • Reducir pérdidas económicas y errores operativos asociados a una mala gestión de inventarios.<br>• Mejorar la trazabilidad de los productos en toda la cadena logística.<br>• Aumentar la eficiencia y sostenibilidad mediante una plataforma escalable y confiable. |
 
 | **3. Users** |   | **4. User outcomes and benefits** |
 |--------------|---|-----------------------------------|
-| • Empresas pequeñas y grandes: buscan reducir costos, mejorar control operativo y asegurar trazabilidad en toda la cadena.<br><br>• Emprendedores: requieren una solución práctica, económica y sencilla para gestionar inventarios desde el inicio y crecer ordenadamente. |   | • Minimizar errores en inventarios.<br>• Reducir pérdidas por conservación inadecuada.<br>• Obtener trazabilidad en tiempo real.<br>• Aumentar eficiencia con una herramienta intuitiva.<br>• Escalar el negocio con una solución flexible. |
+| • **Empresas pequeñas, medianas y grandes:** buscan optimizar costos, mejorar el control operativo y asegurar la trazabilidad en todas las etapas de la cadena.<br><br>• **Emprendedores:** requieren una solución accesible, sencilla y adaptable que les permita organizar su inventario desde el inicio y acompañe su crecimiento. |   | • Disminuir errores de registro y pérdidas por mala conservación.<br>• Contar con trazabilidad y monitoreo en tiempo real.<br>• Simplificar tareas mediante una interfaz clara y adaptable.<br>• Incrementar la eficiencia operativa y la toma de decisiones con datos precisos.<br>• Escalar su negocio utilizando una herramienta tecnológica flexible y confiable. |
 
 | **6. Hypothesis** | **7. ¿Qué es lo más importante que debemos aprender primero?** | **8. ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?** |
 |-------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| • Creemos que los usuarios adoptarán una app integral de inventarios si esta reduce errores y pérdidas económicas.<br>• Sabremos que hemos tenido éxito si al menos el 60% de usuarios reporta una reducción en pérdidas en los primeros 3 meses.<br>• Creemos que las guías de conservación representan un valor clave.<br>• Sabremos que hemos tenido éxito si al menos el 50% de usuarios las utiliza con frecuencia. | • Si las empresas están dispuestas a digitalizar sus procesos.<br>• Qué interés real existe en la trazabilidad en distintos sectores.<br>• Si las guías de conservación resultan útiles y aplicables.<br>• Qué barreras de adopción tecnológica enfrentan los usuarios. | • Crear un landing page con la propuesta de valor.<br>• Realizar entrevistas a emprendedores y empresas.<br>• Desarrollar un video demostrativo que muestre beneficios y casos de uso. |  
+| • Creemos que los emprendedores y empresas adoptarán una plataforma integral de gestión de inventarios si esta les permite reducir pérdidas y aumentar el control operativo.<br>• Sabremos que hemos tenido éxito si al menos el 60% de los usuarios reporta una mejora en la eficiencia y una reducción del 25% en pérdidas dentro de los tres primeros meses de uso.<br>• Creemos que las guías de conservación y el monitoreo de condiciones aportan valor directo al usuario.<br>• Sabremos que hemos tenido éxito si al menos el 50% de los usuarios activos utiliza estas funciones de manera constante. | • Determinar si las empresas y emprendedores están dispuestos a digitalizar la gestión de inventarios y trazabilidad.<br>• Identificar qué tan relevantes y aplicables resultan las guías de conservación en diferentes sectores.<br>• Conocer las principales barreras de adopción tecnológica (costos, capacitación, confianza en datos).<br>• Validar el interés real en herramientas que integren inventario, conservación y transporte. | • Crear una **landing page** con la propuesta de valor y formulario de interés.<br>• Realizar entrevistas y encuestas a empresas y emprendedores para identificar puntos críticos.<br>• Desarrollar un prototipo funcional o video demostrativo que muestre los beneficios clave de Storigent y recopile feedback temprano. |
 
 ---
 
