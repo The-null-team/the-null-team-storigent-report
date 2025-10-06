@@ -416,6 +416,35 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+Se presentan los wireframes de la aplicación web de Storigent, diseñados para optimizar la experiencia del usuario en la gestión de inventarios y trazabilidad. Los wireframes muestran la estructura básica de las diferentes secciones de la aplicación, incluyendo el reports menu, inventory, monitoring, shipment, product y support.
+
+## Login y Register
+
+<img src="static/img/chapter 4/img-wireframe-login.png"></img>
+<img src="static/img/chapter 4/img-wireframe-register.png"></img>
+## Reports
+
+<img src="static/img/chapter 4/img-wireframe-reports.png"></img>
+<img src="static/img/chapter 4/img-wireframe-reports2.png"></img>
+## Inventory
+
+<img src="static/img/chapter 4/img-wireframe-inventory.png"></img>
+<img src="static/img/chapter 4/img-wireframe-inventory2.png"></img>
+## Monitoring
+
+<img src="static/img/chapter 4/img-wireframe-monitoring.png"></img>
+## Product
+
+<img src="static/img/chapter 4/img-wireframe-product.png"></img>
+
+## Shipment
+
+<img src="static/img/chapter 4/img-wireframe-shipment.png"></img>
+
+## Support
+
+<img src="static/img/chapter 4/img-wireframe-support.png"></img>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
