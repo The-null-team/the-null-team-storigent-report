@@ -446,8 +446,40 @@ Se presentan los wireframes de la aplicación web de Storigent, diseñados para 
 <img src="static/img/chapter 4/img-wireframe-support.png"></img>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+
+<img src="static/img/chapter 4/wireflow.png"></img>
+
 ### 4.4.2. Web Applications Mock-ups
+
+Se presentan los mock-ups de la aplicación web de Storigent, que reflejan el diseño visual final basado en las directrices de estilo establecidas. Los mock-ups incluyen detalles como tipografía, colores, imágenes y botones, proporcionando una vista previa realista de cómo se verá la aplicación en producción.
+
+## Login y Register
+<img src="static/img/chapter 4/img-wireframe-login.png"></img>
+
+<img src="static/img/chapter 4/img-register.png"></img>
+## Reports
+<img src="static/img/chapter 4/img-reports.png"></img>
+
+<img src="static/img/chapter 4/img-reports2.png"></img>
+## Inventory
+<img src="static/img/chapter 4/img-inventory1.png"></img>
+
+<img src="static/img/chapter 4/img-inventory2.png"></img>
+## Monitoring
+<img src="static/img/chapter 4/img-monitoring.png"></img>
+## Product
+<img src="static/img/chapter 4/img-product.png"></img>
+## Shipment
+<img src="static/img/chapter 4/img-shipment.png"></img>
+## Support
+<img src="static/img/chapter 4/img-support.png"></img>
+
+
 ### 4.4.3. Web Applications User Flow Diagrams
+
+<img src="static/img/chapter 4/web app user flow.png"></img>
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
