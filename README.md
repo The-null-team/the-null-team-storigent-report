@@ -455,7 +455,7 @@ Se presentan los wireframes de la aplicación web de Storigent, diseñados para 
 Se presentan los mock-ups de la aplicación web de Storigent, que reflejan el diseño visual final basado en las directrices de estilo establecidas. Los mock-ups incluyen detalles como tipografía, colores, imágenes y botones, proporcionando una vista previa realista de cómo se verá la aplicación en producción.
 
 ## Login y Register
-<img src="static/img/chapter 4/img-wireframe-login.png"></img>
+<img src="static/img/chapter 4/img-login.png"></img>
 
 <img src="static/img/chapter 4/img-register.png"></img>
 ## Reports
