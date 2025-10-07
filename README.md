@@ -2006,9 +2006,70 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+Se presentan los wireframes de la aplicación web de Storigent, diseñados para optimizar la experiencia del usuario en la gestión de inventarios y trazabilidad. Los wireframes muestran la estructura básica de las diferentes secciones de la aplicación, incluyendo el reports menu, inventory, monitoring, shipment, product y support.
+
+## Login y Register
+
+<img src="static/img/chapter 4/img-wireframe-login.png"></img>
+<img src="static/img/chapter 4/img-wireframe-register.png"></img>
+## Reports
+
+<img src="static/img/chapter 4/img-wireframe-reports.png"></img>
+<img src="static/img/chapter 4/img-wireframe-reports2.png"></img>
+## Inventory
+
+<img src="static/img/chapter 4/img-wireframe-inventory.png"></img>
+<img src="static/img/chapter 4/img-wireframe-inventory2.png"></img>
+## Monitoring
+
+<img src="static/img/chapter 4/img-wireframe-monitoring.png"></img>
+## Product
+
+<img src="static/img/chapter 4/img-wireframe-product.png"></img>
+
+## Shipment
+
+<img src="static/img/chapter 4/img-wireframe-shipment.png"></img>
+
+## Support
+
+<img src="static/img/chapter 4/img-wireframe-support.png"></img>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+
+<img src="static/img/chapter 4/wireflow.png"></img>
+
 ### 4.4.2. Web Applications Mock-ups
+
+Se presentan los mock-ups de la aplicación web de Storigent, que reflejan el diseño visual final basado en las directrices de estilo establecidas. Los mock-ups incluyen detalles como tipografía, colores, imágenes y botones, proporcionando una vista previa realista de cómo se verá la aplicación en producción.
+
+## Login y Register
+<img src="static/img/chapter 4/img-login.png"></img>
+
+<img src="static/img/chapter 4/img-register.png"></img>
+## Reports
+<img src="static/img/chapter 4/img-reports.png"></img>
+
+<img src="static/img/chapter 4/img-reports2.png"></img>
+## Inventory
+<img src="static/img/chapter 4/img-inventory1.png"></img>
+
+<img src="static/img/chapter 4/img-inventory2.png"></img>
+## Monitoring
+<img src="static/img/chapter 4/img-monitoring.png"></img>
+## Product
+<img src="static/img/chapter 4/img-product.png"></img>
+## Shipment
+<img src="static/img/chapter 4/img-shipment.png"></img>
+## Support
+<img src="static/img/chapter 4/img-support.png"></img>
+
+
 ### 4.4.3. Web Applications User Flow Diagrams
+
+<img src="static/img/chapter 4/web app user flow.png"></img>
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
@@ -2033,6 +2094,24 @@ El Design Level Event Storming (DLES) se ejecutó para pasar del entendimiento g
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+En esta sección el equipo presenta y explica el Class Diagram de UML para cada producto de software y, cuando es aplicable, para cada *bounded context*.  
+El nivel de detalle incluye, además de las clases, interfaces, enumeraciones y sus relaciones, los miembros de cada clase (atributos, métodos y su visibilidad: `private`, `public`, `protected`).  
+Las relaciones muestran la calificación con nombres, la dirección (cuando aplica) y la multiplicidad.  
+
+### Diagrama de Clases - Bounded Contexts Principales
+![Class Diagram 1](static/img/chapter%204/img-class-diagram.png)
+
+- Este diagrama representa los seis bounded contexts principales, considerados los más pesados e importantes del sistema.  
+Se detallan las clases fundamentales que forman la base del dominio, con sus atributos, métodos y relaciones claves.  
+Este modelo constituye la estructura central sobre la cual se desarrollan las funcionalidades críticas del producto.*
+
+### Diagrama de Clases - Bounded Contexts Secundarios
+![Class Diagram 2](static/img/chapter%204/img-class-diagram-2.png)
+
+- En este segundo diagrama se presentan los bounded contexts secundarios, aquellos de menor peso dentro del dominio.  
+Incluye clases de soporte y contextos complementarios, los cuales, aunque no son tan relevantes como los principales, permiten completar la visión global del sistema y asegurar la cohesión entre los distintos módulos.*
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
