@@ -2134,6 +2134,28 @@ Estas convenciones se emplearon en los entornos utilizados durante el proceso de
 **4. Versionado y Commits Semánticos:** Crearemos ramas como ```feat/choose-your-plan-view``` y ```fix/contact-form```; y redactaremos commits como ```feat: add validation in register button``` y ```fix: unexpected behavior of calculate function```.   
 
 ### 5.1.4. Software Deployment Configuration
+
+#### Landing Page Deployment
+
+Para poder realizar el despliegue de la landing page utilizando GitHub Pages, debemos seguir los siguientes pasos.
+
+**Paso 1**: En el repositorio de la landing page, ingresamos a las pestaña de "Settings" al dar clic sobre el botón con el mismo nombre ubicado en la barra de menú de la página.
+
+![landing-page-deployment-config-1.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-1.png)
+
+**Paso 2**: Una vez dentro, buscamos entre las diferentes opciones, la que se llama "Pages".
+
+![landing-page-deployment-config-2.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-2.png)
+
+**Paso 3**: Dentro de la "Pages", buscamos la sección de "Build and Deployment". En "Source", nos aseguramos de elegir la opción "Deploy from a branch" y en "Branch", seleccionamos la rama principal del proyecto. Finalmente le daremos clic a "Save".
+
+![landing-page-deployment-config-3.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-3.png)
+
+**Paso 4**: Después de este proceso, esperaremos unos minutos a que GitHub despliegue la landing page y volvemos a la página principal del repositorio. Allí mismo podremos encontrar una nueva sección, llamada "Deployments", en el lado derecho de la página. Al dar clic allí se nos proporcionará el link hacia la página web desplegada.
+
+![landing-page-deployment-config-4.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-4.png)
+![landing-page-deployment-config-5.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-5.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
