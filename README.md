@@ -446,6 +446,566 @@ Este modelo constituye la estructura central sobre la cual se desarrollan las fu
 Incluye clases de soporte y contextos complementarios, los cuales, aunque no son tan relevantes como los principales, permiten completar la visión global del sistema y asegurar la cohesión entre los distintos módulos.*
 
 ### 4.7.2. Class Dictionary
+## 1. Stock Management (Gestión de Inventario)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>WarehouseManager</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del gestor de almacén.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del gestor de almacén.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="4"><b>ProductStock</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del stock de producto.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>productName</td>
+            <td><code>String</code></td>
+            <td>Nombre del producto.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>quantity</td>
+            <td><code>int</code></td>
+            <td>Cantidad actual del producto en stock.</td>
+            <td>NOT NULL, &ge; 0</td>
+        </tr>
+        <tr>
+            <td>threshold</td>
+            <td><code>int</code></td>
+            <td>Nivel mínimo de stock permitido (umbral).</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>StockThresholdPolicy</b></td>
+            <td>minQuantity</td>
+            <td><code>int</code></td>
+            <td>Cantidad mínima definida por la política.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 2. Subscriptions and Payment Management (Gestión de Suscripciones y Pagos)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3"><b>Customer</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del cliente.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del cliente.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>email</td>
+            <td><code>String</code></td>
+            <td>Correo electrónico del cliente.</td>
+            <td>UNIQUE, NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="4"><b>SubscriptionPlan</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del plan.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del plan de suscripción.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>price</td>
+            <td><code>double</code></td>
+            <td>Precio del plan.</td>
+            <td>NOT NULL, &gt; 0</td>
+        </tr>
+        <tr>
+            <td>durationMonths</td>
+            <td><code>int</code></td>
+            <td>Duración del plan en meses.</td>
+            <td>NOT NULL, &gt; 0</td>
+        </tr>
+        <tr>
+            <td rowspan="3"><b>Payment</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del pago.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>amount</td>
+            <td><code>double</code></td>
+            <td>Monto pagado.</td>
+            <td>NOT NULL, &gt; 0</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td><code>Date</code></td>
+            <td>Fecha y hora en que se realizó el pago.</td>
+            <td>DEFAULT CURRENT\_TIMESTAMP</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 3. Dashboard and Analytics (Panel de Control y Analítica)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>Dashboard</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del panel.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>title</td>
+            <td><code>String</code></td>
+            <td>Título del panel o vista.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Report</b> (Abstracta)</td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del reporte.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td><code>Date</code></td>
+            <td>Fecha de generación del reporte.</td>
+            <td>DEFAULT CURRENT\_DATE</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 4. Sensor Data Ingestion (Ingesta de Datos de Sensores)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>IoTSystem</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del sistema IoT.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del sistema o unidad IoT.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Sensor</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del sensor.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td><code>String</code></td>
+            <td>Tipo de sensor (e.g., temperatura, humedad).</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>RawDataBuffer</b></td>
+            <td>data</td>
+            <td><code>String</code></td>
+            <td>Datos brutos capturados por el sensor.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 5. Quality & Conservation Check (Verificación de Calidad y Conservación)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>EnvironmentalCondition</b></td>
+            <td>temperature</td>
+            <td><code>double</code></td>
+            <td>Nivel de temperatura.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>humidity</td>
+            <td><code>double</code></td>
+            <td>Nivel de humedad.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>AnalyzeConditionPolicy</b></td>
+            <td>strategy</td>
+            <td><code>ConditionPolicy</code></td>
+            <td>La política específica de análisis que se va a aplicar.</td>
+            <td>NOT NULL (Referencia a Strategy)</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 6. Shipment Planning & Tracking (Planificación y Seguimiento de Envíos)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>Shipment</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del envío/transferencia.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>status</td>
+            <td><code>String</code></td>
+            <td>Estado actual del envío.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Tracking</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del registro de seguimiento.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>location</td>
+            <td><code>String</code></td>
+            <td>Ubicación actual registrada.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 7. Identity and Access Management (Gestión de Identidad y Acceso)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>AdminUser</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del usuario administrador.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del administrador.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="3"><b>UserAccount</b></td>
+            <td>userId</td>
+            <td><code>int</code></td>
+            <td>Identificador de la cuenta de usuario.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>username</td>
+            <td><code>String</code></td>
+            <td>Nombre de usuario para inicio de sesión.</td>
+            <td>UNIQUE, NOT NULL</td>
+        </tr>
+        <tr>
+            <td>passwordHash</td>
+            <td><code>String</code></td>
+            <td>Hash de la contraseña.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>Role</b></td>
+            <td>roleName</td>
+            <td><code>String</code></td>
+            <td>Nombre del rol de acceso.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 8. Profiles and Preferences Management (Gestión de Perfiles y Preferencias)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3"><b>User</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del usuario general.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre completo del usuario.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>email</td>
+            <td><code>String</code></td>
+            <td>Correo electrónico del usuario.</td>
+            <td>UNIQUE, NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>UserProfile</b></td>
+            <td>profileId</td>
+            <td><code>int</code></td>
+            <td>Identificador único del perfil.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>preferences</td>
+            <td><code>Preferences</code></td>
+            <td>Objeto que contiene las preferencias del usuario.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Preferences</b></td>
+            <td>notificationEnabled</td>
+            <td><code>boolean</code></td>
+            <td>Indica si las notificaciones están activadas.</td>
+            <td>DEFAULT true</td>
+        </tr>
+        <tr>
+            <td>thresholds</td>
+            <td><code>Map&lt;String,Double&gt;</code></td>
+            <td>Umbrales de alerta personalizados.</td>
+            <td>Opcional</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>CompanyPreferences</b></td>
+            <td>companyId</td>
+            <td><code>int</code></td>
+            <td>Identificador único de la empresa.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>settings</td>
+            <td><code>Map&lt;String,String&gt;</code></td>
+            <td>Configuración general de la empresa.</td>
+            <td>Opcional</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 9. Condition Analysis (Análisis de Condiciones)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3"><b>EnvironmentalCondition</b></td>
+            <td>temperature</td>
+            <td><code>double</code></td>
+            <td>Nivel de temperatura.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>humidity</td>
+            <td><code>double</code></td>
+            <td>Nivel de humedad.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>co2Level</td>
+            <td><code>double</code></td>
+            <td>Nivel de $\text{CO}_2$.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>AnalysisEngine</b></td>
+            <td>policy</td>
+            <td><code>ConditionPolicy</code></td>
+            <td>La política de condición a utilizar para el análisis.</td>
+            <td>NOT NULL (Referencia a Strategy)</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 10. Tracking Status (Estado de Seguimiento)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>GPSTrackingSystem</b></td>
+            <td>gpsId</td>
+            <td><code>int</code></td>
+            <td>Identificador único del sistema GPS.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td rowspan="3"><b>Coordinates</b></td>
+            <td>latitude</td>
+            <td><code>double</code></td>
+            <td>Latitud de la ubicación.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>longitude</td>
+            <td><code>double</code></td>
+            <td>Longitud de la ubicación.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>timestamp</td>
+            <td><code>Date</code></td>
+            <td>Marca de tiempo del registro.</td>
+            <td>DEFAULT CURRENT\_TIMESTAMP</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>TrackingMap</b></td>
+            <td>mapId</td>
+            <td><code>int</code></td>
+            <td>Identificador único del mapa de seguimiento.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>locations</td>
+            <td><code>List&lt;Coordinates&gt;</code></td>
+            <td>Lista de coordenadas a mostrar en el mapa.</td>
+            <td>Opcional</td>
+        </tr>
+        <tr>
+            <td rowspan="1"><b>TrackingHistory</b></td>
+            <td>history</td>
+            <td><code>List&lt;Coordinates&gt;</code></td>
+            <td>Lista histórica de coordenadas.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
