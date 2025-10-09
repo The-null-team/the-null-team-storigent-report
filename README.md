@@ -3159,9 +3159,9 @@ A continuación, se detalla la participación específica de cada integrante del
 **Evidencia de Colaboración en GitHub**   
 A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
 
-_Aquí una foto de las estadísticas de commits de cada integrante_
+![landing-page-collab-evidence.png](static/img/chapter%205/landing-page/collaboration/landing-page-collab-evidence.png)
 
-**Repositorio de Trabajo:** Link del repositorio
+**Repositorio de Trabajo:** [https://github.com/The-null-team/storigent-landing-page](https://github.com/The-null-team/storigent-landing-page)   
 
 Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
 
