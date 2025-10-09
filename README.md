@@ -410,87 +410,97 @@ Storigent es una startup tecnológica enfocada en optimizar la gestión de inven
 El objetivo de Storigent es brindar a las empresas una solución integral y fácil de usar que aumente la eficiencia gestion de productos, reduzca costos asociados a mermas y mejore la toma de decisiones estratégicas mediante reportes y análisis avanzados. Con una interfaz intuitiva y adaptable a distintos sectores como alimentos, farmacéutica, retail o manufactura. Storigent busca convertirse en un aliado clave para la digitalización de la logística interna, asegurando la calidad de los productos desde su recepción hasta su distribución.
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| Integrante | Foto     |  Perfil de estudiante    |
-|:------------|:----------:|-----------:|
-|   |  |   |
-|   |  |   |
-|   |  |   |
-|   |  |   |
-|   |  |   |
-
+| Foto                                                                            | Apellido y Nombre                    | Código     | Carrera                | Habilidades                                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------- | ------------------------------------ | ---------- | ---------------------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![rodrigo](/static/img/img-Rodrigo.jpeg)                                        | Zagaceta Bardales, Rodrigo Enrique     | U202215489 | Ingeniería de Software | Soy Rodrigo Zagaceta tengo conocimientos medios en diversos lenguajes de programación, me considero una persona responsable y con la intención de generar un buen entendimiento entre todos los miembros del equipo. |
+ | ![David](static/img/david.png "David Calixto Profile Image")                                                                           | Calixto Iriarte, David Alejandro    | U20201B441 | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software, tengo conocimientos en C++, basico en phyton y javascript, tambien manejo lenguaje SQL. Me considero una persona empatica y considerada con las demas personas, busco aprender sobre programacion porque pienso que es una herameienta que nos ayudara apuntando hacia el futuro.                                                                                       |
+| ![Jarod](/static/img/img-Jarod.jpeg "Jarod Cespedes Profile Image")                             | Cespedes Pillco, Jarod Jack           | U202318588 | Ingeniería de Software | Soy Jarod Cespedes y actualmente estoy cursando el quinto ciclo de la carrera Ingeniería de Software. Considero que soy atento, creativo y colaborador, siempre intentando apoyar a mi equipo en lo más que puedo. Además, tengo conocimientos en varios lenguajes de programación como C++, C#, Python y Java. | 
+|  ![Gabriel](static/img/img-Gabriel.png )                                         |   Espinar Martínez, Gabriel Ferran    |  U202310436    |   Ingeniería de Software   |  Soy Gabriel y actualmente soy  estudiante de la carrera de Ingeniería de Software, Me considero una persona trabajadora. Me interesa aprender constantemente en especial en áreas relacionadas a la tecnología y cuento con conocimientos en HTML, CSS, Javascript y SQL, lo cual puede servir en el desarrollo del proyecto.    |     
+|  ![David-M](static/img/img-David-Meza.png )                                    | Meza Tataje, David    | U202516291   | Ingeniería de Software    |  Soy David Meza estudiante de Ingeniería de Software, con conocimientos en C++, Java y C# a nivel intermedio, además de experiencia básica en el desarrollo de aplicaciones web con HTML, CSS, JavaScript y SQL. Me considero una persona colaboradora y responsable, siempre dispuesto a aprender y a trabajar en equipo para lograr los objetivos del proyecto.   |   
+|  ![Javier-T](static/img/Javier-foto.jpg )    |     Tello Murga, Javier Oswaldo     |   U202218387  |  Ingeniería de Software   |  Soy Javier Tello Murga, estudiante de Ingeniería de Software, con conocimientos en C++, Python y JavaScript a nivel básico, también en redes. Tengo experiencia en el desarrollo frontend. Por último, me considero una persona responsable, empática y capaz de ayudar a las personas en lo que sé.   |   
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-Para identificar las principales dificultades en la gestión y conservación de productos almacenados, es necesario analizar los principales desafíos con respecto a la pérdida de recursos, la falta de control y/o irregularidades que pueden presentar sistemas modernos que logran afectar la calidad y disponibilidad de los productos.
+Para identificar las principales dificultades en la gestión y conservación de productos almacenados, es necesario analizar los retos relacionados con la pérdida de recursos, la falta de control y las irregularidades que presentan sistemas actuales, los cuales afectan directamente la calidad y disponibilidad de los productos.
 
 #Análisis de Antecedentes y Problemática (5W + 2H)
 
-#Who (Quiénes):
-Personas, instituciones o entidades que que necesitan gestionar y almacenar de manera adecuada sus productos, los cuales pueden tener diferente naturaleza (alimentos, artículos de consumo, materiales, insumos, etc.) y cada uno con su respectiva medida de conservación.
+#### ¿Qué? (What)
 
-#What (Qué):
-La dificultad de contar con un control eficiente del inventario y con una conservación adecuada que evite el deterioro, la caducidad o la pérdida de productos afectando su negocio de manera significativa.
+La problemática central se encuentra en la ausencia de una solución integral que aborde de manera simultánea la gestión y la conservación de inventarios. En la mayoría de empresas y emprendimientos, los procesos actuales se desarrollan de manera manual o mediante sistemas poco integrados que no garantizan un control en tiempo real. Esta situación provoca limitaciones significativas en áreas críticas como la trazabilidad durante el transporte, el adecuado almacenamiento de productos y la implementación de protocolos de conservación. Como consecuencia, se generan pérdidas económicas, ineficiencias operativas y dificultades en la toma de decisiones estratégicas.
 
-#Where (Dónde):
-En cualquier lugar de negocio que cuente con un almacenamiento de productos y manejo un inventario, ya sea desde pequeños depósitos, almacenes domésticos o comunitarios, hasta grandes empresas de mayor gestión.
+#### ¿Cuándo? (When)
 
-#When (Cuándo):
-El problema surge de forma constante durante la gestión cotidiana del almacenamiento, pero se intensifica en momentos de alta rotación, acumulación de stock o falta de monitoreo en tiempo real al realizar operaciones de inventarios.
+El problema se manifiesta de manera más evidente durante los momentos clave del ciclo logístico. En el almacenamiento, la falta de un monitoreo adecuado impide garantizar la conservación óptima de productos, especialmente aquellos que son sensibles a condiciones ambientales. De igual modo, en la etapa de transporte, la ausencia de trazabilidad confiable limita el control sobre el desplazamiento y las condiciones en que viajan los productos. En ambos casos, la deficiencia en el seguimiento ocasiona deterioro, quiebres de stock, incumplimiento de plazos de entrega y, en consecuencia, sobrecostos que afectan la sostenibilidad de la operación.
 
-#Why (Por qué):
+#### ¿Dónde? (Where)
 
--Procesos de control manual poco fiables.
+Esta problemática se concentra principalmente en los almacenes, centros de distribución y procesos de transporte, que constituyen los puntos neurálgicos de la cadena logística. En los almacenes, la falta de herramientas adecuadas impide un control preciso de los niveles de inventario, lo que puede derivar en excesos o desabastecimientos. En los procesos de distribución y transporte, la ausencia de trazabilidad incrementa el riesgo de pérdidas, daños o retrasos. Cabe destacar que este problema no se limita a organizaciones de gran escala, sino que afecta también a pequeñas y medianas empresas, en especial aquellas que operan en contextos urbanos donde la demanda es variable y las cadenas logísticas resultan más complejas.
 
--Falta de seguimiento a las condiciones ambientales de conservación.
+#### ¿Quiénes? (Who)
 
--Ausencia o ineficiencia de trazabilidad en los productos.
+Los actores involucrados en esta situación son principalmente dos. Por un lado, las empresas, que requieren soluciones escalables y robustas capaces de optimizar recursos, reducir costos y minimizar pérdidas asociadas a la gestión de inventarios. Por otro lado, los emprendedores, quienes enfrentan la necesidad de contar con herramientas accesibles y fáciles de implementar que les permitan organizar y supervisar sus inventarios sin necesidad de realizar grandes inversiones iniciales. Ambos segmentos comparten el interés de contar con una plataforma eficiente que asegure el control y la conservación de sus productos.
 
--Limitada información en tiempo real para tomar decisiones.
+#### ¿Por qué? (Why)
 
-#How (Cómo):
-Esto ocasiona pérdidas por caducidad, desperdicio de recursos, desorganización del espacio y mayores dificultades para dar seguimiento al flujo de productos.
+Las causas del problema responden, en primer lugar, a la persistencia del uso de métodos manuales de registro y control, que suelen generar errores humanos y demoras en la gestión. En segundo lugar, la inexistencia de sistemas integrados para la trazabilidad y la conservación impide que los datos estén centralizados y disponibles en tiempo real. Asimismo, la falta de aplicación de guías de conservación durante el almacenamiento y transporte repercute en la calidad de los productos. Finalmente, los sistemas tradicionales, que en muchos casos son costosos y poco adaptables, no ofrecen la escalabilidad que las organizaciones modernas requieren frente al crecimiento de sus operaciones.
 
-#How Much (Cuánto):
+#### ¿Cómo? (How)
 
-Se estima que entre un 5% y 15% de los productos almacenados pueden perderse por deterioro o caducidad sin una gestión adecuada. Esto genera impacto económico, social y ambiental, pues aumenta el desperdicio y reduce la eficiencia en el uso de recursos. 
+La solución propuesta se presenta en la forma de Storigent, una plataforma digital orientada a la gestión integral de inventarios. Esta herramienta centraliza los procesos en un sistema único que permite monitorear los niveles de inventario en tiempo real, aplicar protocolos de conservación en todas las etapas del ciclo logístico y garantizar la trazabilidad de los productos desde el almacenamiento hasta el transporte. Su diseño accesible y escalable ofrece ventajas significativas frente a la dispersión de datos que caracteriza a los métodos actuales, al tiempo que contribuye a la optimización de costos y a la mejora de la eficiencia operativa.
+
+#### ¿Cuánto? (How Much)
+
+La ineficiencia en la gestión de inventarios representa un costo considerable para las organizaciones, ya sea por pérdidas asociadas al deterioro de productos, por excesos de stock que inmovilizan capital o por quiebres de inventario que afectan la satisfacción del cliente. La implementación de Storigent supone una inversión estimada de S/ 140,000, con un potencial de reducción de hasta un 30% en los costos logísticos. Esto la convierte en una propuesta no solo viable, sino también rentable, dado que su retorno de inversión puede alcanzarse en un horizonte de corto plazo, fortaleciendo la sostenibilidad de las operaciones.
 
 
 ### 1.2.2 Lean UX Process  
 #### 1.2.2.1. Lean UX Problem Statements  
 
-En un escenario donde la administración de inventarios y la trazabilidad logística son determinantes para la competitividad, se identifica la necesidad de contar con una plataforma digital que permita controlar, conservar y transportar productos de manera eficiente. Esta solución debe ofrecer a empresas y emprendedores una experiencia práctica, confiable y adaptable a sus operaciones.  
+En la actualidad, la gestión de inventarios y la trazabilidad logística representan elementos esenciales para la competitividad de cualquier organización. Sin embargo, muchas empresas y emprendedores aún carecen de una herramienta tecnológica que les permita administrar, conservar y transportar sus productos de manera eficiente y coordinada. Esta carencia genera dificultades en el control en tiempo real, provoca pérdidas por deterioro o desabastecimiento, y limita la capacidad de tomar decisiones informadas basadas en datos precisos.
 
-Como equipo, asumimos el compromiso de abordar este reto en conjunto con los usuarios que requieren optimizar la gestión de inventarios y con las organizaciones interesadas en mejorar su trazabilidad y reducir pérdidas. Nuestro enfoque estará en comprender a fondo sus necesidades y expectativas para diseñar y desarrollar una solución innovadora que responda integralmente a sus requerimientos.  
+Ante esta situación, nuestro equipo asume el desafío de desarrollar una plataforma digital integral que atienda estas necesidades, ofreciendo una experiencia accesible, confiable y adaptable a diferentes contextos operativos. El propósito es colaborar estrechamente con los usuarios para comprender sus procesos, identificar puntos críticos y diseñar una solución innovadora que optimice la gestión de inventarios, fortalezca la trazabilidad y contribuya a la sostenibilidad de las operaciones logísticas.  
 
 ---
 
 #### 1.2.2.2. Lean UX Assumptions  
 
-**Business Assumptions**  
+Business Assumptions
 
-1. **Demanda de mercado**: Suponemos que emprendedores y empresas de distintos tamaños enfrentan dificultades frecuentes en la gestión de inventarios y necesitan herramientas tecnológicas que les ayuden a disminuir errores, optimizar procesos y mejorar la trazabilidad.  
-2. **Disposición al uso**: Suponemos que los usuarios estarán abiertos a dejar los métodos manuales (como hojas de cálculo o registros físicos) para adoptar una solución digital siempre que sea intuitiva, accesible y fácil de usar.  
-3. **Impacto económico positivo**: Suponemos que Storigent reducirá costos operativos al minimizar pérdidas por exceso de stock, deterioro de productos y problemas en transporte, lo que facilitará la recuperación de la inversión.  
-4. **Accesibilidad tecnológica**: Suponemos que la mayoría de usuarios tiene acceso a internet y dispositivos móviles o computadoras, lo que permitirá implementar Storigent sin limitaciones de infraestructura.  
-5. **Escalabilidad**: Suponemos que la plataforma podrá crecer con el negocio, desde un pequeño inventario inicial hasta operaciones de mayor volumen y complejidad.  
-6. **Confianza y adopción**: Suponemos que al integrar gestión de inventarios, guías de conservación y trazabilidad, Storigent se diferenciará de soluciones parciales, logrando confianza y lealtad de los usuarios.  
+Demanda del mercado: Suponemos que tanto pequeñas como grandes organizaciones enfrentan deficiencias en la gestión de inventarios y requieren soluciones tecnológicas que integren control, trazabilidad y conservación para mejorar su desempeño operativo.
 
-**User Assumptions**  
+Adopción tecnológica: Suponemos que los usuarios estarán dispuestos a abandonar los métodos manuales o dispersos si la herramienta propuesta es intuitiva, fácil de implementar y no requiere altos conocimientos técnicos.
 
-- Los usuarios buscan una solución integral que combine inventarios, conservación y trazabilidad.  
-- Valoran la accesibilidad y la conveniencia de usar la plataforma desde cualquier lugar y dispositivo.  
-- Están dispuestos a invertir en una herramienta confiable que reduzca errores y aumente la eficiencia.  
-- Esperan que las guías de conservación sean simples y aplicables a sus negocios.  
-- Dan importancia a la seguridad y transparencia en la gestión de datos y operaciones.  
+Rentabilidad del sistema: Suponemos que la implementación de Storigent reducirá significativamente los costos derivados del deterioro de productos, errores en el registro y falta de seguimiento, generando un retorno de inversión atractivo.
 
----
+Disponibilidad tecnológica: Suponemos que los usuarios disponen de acceso estable a internet y de dispositivos móviles o computadoras, lo que permite el uso eficiente de la plataforma en distintos contextos empresariales.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements  
+Capacidad de crecimiento: Suponemos que Storigent será capaz de escalar junto con las necesidades del usuario, acompañando el crecimiento de sus operaciones sin afectar el rendimiento del sistema.
 
-- Creemos que emprendedores y empresas requieren una solución integral que permita gestionar inventarios, conservar productos y asegurar la trazabilidad en transporte.  
-- Creemos que si ofrecemos una plataforma accesible y sencilla, los usuarios la preferirán frente a métodos manuales o herramientas aisladas.  
-- Creemos que al brindar datos claros y en tiempo real, los usuarios podrán reducir errores, mejorar la eficiencia y disminuir pérdidas por deterioro o exceso de stock.  
-- Creemos que si garantizamos seguridad y transparencia en la información, los usuarios confiarán en Storigent e integrarán la plataforma a sus operaciones.  
-- Creemos que al evidenciar un impacto positivo en la reducción de costos y riesgos, los usuarios estarán dispuestos a invertir en Storigent como una solución sostenible y escalable.  
+Confianza en la solución: Suponemos que la integración de funciones de monitoreo, trazabilidad y conservación generará mayor confianza, diferenciando a Storigent de otras herramientas fragmentadas del mercado.
+
+User Assumptions
+
+Los usuarios necesitan una solución unificada que centralice la gestión de inventarios, el control de conservación y la trazabilidad logística.
+
+Valoran la posibilidad de acceder a la plataforma desde diferentes dispositivos, priorizando la usabilidad y la disponibilidad en tiempo real.
+
+Están dispuestos a invertir en una herramienta que les permita reducir pérdidas y aumentar la eficiencia de sus operaciones.
+
+Buscan funciones claras, personalizables y acordes a las características de sus productos.
+
+Consideran fundamental la seguridad, transparencia y fiabilidad en el manejo de sus datos operativos.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+Creemos que los emprendedores y empresas podrán mejorar la eficiencia y el control de sus operaciones si utilizan una plataforma digital integral que centralice la gestión de inventarios, la conservación de productos y la trazabilidad del transporte.
+
+Creemos que si proporcionamos una herramienta accesible, intuitiva y adaptable, los usuarios estarán más dispuestos a sustituir los métodos manuales y las soluciones fragmentadas por Storigent.
+
+Creemos que al ofrecer información precisa y actualizada en tiempo real, los usuarios lograrán una toma de decisiones más ágil, una reducción de errores y un control más eficiente del flujo de productos.
+
+Creemos que si garantizamos altos estándares de seguridad y transparencia en el manejo de los datos, los usuarios desarrollarán confianza en Storigent e incorporarán la plataforma de forma sostenida en sus operaciones.
+
+Creemos que al demostrar resultados medibles en la disminución de costos logísticos y pérdidas operativas, los usuarios percibirán a Storigent como una inversión rentable y una herramienta sostenible a largo plazo. 
 
 ---
 
@@ -498,15 +508,15 @@ Como equipo, asumimos el compromiso de abordar este reto en conjunto con los usu
 
 | **1. Business problem** | **5. Solutions** | **2. Business outcomes** |
 |--------------------------|------------------|---------------------------|
-| En el Perú, muchas empresas y emprendedores sufren pérdidas económicas debido a una gestión ineficiente de inventarios, falta de trazabilidad en transporte y ausencia de guías de conservación. Esto ocasiona errores, mermas, sobrecostos logísticos y desorden operativo, afectando su competitividad y sostenibilidad. | <br><br>• Sistema inteligente de registro y control de inventarios.<br>• Guías de conservación y recomendaciones por tipo de producto.<br>• Reportes automáticos de pérdidas, rotación y alertas de stock.<br>• Interfaz amigable accesible desde la web.<br>• Gestión de usuarios, roles y permisos para empresas. | • Optimizar la gestión de inventarios y reducir pérdidas.<br>• Mejorar la trazabilidad de productos durante el transporte.<br>• Ofrecer una plataforma adaptable tanto a pequeños como a grandes negocios. |
+| En el Perú, muchas empresas y emprendedores enfrentan pérdidas económicas debido a una gestión ineficiente de inventarios, falta de trazabilidad durante el transporte y ausencia de prácticas adecuadas de conservación. Estas deficiencias generan errores, mermas, sobrecostos logísticos y desorden operativo, afectando directamente su competitividad y sostenibilidad. | <br><br>• Plataforma digital integral para el registro, control y monitoreo de inventarios.<br>• Módulo de guías de conservación automatizadas según el tipo de producto.<br>• Panel de reportes con métricas de pérdidas, rotación, niveles de stock y alertas en tiempo real.<br>• Interfaz web adaptable e intuitiva accesible desde cualquier dispositivo.<br>• Sistema de gestión de usuarios, roles y permisos para equipos empresariales. | • Reducir pérdidas económicas y errores operativos asociados a una mala gestión de inventarios.<br>• Mejorar la trazabilidad de los productos en toda la cadena logística.<br>• Aumentar la eficiencia y sostenibilidad mediante una plataforma escalable y confiable. |
 
 | **3. Users** |   | **4. User outcomes and benefits** |
 |--------------|---|-----------------------------------|
-| • Empresas pequeñas y grandes: buscan reducir costos, mejorar control operativo y asegurar trazabilidad en toda la cadena.<br><br>• Emprendedores: requieren una solución práctica, económica y sencilla para gestionar inventarios desde el inicio y crecer ordenadamente. |   | • Minimizar errores en inventarios.<br>• Reducir pérdidas por conservación inadecuada.<br>• Obtener trazabilidad en tiempo real.<br>• Aumentar eficiencia con una herramienta intuitiva.<br>• Escalar el negocio con una solución flexible. |
+| • **Empresas pequeñas, medianas y grandes:** buscan optimizar costos, mejorar el control operativo y asegurar la trazabilidad en todas las etapas de la cadena.<br><br>• **Emprendedores:** requieren una solución accesible, sencilla y adaptable que les permita organizar su inventario desde el inicio y acompañe su crecimiento. |   | • Disminuir errores de registro y pérdidas por mala conservación.<br>• Contar con trazabilidad y monitoreo en tiempo real.<br>• Simplificar tareas mediante una interfaz clara y adaptable.<br>• Incrementar la eficiencia operativa y la toma de decisiones con datos precisos.<br>• Escalar su negocio utilizando una herramienta tecnológica flexible y confiable. |
 
 | **6. Hypothesis** | **7. ¿Qué es lo más importante que debemos aprender primero?** | **8. ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?** |
 |-------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| • Creemos que los usuarios adoptarán una app integral de inventarios si esta reduce errores y pérdidas económicas.<br>• Sabremos que hemos tenido éxito si al menos el 60% de usuarios reporta una reducción en pérdidas en los primeros 3 meses.<br>• Creemos que las guías de conservación representan un valor clave.<br>• Sabremos que hemos tenido éxito si al menos el 50% de usuarios las utiliza con frecuencia. | • Si las empresas están dispuestas a digitalizar sus procesos.<br>• Qué interés real existe en la trazabilidad en distintos sectores.<br>• Si las guías de conservación resultan útiles y aplicables.<br>• Qué barreras de adopción tecnológica enfrentan los usuarios. | • Crear un landing page con la propuesta de valor.<br>• Realizar entrevistas a emprendedores y empresas.<br>• Desarrollar un video demostrativo que muestre beneficios y casos de uso. |  
+| • Creemos que los emprendedores y empresas adoptarán una plataforma integral de gestión de inventarios si esta les permite reducir pérdidas y aumentar el control operativo.<br>• Sabremos que hemos tenido éxito si al menos el 60% de los usuarios reporta una mejora en la eficiencia y una reducción del 25% en pérdidas dentro de los tres primeros meses de uso.<br>• Creemos que las guías de conservación y el monitoreo de condiciones aportan valor directo al usuario.<br>• Sabremos que hemos tenido éxito si al menos el 50% de los usuarios activos utiliza estas funciones de manera constante. | • Determinar si las empresas y emprendedores están dispuestos a digitalizar la gestión de inventarios y trazabilidad.<br>• Identificar qué tan relevantes y aplicables resultan las guías de conservación en diferentes sectores.<br>• Conocer las principales barreras de adopción tecnológica (costos, capacitación, confianza en datos).<br>• Validar el interés real en herramientas que integren inventario, conservación y transporte. | • Crear una **landing page** con la propuesta de valor y formulario de interés.<br>• Realizar entrevistas y encuestas a empresas y emprendedores para identificar puntos críticos.<br>• Desarrollar un prototipo funcional o video demostrativo que muestre los beneficios clave de Storigent y recopile feedback temprano. |
 
 ---
 
@@ -1996,9 +2006,70 @@ La navegación está diseñada para usuarios registrados (empresas y emprendedor
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+Se presentan los wireframes de la aplicación web de Storigent, diseñados para optimizar la experiencia del usuario en la gestión de inventarios y trazabilidad. Los wireframes muestran la estructura básica de las diferentes secciones de la aplicación, incluyendo el reports menu, inventory, monitoring, shipment, product y support.
+
+## Login y Register
+
+<img src="static/img/chapter 4/img-wireframe-login.png"></img>
+<img src="static/img/chapter 4/img-wireframe-register.png"></img>
+## Reports
+
+<img src="static/img/chapter 4/img-wireframe-reports.png"></img>
+<img src="static/img/chapter 4/img-wireframe-reports2.png"></img>
+## Inventory
+
+<img src="static/img/chapter 4/img-wireframe-inventory.png"></img>
+<img src="static/img/chapter 4/img-wireframe-inventory2.png"></img>
+## Monitoring
+
+<img src="static/img/chapter 4/img-wireframe-monitoring.png"></img>
+## Product
+
+<img src="static/img/chapter 4/img-wireframe-product.png"></img>
+
+## Shipment
+
+<img src="static/img/chapter 4/img-wireframe-shipment.png"></img>
+
+## Support
+
+<img src="static/img/chapter 4/img-wireframe-support.png"></img>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+
+<img src="static/img/chapter 4/wireflow.png"></img>
+
 ### 4.4.2. Web Applications Mock-ups
+
+Se presentan los mock-ups de la aplicación web de Storigent, que reflejan el diseño visual final basado en las directrices de estilo establecidas. Los mock-ups incluyen detalles como tipografía, colores, imágenes y botones, proporcionando una vista previa realista de cómo se verá la aplicación en producción.
+
+## Login y Register
+<img src="static/img/chapter 4/img-login.png"></img>
+
+<img src="static/img/chapter 4/img-register.png"></img>
+## Reports
+<img src="static/img/chapter 4/img-reports.png"></img>
+
+<img src="static/img/chapter 4/img-reports2.png"></img>
+## Inventory
+<img src="static/img/chapter 4/img-inventory1.png"></img>
+
+<img src="static/img/chapter 4/img-inventory2.png"></img>
+## Monitoring
+<img src="static/img/chapter 4/img-monitoring.png"></img>
+## Product
+<img src="static/img/chapter 4/img-product.png"></img>
+## Shipment
+<img src="static/img/chapter 4/img-shipment.png"></img>
+## Support
+<img src="static/img/chapter 4/img-support.png"></img>
+
+
 ### 4.4.3. Web Applications User Flow Diagrams
+
+<img src="static/img/chapter 4/web app user flow.png"></img>
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
@@ -2023,7 +2094,585 @@ El Design Level Event Storming (DLES) se ejecutó para pasar del entendimiento g
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+En esta sección el equipo presenta y explica el Class Diagram de UML para cada producto de software y, cuando es aplicable, para cada *bounded context*.  
+El nivel de detalle incluye, además de las clases, interfaces, enumeraciones y sus relaciones, los miembros de cada clase (atributos, métodos y su visibilidad: `private`, `public`, `protected`).  
+Las relaciones muestran la calificación con nombres, la dirección (cuando aplica) y la multiplicidad.  
+
+### Diagrama de Clases - Bounded Contexts Principales
+![Class Diagram 1](static/img/chapter%204/img-class-diagram.png)
+
+- Este diagrama representa los seis bounded contexts principales, considerados los más pesados e importantes del sistema.  
+Se detallan las clases fundamentales que forman la base del dominio, con sus atributos, métodos y relaciones claves.  
+Este modelo constituye la estructura central sobre la cual se desarrollan las funcionalidades críticas del producto.*
+
+### Diagrama de Clases - Bounded Contexts Secundarios
+![Class Diagram 2](static/img/chapter%204/img-class-diagram-2.png)
+
+- En este segundo diagrama se presentan los bounded contexts secundarios, aquellos de menor peso dentro del dominio.  
+Incluye clases de soporte y contextos complementarios, los cuales, aunque no son tan relevantes como los principales, permiten completar la visión global del sistema y asegurar la cohesión entre los distintos módulos.*
+
 ### 4.7.2. Class Dictionary
+## 1. Stock Management (Gestión de Inventario)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>WarehouseManager</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del gestor de almacén.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del gestor de almacén.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="4"><b>ProductStock</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del stock de producto.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>productName</td>
+            <td><code>String</code></td>
+            <td>Nombre del producto.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>quantity</td>
+            <td><code>int</code></td>
+            <td>Cantidad actual del producto en stock.</td>
+            <td>NOT NULL, &ge; 0</td>
+        </tr>
+        <tr>
+            <td>threshold</td>
+            <td><code>int</code></td>
+            <td>Nivel mínimo de stock permitido (umbral).</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>StockThresholdPolicy</b></td>
+            <td>minQuantity</td>
+            <td><code>int</code></td>
+            <td>Cantidad mínima definida por la política.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 2. Subscriptions and Payment Management (Gestión de Suscripciones y Pagos)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3"><b>Customer</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del cliente.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del cliente.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>email</td>
+            <td><code>String</code></td>
+            <td>Correo electrónico del cliente.</td>
+            <td>UNIQUE, NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="4"><b>SubscriptionPlan</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del plan.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del plan de suscripción.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>price</td>
+            <td><code>double</code></td>
+            <td>Precio del plan.</td>
+            <td>NOT NULL, &gt; 0</td>
+        </tr>
+        <tr>
+            <td>durationMonths</td>
+            <td><code>int</code></td>
+            <td>Duración del plan en meses.</td>
+            <td>NOT NULL, &gt; 0</td>
+        </tr>
+        <tr>
+            <td rowspan="3"><b>Payment</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del pago.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>amount</td>
+            <td><code>double</code></td>
+            <td>Monto pagado.</td>
+            <td>NOT NULL, &gt; 0</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td><code>Date</code></td>
+            <td>Fecha y hora en que se realizó el pago.</td>
+            <td>DEFAULT CURRENT\_TIMESTAMP</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 3. Dashboard and Analytics (Panel de Control y Analítica)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>Dashboard</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del panel.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>title</td>
+            <td><code>String</code></td>
+            <td>Título del panel o vista.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Report</b> (Abstracta)</td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del reporte.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>date</td>
+            <td><code>Date</code></td>
+            <td>Fecha de generación del reporte.</td>
+            <td>DEFAULT CURRENT\_DATE</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 4. Sensor Data Ingestion (Ingesta de Datos de Sensores)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>IoTSystem</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del sistema IoT.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del sistema o unidad IoT.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Sensor</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del sensor.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td><code>String</code></td>
+            <td>Tipo de sensor (e.g., temperatura, humedad).</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>RawDataBuffer</b></td>
+            <td>data</td>
+            <td><code>String</code></td>
+            <td>Datos brutos capturados por el sensor.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 5. Quality & Conservation Check (Verificación de Calidad y Conservación)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>EnvironmentalCondition</b></td>
+            <td>temperature</td>
+            <td><code>double</code></td>
+            <td>Nivel de temperatura.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>humidity</td>
+            <td><code>double</code></td>
+            <td>Nivel de humedad.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>AnalyzeConditionPolicy</b></td>
+            <td>strategy</td>
+            <td><code>ConditionPolicy</code></td>
+            <td>La política específica de análisis que se va a aplicar.</td>
+            <td>NOT NULL (Referencia a Strategy)</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 6. Shipment Planning & Tracking (Planificación y Seguimiento de Envíos)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>Shipment</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del envío/transferencia.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>status</td>
+            <td><code>String</code></td>
+            <td>Estado actual del envío.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Tracking</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del registro de seguimiento.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>location</td>
+            <td><code>String</code></td>
+            <td>Ubicación actual registrada.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 7. Identity and Access Management (Gestión de Identidad y Acceso)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2"><b>AdminUser</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del usuario administrador.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre del administrador.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="3"><b>UserAccount</b></td>
+            <td>userId</td>
+            <td><code>int</code></td>
+            <td>Identificador de la cuenta de usuario.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>username</td>
+            <td><code>String</code></td>
+            <td>Nombre de usuario para inicio de sesión.</td>
+            <td>UNIQUE, NOT NULL</td>
+        </tr>
+        <tr>
+            <td>passwordHash</td>
+            <td><code>String</code></td>
+            <td>Hash de la contraseña.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>Role</b></td>
+            <td>roleName</td>
+            <td><code>String</code></td>
+            <td>Nombre del rol de acceso.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 8. Profiles and Preferences Management (Gestión de Perfiles y Preferencias)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3"><b>User</b></td>
+            <td>id</td>
+            <td><code>int</code></td>
+            <td>Identificador único del usuario general.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>name</td>
+            <td><code>String</code></td>
+            <td>Nombre completo del usuario.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>email</td>
+            <td><code>String</code></td>
+            <td>Correo electrónico del usuario.</td>
+            <td>UNIQUE, NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>UserProfile</b></td>
+            <td>profileId</td>
+            <td><code>int</code></td>
+            <td>Identificador único del perfil.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>preferences</td>
+            <td><code>Preferences</code></td>
+            <td>Objeto que contiene las preferencias del usuario.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>Preferences</b></td>
+            <td>notificationEnabled</td>
+            <td><code>boolean</code></td>
+            <td>Indica si las notificaciones están activadas.</td>
+            <td>DEFAULT true</td>
+        </tr>
+        <tr>
+            <td>thresholds</td>
+            <td><code>Map&lt;String,Double&gt;</code></td>
+            <td>Umbrales de alerta personalizados.</td>
+            <td>Opcional</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>CompanyPreferences</b></td>
+            <td>companyId</td>
+            <td><code>int</code></td>
+            <td>Identificador único de la empresa.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>settings</td>
+            <td><code>Map&lt;String,String&gt;</code></td>
+            <td>Configuración general de la empresa.</td>
+            <td>Opcional</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 9. Condition Analysis (Análisis de Condiciones)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3"><b>EnvironmentalCondition</b></td>
+            <td>temperature</td>
+            <td><code>double</code></td>
+            <td>Nivel de temperatura.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>humidity</td>
+            <td><code>double</code></td>
+            <td>Nivel de humedad.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>co2Level</td>
+            <td><code>double</code></td>
+            <td>Nivel de $\text{CO}_2$.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td><b>AnalysisEngine</b></td>
+            <td>policy</td>
+            <td><code>ConditionPolicy</code></td>
+            <td>La política de condición a utilizar para el análisis.</td>
+            <td>NOT NULL (Referencia a Strategy)</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## 10. Tracking Status (Estado de Seguimiento)
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Atributo</th>
+            <th>Tipo</th>
+            <th>Descripción</th>
+            <th>Restricciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>GPSTrackingSystem</b></td>
+            <td>gpsId</td>
+            <td><code>int</code></td>
+            <td>Identificador único del sistema GPS.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td rowspan="3"><b>Coordinates</b></td>
+            <td>latitude</td>
+            <td><code>double</code></td>
+            <td>Latitud de la ubicación.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>longitude</td>
+            <td><code>double</code></td>
+            <td>Longitud de la ubicación.</td>
+            <td>NOT NULL</td>
+        </tr>
+        <tr>
+            <td>timestamp</td>
+            <td><code>Date</code></td>
+            <td>Marca de tiempo del registro.</td>
+            <td>DEFAULT CURRENT\_TIMESTAMP</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><b>TrackingMap</b></td>
+            <td>mapId</td>
+            <td><code>int</code></td>
+            <td>Identificador único del mapa de seguimiento.</td>
+            <td>PRIMARY KEY</td>
+        </tr>
+        <tr>
+            <td>locations</td>
+            <td><code>List&lt;Coordinates&gt;</code></td>
+            <td>Lista de coordenadas a mostrar en el mapa.</td>
+            <td>Opcional</td>
+        </tr>
+        <tr>
+            <td rowspan="1"><b>TrackingHistory</b></td>
+            <td>history</td>
+            <td><code>List&lt;Coordinates&gt;</code></td>
+            <td>Lista histórica de coordenadas.</td>
+            <td>NOT NULL</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
@@ -2138,6 +2787,28 @@ Estas convenciones se emplearon en los entornos utilizados durante el proceso de
 **4. Versionado y Commits Semánticos:** Crearemos ramas como ```feat/choose-your-plan-view``` y ```fix/contact-form```; y redactaremos commits como ```feat: add validation in register button``` y ```fix: unexpected behavior of calculate function```.   
 
 ### 5.1.4. Software Deployment Configuration
+
+#### Landing Page Deployment
+
+Para poder realizar el despliegue de la landing page utilizando GitHub Pages, debemos seguir los siguientes pasos.
+
+**Paso 1**: En el repositorio de la landing page, ingresamos a las pestaña de "Settings" al dar clic sobre el botón con el mismo nombre ubicado en la barra de menú de la página.
+
+![landing-page-deployment-config-1.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-1.png)
+
+**Paso 2**: Una vez dentro, buscamos entre las diferentes opciones, la que se llama "Pages".
+
+![landing-page-deployment-config-2.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-2.png)
+
+**Paso 3**: Dentro de la "Pages", buscamos la sección de "Build and Deployment". En "Source", nos aseguramos de elegir la opción "Deploy from a branch" y en "Branch", seleccionamos la rama principal del proyecto. Finalmente le daremos clic a "Save".
+
+![landing-page-deployment-config-3.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-3.png)
+
+**Paso 4**: Después de este proceso, esperaremos unos minutos a que GitHub despliegue la landing page y volvemos a la página principal del repositorio. Allí mismo podremos encontrar una nueva sección, llamada "Deployments", en el lado derecho de la página. Al dar clic allí se nos proporcionará el link hacia la página web desplegada.
+
+![landing-page-deployment-config-4.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-4.png)
+![landing-page-deployment-config-5.png](static/img/chapter%205/landing-page/deployment/configuration/landing-page-deployment-config-5.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
