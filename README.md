@@ -3436,23 +3436,23 @@ En el segundo sprint, logramos desarrollar la primera versión del frontend de S
 
 - **Vista Reports:** En esta vista, el usuario podrá visualizar los reportes generados por la plataforma.
 
-_Imagen aquí_
+![img-reports.png](static/img/chapter%204/img-reports.png)
 
 - **Vista Inventory:** En esta vista, el usuario podrá gestionar el inventario de un almacén.
 
-_Imagen aquí_
+![img-inventory1.png](static/img/chapter%204/img-inventory1.png)
 
 - **Vista Products:** En esta vista, el usuario podrá gestionar los productos almacenados en un almacén.
 
-_Imagen aquí_
+![img-product.png](static/img/chapter%204/img-product.png)
 
 - **Vista Monitoring:** En esta vista, el usuario podrá monitorear las condiciones climáticas dentro de los almacenes.
 
-_Imagen aquí_
+![img-monitoring.png](static/img/chapter%204/img-monitoring.png)
 
 - **Vista Support:** En esta vista, el usuario recibirá recomendaciones para el mantenimiento de los almacenes.
 
-_Imagen aquí_
+![img-support.png](static/img/chapter%204/img-support.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
