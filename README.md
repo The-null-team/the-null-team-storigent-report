@@ -3165,6 +3165,258 @@ A continuación, se presentan capturas de los analíticos de colaboración desde
 
 Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Sprint #</th>
+            <td>Sprint 2</td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Planning Background</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>2025-09-28</td>
+        </tr>
+        <tr>
+            <th>Time</th>
+            <td>08:00 PM</td>
+        </tr>
+        <tr>
+            <th>Location</th>
+            <td>Reunión virtual a través de Google Meet</td>
+        </tr>
+        <tr>
+            <th>Prepared by</th>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+        </tr>
+        <tr>
+            <th>Attendees (to planning meeting)</th>
+            <td>Calixto Iriarte, David Alejandro; Céspedes Pillco, Jarod Jack; Espinar Martinez, Gabriel Ferran; Tello Murga, Gabriel Oswaldo; Zagaceta Bardales, Rodrigo Enrique; Meza Tataje, David</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Review Summary</th>
+            <td>In the previous sprint, we focused on deploying our Landing Page. To achieve this, we divided tasks and set deadlines for ourselves. So we could agilize the implementation and deployment of the Landing Page.</td>
+        </tr>
+        <tr>
+            <th>Sprint 1 Retrospective Summary</th>
+            <td></td>
+        </tr>
+        <tr>
+            <th colspan="2">Sprint Goal & User Stories</th>
+        </tr>
+        <tr>
+            <th>Sprint 2 Goal</th>
+            <td>Our focues is on deploying the first version of our landing page. We believe it delivers satisfaction and confidence to our team and future users. This will be confirmed when all the members of the team and a end-users navigates our landing page without any issues.</td>
+        </tr>
+        <tr>
+            <th>Sprint 2 Velocity</th>
+            <td>25 Story Points</td>
+        </tr>
+        <tr>
+            <th>Sum of Story Points</th>
+            <td>25 Story Points</td>
+        </tr>
+    </table>
+</div>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+En este sprint se busca crear una primera versión del frontend de nuestra aplicación, Storigent. Para lograr una buena comunicación y un buen desarrollo de las tareas a hacer, hemos creado una matriz de liderazgo y colaboración (LACX), en la cual se define quien lidera y quien colabora en cada aspecto del sprint.
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Team Member (Last Name, First Name)</th>
+            <th>Github Username</th>
+            <th>Diseño Frontend</th>
+            <th>Despliegue Frontend</th>
+        </tr>
+        <tr>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td>DavidCalixto99</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td>PruebaJJC</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Espinar Matínez, Gabriel Ferran</td>
+            <td>zzZero14</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Meza Tataje, David</td>
+            <td>de1vi</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td>JavierTello20</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Rodrigo290205</td>
+            <td>Collaborator</td>
+            <td>Collaborator</td>
+        </tr>
+    </table>
+</div>
+
+#### 5.2.2.3. Sprint Backlog 2
+
+El objetivo principal del segundo spring es desarrollar y desplegar la primera versión del frontend del proyecto Storigent. A continuación se muestran las historias de usuario que se buscan trabajar en este sprint.
+
+<div align="center">
+    <table>
+        <tr>
+            <th colspan="1">Sprint #</th>
+            <th colspan="7">Sprint 2</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">Work-Item / Task</th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status (To-Do / In-Process / To-Review / Done)</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+En esta sección presentamos los avances en el desarrollo del frontend correspondiente al objetivo del sprint actual.
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit On (Date)</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el segundo sprint, logramos desarrollar la primera versión del frontend de Storigent, donde se muestran las funcionalidades que los usuarios visualizarán e interactuarán. A continuación mostraremos algunas evidencias:
+
+- **Vista Reports:** En esta vista, el usuario podrá visualizar los reportes generados por la plataforma.
+
+_Imagen aquí_
+
+- **Vista Inventory:** En esta vista, el usuario podrá gestionar el inventario de un almacén.
+
+_Imagen aquí_
+
+- **Vista Products:** En esta vista, el usuario podrá gestionar los productos almacenados en un almacén.
+
+_Imagen aquí_
+
+- **Vista Monitoring:** En esta vista, el usuario podrá monitorear las condiciones climáticas dentro de los almacenes.
+
+_Imagen aquí_
+
+- **Vista Support:** En esta vista, el usuario recibirá recomendaciones para el mantenimiento de los almacenes.
+
+_Imagen aquí_
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el desarrollo de este sprint, no se implementaron ni documentaron Web Services, dado que el enfoque principal estuvo en la implementación del frontend de la Aplicación Web, con todas sus vistas. Por lo tanto, no se cuenta con endpoints disponibles ni documentación generada en OpenAPI en esta etapa del proyecto.
+
+La documentación de servicios será considerada en los siguintes Sprints, una vez que se inicie el desarrollo de backend y se establezca la estructura básica de la API que permitirá la integración con las vistas web implementadas.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante este sprint se logró desplegar con éxito la aplicación web de Storigent en GitHub Pages. A continuación, mostraremos algunas evidencias del proceso de despliegue de esta primera versión del frontend de nuestro proyecto, Storigent:
+
+_Evidencias aquí_
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint 2
+
+Durante el desarrollo del Sprint, cada miembro del equipo participó activamente en la implementación de la primera versión del frontend de nuestro proyecto, Storigent, dividiéndose por secciones según la vista y funcionalidad definida previamente.
+A continuación, detallamos la participación específica de cada integrante del equipo:
+
+<div align="center">
+    <table>
+        <tr>
+            <th>Nombre</th>
+            <th>Actividades</th>
+        </tr>
+        <tr>
+            <td>Calixto Iriarte, David Alejandro</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cespedes Pillco, Jarod Jack</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Espinar Martínez, Gabriel Ferran</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Meza Tataje, David</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Tello Murga, Javier Oswaldo</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+**Evidencia de Colaboración en GitHub**   
+A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
+
+_Imagen aquí_
+
+**Repositorio de Trabajo:** _link aquí_
+
+Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
+
 # Conclusiones
 
 El desarrollo del proyecto Storigent ha permitido consolidar una propuesta tecnológica innovadora orientada a mejorar la gestión y conservación de inventarios en diversos sectores empresariales. Desde sus primeras etapas, se definió con claridad el propósito del software, centrado en la optimización de recursos mediante el uso de tecnologías como RFID y monitoreo climatológico, lo cual garantiza una trazabilidad eficiente en el transporte y almacenamiento de productos. Esta visión responde a necesidades reales del mercado, especialmente en empresas que requieren control riguroso de sus materiales y condiciones de conservación.
