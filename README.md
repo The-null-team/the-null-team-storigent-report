@@ -2529,3 +2529,10 @@ Codina, L. (2019). Bibliografía sobre investigación cualitativa. Recuperado de
 
 ### Anexo B: Videos de Exposiciones
 - TB1: [Exposición TB1]()
+
+### Anexo C: Landing Page, Web Application and Web Services Deployed
+- Landing Page: [Landing Page Storigent](https://the-null-team.github.io/storigent-landing-page/)
+
+#### Anexo D: Repositorios de GitHub
+- Reporte: [Storigent Report](https://github.com/The-null-team/the-null-team-storigent-report)
+- Web Application: [Storigent Web Application](https://github.com/The-null-team/storigent-web-app)
