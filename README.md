@@ -3202,15 +3202,11 @@ Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo 
             <td>In the previous sprint, we focused on deploying our Landing Page. To achieve this, we divided tasks and set deadlines for ourselves. So we could agilize the implementation and deployment of the Landing Page.</td>
         </tr>
         <tr>
-            <th>Sprint 1 Retrospective Summary</th>
-            <td></td>
-        </tr>
-        <tr>
             <th colspan="2">Sprint Goal & User Stories</th>
         </tr>
         <tr>
             <th>Sprint 2 Goal</th>
-            <td>Our focues is on deploying the first version of our landing page. We believe it delivers satisfaction and confidence to our team and future users. This will be confirmed when all the members of the team and a end-users navigates our landing page without any issues.</td>
+            <td>Our focus is on deploying the first version of our application frontend. We believe that we'll accomplish a good frontend for our users to enjoy.</td>
         </tr>
         <tr>
             <th>Sprint 2 Velocity</th>
@@ -3250,7 +3246,7 @@ En este sprint se busca crear una primera versión del frontend de nuestra aplic
         <tr>
             <td>Espinar Matínez, Gabriel Ferran</td>
             <td>zzZero14</td>
-            <td>Collaborator</td>
+            <td>Leader</td>
             <td>Collaborator</td>
         </tr>
         <tr>
@@ -3269,7 +3265,7 @@ En este sprint se busca crear una primera versión del frontend de nuestra aplic
             <td>Zagaceta Bardales, Rodrigo Enrique</td>
             <td>Rodrigo290205</td>
             <td>Collaborator</td>
-            <td>Collaborator</td>
+            <td>Leader</td>
         </tr>
     </table>
 </div>
@@ -3299,14 +3295,114 @@ El objetivo principal del segundo spring es desarrollar y desplegar la primera v
             <th>Status (To-Do / In-Process / To-Review / Done)</th>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>US-07</td>
+            <td>Registro de Producto</td>
+            <td>TS-01</td>
+            <td>Diseño Formulario de Registro de Producto</td>
+            <td>Crear una vista que contenga un formulario donde el usuario pueda ingresar los datos de un producto y registrarlos en el inventario.</td>
+            <td>3</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-08</td>
+            <td>Actualización de Stock de un Producto</td>
+            <td>TS-02</td>
+            <td>Diseño Formulario de Actualización de Stock</td>
+            <td>Crear un vista que permita al usuario editar el stock de un producto registrado en el inventario.</td>
+            <td>3</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-09</td>
+            <td>Eliminación de un Producto</td>
+            <td>TS-03</td>
+            <td>Implementación de Acción de Eliminar Producto</td>
+            <td>Implementar una funcionalidad que permita al usuario eliminar un producto del inventario.</td>
+            <td>2</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-10</td>
+            <td>Categorización de Productos</td>
+            <td>TS-04</td>
+            <td>Implementación de Funcionalidad de Agrupamiento de Productos por Categoría</td>
+            <td>Crear una función que agrupe los productos de un inventario por categorías.</td>
+            <td>3</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>To-Review</td>
+        </tr>
+        <tr>
+            <td>US-11</td>
+            <td>Búsqueda de Productos</td>
+            <td>TS-05</td>
+            <td>Implementación de Barra de Búsqueda de Productos</td>
+            <td>Crear una barra de búsqueda que permita al usuario buscar productos por el nombre.</td>
+            <td>2</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US-12</td>
+            <td>Historial de Movimientos de Inventario</td>
+            <td>TS-06</td>
+            <td>Implementación de un Registro de Movimientos de Inventario</td>
+            <td>Crear una característica que registro todos los movimientos de entrada y salida que ocurran en el inventario.</td>
+            <td>4</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>US-13</td>
+            <td>Lectura de Sensores</td>
+            <td>TS-07</td>
+            <td>Implementación de un Lector de Datos de Sensores IoT</td>
+            <td>Crear una funcionalidad que permita leer los datos provistos por sensores IoT.</td>
+            <td>4</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>In-Progress</td>
+        </tr>
+        <tr>
+            <td>US-14</td>
+            <td>Alertas de Temperatura</td>
+            <td>TS-08</td>
+            <td>Implementación de un Sistema de Alertas basado en la Temperatura de un Almacén</td>
+            <td>Implementar una funcionalidad que genere alertas cuando la temperatura exceda los límites adecuados.</td>
+            <td>3</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>To-Review</td>
+        </tr>
+        <tr>
+            <td>US-15</td>
+            <td>Alertas de Humedad</td>
+            <td>TS-09</td>
+            <td>Implementación de un Sistema de Alertas basado en la Humedad de un Almacén</td>
+            <td>Implementar una funcionalidad que genere alertas cuando la humedad exceda los límites adecuados.</td>
+            <td>3</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>To-Review</td>
+        </tr>
+        <tr>
+            <td>US-16</td>
+            <td>Reportes Ambientales</td>
+            <td>TS-10</td>
+            <td>Implementación de una Funcionalidad que genere Reportes de las Condiciones Ambientales de un Almacén</td>
+            <td>Crear un generador de reportes que recolecte la información de la temperatura y humedad de un almacén dentro de un plazo definido.</td>
+            <td>5</td>
+            <td>Céspedes Pillco, Jarod Jack</td>
+            <td>In-Progress</td>
+        </tr>
+        <tr>
+            <td>US-17</td>
+            <td>Integración con RFID</td>
+            <td>TS-11</td>
+            <td>Implementación de tecnología RFID para el Ajuste Automático de las Condiciones Ambientales</td>
+            <td>Creación de una funcionalidad que permita al almacén regular automáticamente las recomendaciones sobre el control de las condiciones ambientales en base a los nuevos productos que se van registrando en un inventario.</td>
+            <td>6</td>
+            <td>Zagaceta Bardales, Rodrigo Enrique</td>
+            <td>To-Do</td>
         </tr>
     </table>
 </div>
@@ -3383,27 +3479,27 @@ A continuación, detallamos la participación específica de cada integrante del
         </tr>
         <tr>
             <td>Calixto Iriarte, David Alejandro</td>
-            <td></td>
+            <td>Implementación de la vista Shipment</td>
         </tr>
         <tr>
             <td>Cespedes Pillco, Jarod Jack</td>
-            <td></td>
+            <td>Implementación de la vista Monitoring</td>
         </tr>
         <tr>
             <td>Espinar Martínez, Gabriel Ferran</td>
-            <td></td>
+            <td>Implementación de la vista Product</td>
         </tr>
         <tr>
             <td>Meza Tataje, David</td>
-            <td></td>
+            <td>Implementación de la vista Reports</td>
         </tr>
         <tr>
             <td>Tello Murga, Javier Oswaldo</td>
-            <td></td>
+            <td>Implementación de la vista Support</td>
         </tr>
         <tr>
             <td>Zagaceta Bardales, Rodrigo Enrique</td>
-            <td></td>
+            <td>Implementación de la vista Inventory</td>
         </tr>
     </table>
 </div>
@@ -3411,9 +3507,9 @@ A continuación, detallamos la participación específica de cada integrante del
 **Evidencia de Colaboración en GitHub**   
 A continuación, se presentan capturas de los analíticos de colaboración desde el repositorio oficial, donde se evidencia la participación activa de todos los miembros del equipo.
 
-_Imagen aquí_
+![front-end-collab-evidence.png](static/img/chapter%205/landing-page/collaboration/front-end-collab-evidence.png)
 
-**Repositorio de Trabajo:** _link aquí_
+**Repositorio de Trabajo:** [https://github.com/The-null-team/storigent-web-app](https://github.com/The-null-team/storigent-web-app)
 
 Como se evidencia, el equipo ha trabajado colaborativamente respetando el flujo de trabajo y asegurando que cada producto del Sprint cuente con participación de todos los miembros del equipo.
 
